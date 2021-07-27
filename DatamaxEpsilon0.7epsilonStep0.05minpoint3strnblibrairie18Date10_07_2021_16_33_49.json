@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "children": [
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "lib1",
+                            "value": 231620.0
+                        },
+                        {
+                            "name": "lib2",
+                            "value": 231620.0
+                        },
+                        {
+                            "name": "lib9",
+                            "value": 277944.0
+                        },
+                        {
+                            "name": "lib10",
+                            "value": 277944.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "lib4",
+                                    "value": 231620.0
+                                },
+                                {
+                                    "name": "lib5",
+                                    "value": 231620.0
+                                },
+                                {
+                                    "name": "lib6",
+                                    "value": 231620.0
+                                },
+                                {
+                                    "name": "lib14",
+                                    "value": 231620.0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "lib15",
+                                    "value": 416916.0
+                                },
+                                {
+                                    "name": "lib16",
+                                    "value": 416916.0
+                                },
+                                {
+                                    "name": "lib17",
+                                    "value": 370592.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

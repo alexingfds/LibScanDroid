@@ -1,0 +1,11 @@
+ {
+     "name": "librairie",
+     "children": [
+      {"name": "Lib1", "value": 6703},
+      {"name": "Lib2", "value": 6703},
+      {"name": "Lib3", "value": 6703},
+      {"name": "Lib4", "value": 6703},
+      {"name": "Lib5", "value": 6703},
+      {"name": "o", "children":[{"name": "Lib7", "value": 6703},{"name": "Lib8", "value": 6703}]}
+     ]
+    }
