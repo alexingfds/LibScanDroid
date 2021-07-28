@@ -1,0 +1,863 @@
+{
+    "name": "",
+    "children": [
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-xiaomi",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-getkeepsafe-relinker",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-trello-rxlifecycle2",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-jakewharton-rxbinding2",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-albinmathew-photocrop",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-arcsoft-livebroadcast",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-daimajia-easing",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-etsy-android-grid",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-example-temp-voicechange",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-gifshow-twitter-widget",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-huawei-hms",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-jaredrummler-android-processes",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-kakao",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-kik-kikapi",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-ksy",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-liulishuo-filedownloader",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-marswin89-marsdaemon",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-megvii-facepp-sdk",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-meizu-cloud",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-nhn-android-naverlogin",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-ss-android-push-daemon-nativ",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-tencent-bugly",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-timehop-stickyheadersrecyclerview",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-vk-sdk",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-zing-zalo",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "jp-line-android-sdk",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "master-flame-danmaku-danmaku",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-passay",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-wysaid",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "percent-22.2.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "thirdplatform-camera",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-android-debug-hv",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-hianalytics-android",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "design-24.2.1",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "support-annotations-24.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-trello-rxlifecycle",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-tbruyelle-rxpermissions",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "circularprogressbar-1.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "universal-image-loader-1.8.4",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-bartoszlipinski-recyclerviewheader",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-umeng_social_sdk_res_lib",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-flurry",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-octo-android-robospice",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "retrofit-1.6.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-androidannotations",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "net-simonvt-numberpicker",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "androidsdk-1.2.2",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-readystatesoftware-viewbadger",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-samsung",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-brickred-socialauth",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "roboguice-util-temp",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-annimon-stream",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-melnykov-fab",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-astuetz",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-dd",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "cn-carbswang-android-numberpickerview-library",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-webrtc",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "in-srain-cube-views-ptr",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-samsung-android-sdk",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-autonavi-aps-amapapi-model",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "bc626e62b8783e095b3fd857423ef7713de12b2a9e89fa3280e45f5a9fdd7de7",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-alibaba-wireless-security",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-mapzen-android-lost",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-taobao-dp",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "fastjson-1.1.53.android",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-android",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "rxjava-2.0.1",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-mikepenz",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "gson-2.6.1",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-dd-processbutton",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "jsch-0.1.50",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-nhaarman-listviewanimations",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "design-23.2.0",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "support-v13-23.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-amazon-device-ads",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "bo-app",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-appboy",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-inmobi",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-moat-analytics-mobile",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-alphab",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "rebound-0.3.7",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-nineoldandroids-util",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-sina-weibo",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "transition-27.1.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-daimajia",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "cn-pedant-SweetAlert",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-like",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-romainpiel-shimmer",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "cz-msebera",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "viewpropertyobjectanimator-1.2.0",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-android-databinding-library",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-theartofdev-edmodo-cropper",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-neovisionaries-ws-client",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-shockwave-pdfium",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-tonicartos-superslim",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "retrofit-2.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "stetho-1.5.0",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-daimajia-swipe",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "wearable-2.2.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "io-github-douglasjunior-androidSimpleTooltip",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-akexorcist-roundcornerprogressbar",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-anjlab-android-iab-v3",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-universalvideoview",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "eu-fiskur-chipcloud",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "fisk-chipcloud",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "hawk-2.0.1",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-adw-library-widgets-discreteseekbar",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-adjust-sdk",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-paginate",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "io-realm",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "javax-annotation-meta",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-ashokvarma-bottomnavigation",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-hannesdorfmann-fragmentargs",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "de-spring",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-hannesdorfmann-adapterdelegates3",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "dagger-2.6",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-codechimp-apprater",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "urbanairship-sdk-8.7.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "wearable-2.1.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "yearclass-1.0.0",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "retrofit",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-aspectj",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "net-lingala-zip4j",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "Java-WebSocket-1.3.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-eclipse-paho-client-mqttv3",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "master-flame-danmaku",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-jdesktop-application",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-mixpanel-android",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "jp-wasabeef-picasso-transformations",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "gson-2.8.1",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-sbstrm-appirater",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-daimajia-slider-library",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-ms-square-android-expandabletextview",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-pinterest-pinit",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "iterableapi-2.2.4",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-apache-commons-lang-RELEASE100",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "picasso-2.71828",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-moat-analytics-mobile-aol",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "edu-umd-cs-findbugs-annotations",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "audience-network-sdk-4.19.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-adobe-mobile",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-millennialmedia",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "design-25.2.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "materialdatetimepicker-2.5.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "urbanairship-sdk-8.0.4",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "coordinatorlayout-1.0.0",
+                                    "value": 71549.9405940594
+                                },
+                                {
+                                    "name": "core-common-2.0.0",
+                                    "value": 77053.78217821782
+                                },
+                                {
+                                    "name": "cursoradapter-1.0.0",
+                                    "value": 71549.9405940594
+                                },
+                                {
+                                    "name": "customview-1.0.0",
+                                    "value": 71549.9405940594
+                                },
+                                {
+                                    "name": "drawerlayout-1.0.0",
+                                    "value": 66046.099009901
+                                },
+                                {
+                                    "name": "fragment-1.0.0",
+                                    "value": 71549.9405940594
+                                },
+                                {
+                                    "name": "interpolator-1.0.0",
+                                    "value": 71549.9405940594
+                                },
+                                {
+                                    "name": "loader-1.0.0",
+                                    "value": 71549.9405940594
+                                },
+                                {
+                                    "name": "swiperefreshlayout-1.0.0",
+                                    "value": 66046.099009901
+                                },
+                                {
+                                    "name": "versionedparcelable-1.0.0",
+                                    "value": 77053.78217821782
+                                },
+                                {
+                                    "name": "viewpager-1.0.0",
+                                    "value": 66046.099009901
+                                },
+                                {
+                                    "name": "asynclayoutinflater-1.0.0",
+                                    "value": 66046.099009901
+                                },
+                                {
+                                    "name": "documentfile-1.0.0",
+                                    "value": 66046.099009901
+                                },
+                                {
+                                    "name": "legacy-support-core-ui-1.0.0",
+                                    "value": 66046.099009901
+                                },
+                                {
+                                    "name": "lifecycle-common-2.0.0",
+                                    "value": 71549.9405940594
+                                },
+                                {
+                                    "name": "localbroadcastmanager-1.0.0",
+                                    "value": 66046.099009901
+                                },
+                                {
+                                    "name": "print-1.0.0",
+                                    "value": 66046.099009901
+                                },
+                                {
+                                    "name": "slidingpanelayout-1.0.0",
+                                    "value": 66046.099009901
+                                },
+                                {
+                                    "name": "vectordrawable-animated-1.0.0",
+                                    "value": 60542.25742574257
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "appcompat-1.0.0",
+                                    "value": 38526.89108910891
+                                },
+                                {
+                                    "name": "cardview-1.0.0",
+                                    "value": 49534.57425742574
+                                },
+                                {
+                                    "name": "core-1.0.0",
+                                    "value": 55038.41584158416
+                                },
+                                {
+                                    "name": "recyclerview-1.0.0",
+                                    "value": 55038.41584158416
+                                },
+                                {
+                                    "name": "transition-1.0.0",
+                                    "value": 44030.732673267325
+                                },
+                                {
+                                    "name": "annotation-1.1.0",
+                                    "value": 38526.89108910891
+                                },
+                                {
+                                    "name": "collection-1.1.0",
+                                    "value": 38526.89108910891
+                                },
+                                {
+                                    "name": "media-1.0.1",
+                                    "value": 27519.20792079208
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,913 @@
+{
+    "name": "",
+    "children": [
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "gnu-bytecode",
+                            "value": 3084.8390677025527
+                        },
+                        {
+                            "name": "gnu-commonlisp",
+                            "value": 3084.8390677025527
+                        },
+                        {
+                            "name": "gnu-ecmascript",
+                            "value": 3084.8390677025527
+                        },
+                        {
+                            "name": "gnu-expr",
+                            "value": 3084.8390677025527
+                        },
+                        {
+                            "name": "gnu-lists",
+                            "value": 3084.8390677025527
+                        },
+                        {
+                            "name": "gnu-mapping",
+                            "value": 3084.8390677025527
+                        },
+                        {
+                            "name": "gnu-math",
+                            "value": 3084.8390677025527
+                        },
+                        {
+                            "name": "gnu-text",
+                            "value": 3084.8390677025527
+                        },
+                        {
+                            "name": "gnu-xml",
+                            "value": 3084.8390677025527
+                        },
+                        {
+                            "name": "kawa",
+                            "value": 3084.8390677025527
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-RNFetchBlob",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-amazonaws-mobileconnectors-remoteconfiguration",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-brentvatne-react",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-github-yamill-orientation",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-reactnative-ivpusic-imagepicker",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "fr-greweb-reactnativeviewshot",
+                            "value": 616.9678135405105
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "at-nineyards-anyline",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-adtech-mobilesdk",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-fernandocejas-frodo-annotation",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-microsoft-windowsazure",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-proximity-library",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "org-opencv",
+                            "value": 616.9678135405105
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-campmobile",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-linecorp",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-nhncorp-nelo2-android",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-sensetime",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "jp-naver-common-android-notice",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "me-leolin-shortcutbadger-impl",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "org-vinuxproject-sonic",
+                            "value": 616.9678135405105
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-aigestudio-wheelpicker",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "afu-plume",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "checker-qual-2.0.0",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-apptalkingdata",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-malinskiy-materialicons",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-tendcloud-tenddata",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "dagger-2.0",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "me-tatarka-bindingcollectionadapter2",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "rhino-1.7.7",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "universal-image-loader-1.9.5",
+                            "value": 616.9678135405105
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-sbstrm-appirater",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-daimajia-slider-library",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-ms-square-android-expandabletextview",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-pinterest-pinit",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "iterableapi-2.2.4",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "org-apache-commons-lang-RELEASE100",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "picasso-2.71828",
+                            "value": 616.9678135405105
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-albinmathew-photocrop",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-arcsoft-livebroadcast",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-daimajia-easing",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-etsy-android-grid",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-example-temp-voicechange",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-gifshow-twitter-widget",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-jaredrummler-android-processes",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-kakao",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-kik-kikapi",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-ksy",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-liulishuo-filedownloader",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-marswin89-marsdaemon",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-megvii-facepp-sdk",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-nhn-android-naverlogin",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-ss-android-push-daemon-nativ",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-vk-sdk",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-zing-zalo",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "jp-line-android-sdk",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "master-flame-danmaku-danmaku",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "org-passay",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "org-wysaid",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "thirdplatform-camera",
+                            "value": 1233.935627081021
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "af-android-sdk-4.6.0",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "android-auto-scroll-view-pager-1.1.2",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-devspark-robototextview",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "de-roderick-weberknecht",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "fabric-1.4.1",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "parse-android-1.13.0",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "roundedimageview-2.0.0",
+                            "value": 616.9678135405105
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "freemarker-cache",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "freemarker-core",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "freemarker-debug",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "freemarker-ext",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "freemarker-log",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "freemarker-template",
+                            "value": 1233.935627081021
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-dsi-ant",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-garmin-fit",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-msc-sa-aidl",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "fr-castorflex-android-verticalviewpager",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "stetho-1.1.0",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "uk-co",
+                            "value": 616.9678135405105
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "ch-hsr-geohash",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "com-cloudinary",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "materialdatetimepicker-2.1.0",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "org-cloudinary-json",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "org-zakariya-stickyheaders",
+                            "value": 616.9678135405105
+                        },
+                        {
+                            "name": "urbanairship-sdk-8.9.1",
+                            "value": 616.9678135405105
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "co-apptailor-googlesignin",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-BV-LinearGradient",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-airlabsinc",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-babisoft-ReactNativeLocalization",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-clipsub-rnbottomsheet",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-cmcewen-blurview",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-dieam-reactnativepushnotification",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-geektime-rnonesignalandroid",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-idehub-Billing",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-languagedrops",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-learnium-RNDeviceInfo",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-microsoft-codepush-react",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-nimbusds",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-rnfs",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-rnziparchive",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-robertsheao-RNZenDeskSupport",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-smixx-fabric",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-sudoplz-reactnativeamplitudeanalytics",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-viro",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-viromedia",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-zmxv-RNSound",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "io-invertase-firebase",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "logs-proto-wireless-performance-mobile-nano",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "net-minidev",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "org-devio-rn-splashscreen",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "ui-morphingtext",
+                                    "value": 3084.8390677025527
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "com-hanks-htextview",
+                                    "value": 3701.806881243063
+                                },
+                                {
+                                    "name": "com-airbnb",
+                                    "value": 3701.806881243063
+                                },
+                                {
+                                    "name": "com-amplitude",
+                                    "value": 3701.806881243063
+                                },
+                                {
+                                    "name": "com-horcrux-svg",
+                                    "value": 3701.806881243063
+                                },
+                                {
+                                    "name": "com-unity3d-ads",
+                                    "value": 3701.806881243063
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "children": [
+                                        {
+                                            "name": "swiperefreshlayout-1.0.0",
+                                            "value": 62313.749167591566
+                                        },
+                                        {
+                                            "name": "asynclayoutinflater-1.0.0",
+                                            "value": 57994.97447280799
+                                        },
+                                        {
+                                            "name": "documentfile-1.0.0",
+                                            "value": 59845.87791342952
+                                        },
+                                        {
+                                            "name": "legacy-support-core-ui-1.0.0",
+                                            "value": 57994.97447280799
+                                        },
+                                        {
+                                            "name": "lifecycle-common-2.0.0",
+                                            "value": 62313.749167591566
+                                        },
+                                        {
+                                            "name": "localbroadcastmanager-1.0.0",
+                                            "value": 59845.87791342952
+                                        },
+                                        {
+                                            "name": "print-1.0.0",
+                                            "value": 58611.9422863485
+                                        },
+                                        {
+                                            "name": "slidingpanelayout-1.0.0",
+                                            "value": 57994.97447280799
+                                        },
+                                        {
+                                            "name": "vectordrawable-animated-1.0.0",
+                                            "value": 59845.87791342952
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "",
+                                    "children": [
+                                        {
+                                            "name": "coordinatorlayout-1.0.0",
+                                            "value": 71568.26637069922
+                                        },
+                                        {
+                                            "name": "core-common-2.0.0",
+                                            "value": 76504.00887902331
+                                        },
+                                        {
+                                            "name": "cursoradapter-1.0.0",
+                                            "value": 74653.10543840178
+                                        },
+                                        {
+                                            "name": "customview-1.0.0",
+                                            "value": 72185.23418423973
+                                        },
+                                        {
+                                            "name": "drawerlayout-1.0.0",
+                                            "value": 69717.3629300777
+                                        },
+                                        {
+                                            "name": "fragment-1.0.0",
+                                            "value": 76504.00887902331
+                                        },
+                                        {
+                                            "name": "interpolator-1.0.0",
+                                            "value": 75887.04106548279
+                                        },
+                                        {
+                                            "name": "loader-1.0.0",
+                                            "value": 74653.10543840178
+                                        },
+                                        {
+                                            "name": "recyclerview-1.0.0",
+                                            "value": 70951.29855715872
+                                        },
+                                        {
+                                            "name": "viewpager-1.0.0",
+                                            "value": 71568.26637069922
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "appcompat-1.0.0",
+                                    "value": 47506.521642619315
+                                },
+                                {
+                                    "name": "cardview-1.0.0",
+                                    "value": 64781.62042175361
+                                },
+                                {
+                                    "name": "transition-1.0.0",
+                                    "value": 56144.07103218646
+                                },
+                                {
+                                    "name": "versionedparcelable-1.0.0",
+                                    "value": 82673.6870144284
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-enrique-stackblur",
+                            "value": 1850.9034406215314
+                        },
+                        {
+                            "name": "twitter4j-core-4.0.4",
+                            "value": 1850.9034406215314
+                        },
+                        {
+                            "name": "rx-exceptions",
+                            "value": 1850.9034406215314
+                        },
+                        {
+                            "name": "com-nineoldandroids-util",
+                            "value": 1850.9034406215314
+                        },
+                        {
+                            "name": "at-runtastic-server",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-arellomobile-android-push-utils-rich",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "com-bumptech-glide-load-resource-bitmap",
+                            "value": 1850.9034406215314
+                        },
+                        {
+                            "name": "com-pushwoosh",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "gueei-binding",
+                            "value": 1233.935627081021
+                        },
+                        {
+                            "name": "rx-schedulers",
+                            "value": 1850.9034406215314
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "com-unity3d",
+                                    "value": 4935.742508324084
+                                },
+                                {
+                                    "name": "com-appnext",
+                                    "value": 3701.806881243063
+                                },
+                                {
+                                    "name": "com-appodeal-ads",
+                                    "value": 3084.8390677025527
+                                },
+                                {
+                                    "name": "com-avocarrot",
+                                    "value": 4318.774694783574
+                                },
+                                {
+                                    "name": "com-ironsource",
+                                    "value": 3701.806881243063
+                                },
+                                {
+                                    "name": "com-my-target",
+                                    "value": 4935.742508324084
+                                },
+                                {
+                                    "name": "com-yandex",
+                                    "value": 4318.774694783574
+                                },
+                                {
+                                    "name": "org-nexage-sourcekit",
+                                    "value": 4318.774694783574
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "com-adcolony",
+                                    "value": 4935.742508324084
+                                },
+                                {
+                                    "name": "com-amazon-device-ads",
+                                    "value": 7403.613762486126
+                                },
+                                {
+                                    "name": "com-applovin",
+                                    "value": 6786.6459489456165
+                                },
+                                {
+                                    "name": "com-chartboost-sdk",
+                                    "value": 6786.6459489456165
+                                },
+                                {
+                                    "name": "com-tapjoy",
+                                    "value": 5552.710321864595
+                                },
+                                {
+                                    "name": "com-startapp-android-publish",
+                                    "value": 5552.710321864595
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "org-hamcrest",
+                            "value": 11722.3884572697
+                        },
+                        {
+                            "name": "junit-extensions",
+                            "value": 14190.259711431743
+                        },
+                        {
+                            "name": "junit-framework",
+                            "value": 14807.227524972252
+                        },
+                        {
+                            "name": "junit-textui",
+                            "value": 14190.259711431743
+                        },
+                        {
+                            "name": "org-junit",
+                            "value": 9871.485016648168
+                        },
+                        {
+                            "name": "junit-runner",
+                            "value": 8020.581576026637
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

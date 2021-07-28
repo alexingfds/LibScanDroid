@@ -3,8 +3,9 @@ from _csv import writer
 from datetime import datetime
 
 
-class Evaluation:
-    def __init__(self,arraysource,maxepsilon,dictlibrary,resultofdbscan,minpoint,nbrlibrary,nbrapplication,stepepsilon):
+class PCUCrossEvaluation:
+    def __init__(self,fold,arraysource,maxepsilon,dictlibrary,resultofdbscan,minpoint,nbrlibrary,nbrapplication,stepepsilon):
+        self.fold=fold
         self.arraysource = arraysource
         self.maxepsilon = maxepsilon
         self.dictlibrary = dictlibrary
@@ -68,7 +69,7 @@ class Evaluation:
                 SumPuc = SumPuc + self.puc(elem)
             AveragePuc = SumPuc / (len(listofpattern))
             print('AveragePuc==> ' + str(AveragePuc))
-            append_list_as_row('pucrecordnew.csv', [self.maxepsilon, self.minpoint, self.nbrlibrary, self.nbrapplication,self.stepepsilon,len(listofpattern),str(AveragePuc),datetime.now()])
+            append_list_as_row('pucrecordcrossvalidation.csv', [self.fold, self.maxepsilon, self.minpoint, self.nbrlibrary, self.nbrapplication,self.stepepsilon,len(listofpattern),str(AveragePuc),datetime.now()])
             log_result_dbscanc(self.resultofdbscan)
         return AveragePuc
 
@@ -80,7 +81,7 @@ def flatten(S):
         return flatten(S[0]) + flatten(S[1:])
     return S[:1] + flatten(S[1:])
 
-def append_list_as_row(file_name, list_of_elem,header_csv=['maxepsilon','minpoint','nbrlibrary','nbrapplication','stepepsilon','nbrPattern','PUC','Datetime']):
+def append_list_as_row(file_name, list_of_elem,header_csv=['foldname','maxepsilon','minpoint','nbrlibrary','nbrapplication','stepepsilon','nbrPattern','PUC','Datetime']):
     # Open file in append mode
     with open(file_name, 'a+', newline='') as write_obj:
         # Create a writer object from csv module
@@ -91,7 +92,7 @@ def append_list_as_row(file_name, list_of_elem,header_csv=['maxepsilon','minpoin
         csv_writer.writerow(list_of_elem)
 
 def log_result_dbscanc(result):
-    with open("logresultdbscanboucle.txt", "a+") as file_object:
+    with open("logresultdbscanfold.txt", "a+") as file_object:
         # Move read cursor to the start of file.
         file_object.seek(0)
         # If file is not empty then append '\n'

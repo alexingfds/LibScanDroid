@@ -88,7 +88,7 @@ if __name__ == '__main__':
     puc(patternTest1)
     puc(patternTest2)
     averagePuc(listpatternTest1)
-    append_list_as_row('pucreet.csv',[0.1,'e',datetime.now()])
+    append_list_as_row('PUCrecordtraining.csv',[0.1,'e',datetime.now()])
 
     # open the file in the write mode
     # with open('pucrecord.csv', 'w', encoding='UTF8') as f:

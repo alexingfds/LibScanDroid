@@ -1,0 +1,867 @@
+{
+    "name": "",
+    "children": [
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-facebook-ads",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "facebook-applinks-4.27.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "support-vector-drawable-25.4.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-chad-library",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "customtabs-23.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-github-lzyzsd-circleprogress",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-kaopiz-kprogresshud",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-lzy-okgo",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-orhanobut-logger",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-speeds-ratelib",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "de-blinkt-openvpn",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "net-frakbot-jumpingbeans",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-slidingmenu-lib",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-UCMobile-PayPlugin",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "vi-com-gdi-bgl-android-java",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-loc",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-tencent-bugly",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "dmax-dialog",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-zhy-http-okhttp",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "3dmap-6.5.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "android-gif-drawable-1.2.7",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-scwang-smartrefresh-layout",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-android",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "net-i2p-android-ext-floatingactionbutton",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-balysv-materialmenu-ps",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-quinny898-library-persistentsearch",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "io-codetailps",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "me-gujun-android-taggroup",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-flurry",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-appodeal",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-cmcm",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-immersion",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-jirbo-adcolony",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-revmob",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "dagger-2.1",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-apache-cordova",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "rrrrrr",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-bigkoo-pickerview",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "pl-droidsonroids-gif",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-json-alipay",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "jp-co-cyberagent-android-gpuimage",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "analytics-5.6.1",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-autonavi-aps-amapapi-model",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-jg",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-qq-taf-jce",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-sina",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-ta-utdid2",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-ut-device",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-zhy-view-flowlayout",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "jp-wasabeef-glide-transformations",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "location-3.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "okhttp-2.6.0",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-squareup-okhttp",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "retrofit-1.6.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-mobsandgeeks-saripaar",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "commons-validator-routines",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "net-danlew-android-joda",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "appcompat-v7-24.2.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-couchbase-lite",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-shinobicontrols-charts",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "net-lingala-zip4j",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "io-card-payment",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "animated-vector-drawable-25.1.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-readystatesoftware-sqliteasset",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "jp-wasabeef-blurry",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "design-25.2.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-getpebble-android-kit",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-dsi-ant",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-garmin-fit",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-msc-sa-aidl",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "fr-castorflex-android-verticalviewpager",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "stetho-1.1.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "uk-co",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "animated-vector-drawable-25.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "support-annotations-25.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-squareup-otto",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "SevenZip",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "appcompat-v7-25.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-chromium",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "support-v13-25.1.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-dd-processbutton",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-handmark-pulltorefresh-library",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "it-sephiroth-android-library",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "stetho-1.4.2",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "de-mindpipe-android-logging-log4j",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-todddavies-components-progressbar",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "xutils-3.5.0",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-amulyakhare-textdrawable",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "me-dm7-barcodescanner",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-spongycastle",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "fr-castorflex-android-smoothprogressbar",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-nispok-snackbar",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "design-28.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "io-codetail",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "org-jxmpp",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "support-media-compat-28.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "support-vector-drawable-28.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "transition-28.0.0",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "org-codehaus-mojo-animal_sniffer",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "jsoup-1.11.3",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "okhttp-3.12.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-wefika-flowlayout",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-theartofdev-edmodo-cropper",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "conscrypt-android-2.1.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "de-measite-minidns",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "ezvcard",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "android-gif-drawable-1.2.13",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "emoji-1.0.0",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "freemarker-cache",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "freemarker-core",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "freemarker-debug",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "freemarker-ext",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "freemarker-log",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "freemarker-template",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "jackson-core-2.9.8",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "net-ypresto-androidtranscoder",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-alipay",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-alibaba-wireless-security",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-taobao-dp",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "rebound-0.3.7",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-meizu-cloud",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "tv-cjump-jni",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "rhino-1.7.7.1",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "com-ut",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "mtopsdk-common",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "mtopsdk-mtop",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "library-1.6.9",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "me-relex-photodraweeview",
+                            "value": 5503.841584158416
+                        },
+                        {
+                            "name": "msgpack-0.6.9",
+                            "value": 5503.841584158416
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "appcompat-v7-26.0.0",
+                            "value": 11007.683168316831
+                        },
+                        {
+                            "name": "com-appnext",
+                            "value": 11007.683168316831
+                        },
+                        {
+                            "name": "com-appodeal-ads",
+                            "value": 11007.683168316831
+                        },
+                        {
+                            "name": "com-ironsource",
+                            "value": 11007.683168316831
+                        },
+                        {
+                            "name": "com-moat-analytics-mobile",
+                            "value": 11007.683168316831
+                        },
+                        {
+                            "name": "com-vungle-publisher",
+                            "value": 11007.683168316831
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "com-mopub",
+                            "value": 22015.366336633662
+                        },
+                        {
+                            "name": "com-adcolony",
+                            "value": 16511.52475247525
+                        },
+                        {
+                            "name": "com-amazon-device-ads",
+                            "value": 22015.366336633662
+                        },
+                        {
+                            "name": "com-applovin",
+                            "value": 22015.366336633662
+                        },
+                        {
+                            "name": "com-chartboost-sdk",
+                            "value": 22015.366336633662
+                        },
+                        {
+                            "name": "com-tapjoy",
+                            "value": 27519.20792079208
+                        },
+                        {
+                            "name": "com-unity3d",
+                            "value": 22015.366336633662
+                        },
+                        {
+                            "name": "com-avocarrot",
+                            "value": 16511.52475247525
+                        },
+                        {
+                            "name": "com-my-target",
+                            "value": 16511.52475247525
+                        },
+                        {
+                            "name": "com-startapp-android-publish",
+                            "value": 16511.52475247525
+                        },
+                        {
+                            "name": "com-yandex",
+                            "value": 16511.52475247525
+                        },
+                        {
+                            "name": "org-nexage-sourcekit",
+                            "value": 16511.52475247525
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "children": [
+                                        {
+                                            "name": "drawerlayout-1.0.0",
+                                            "value": 77053.78217821782
+                                        },
+                                        {
+                                            "name": "swiperefreshlayout-1.0.0",
+                                            "value": 71549.9405940594
+                                        },
+                                        {
+                                            "name": "asynclayoutinflater-1.0.0",
+                                            "value": 66046.099009901
+                                        },
+                                        {
+                                            "name": "documentfile-1.0.0",
+                                            "value": 66046.099009901
+                                        },
+                                        {
+                                            "name": "legacy-support-core-ui-1.0.0",
+                                            "value": 66046.099009901
+                                        },
+                                        {
+                                            "name": "lifecycle-common-2.0.0",
+                                            "value": 77053.78217821782
+                                        },
+                                        {
+                                            "name": "localbroadcastmanager-1.0.0",
+                                            "value": 66046.099009901
+                                        },
+                                        {
+                                            "name": "print-1.0.0",
+                                            "value": 66046.099009901
+                                        },
+                                        {
+                                            "name": "slidingpanelayout-1.0.0",
+                                            "value": 66046.099009901
+                                        },
+                                        {
+                                            "name": "vectordrawable-animated-1.0.0",
+                                            "value": 77053.78217821782
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "",
+                                    "children": [
+                                        {
+                                            "name": "cardview-1.0.0",
+                                            "value": 88061.46534653465
+                                        },
+                                        {
+                                            "name": "coordinatorlayout-1.0.0",
+                                            "value": 88061.46534653465
+                                        },
+                                        {
+                                            "name": "core-common-2.0.0",
+                                            "value": 99069.14851485148
+                                        },
+                                        {
+                                            "name": "cursoradapter-1.0.0",
+                                            "value": 99069.14851485148
+                                        },
+                                        {
+                                            "name": "customview-1.0.0",
+                                            "value": 93565.30693069307
+                                        },
+                                        {
+                                            "name": "fragment-1.0.0",
+                                            "value": 99069.14851485148
+                                        },
+                                        {
+                                            "name": "interpolator-1.0.0",
+                                            "value": 99069.14851485148
+                                        },
+                                        {
+                                            "name": "loader-1.0.0",
+                                            "value": 88061.46534653465
+                                        },
+                                        {
+                                            "name": "recyclerview-1.0.0",
+                                            "value": 93565.30693069307
+                                        },
+                                        {
+                                            "name": "viewpager-1.0.0",
+                                            "value": 88061.46534653465
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "appcompat-1.0.0",
+                                    "value": 60542.25742574257
+                                },
+                                {
+                                    "name": "versionedparcelable-1.0.0",
+                                    "value": 93565.30693069307
+                                },
+                                {
+                                    "name": "annotation-1.1.0",
+                                    "value": 49534.57425742574
+                                },
+                                {
+                                    "name": "collection-1.1.0",
+                                    "value": 44030.732673267325
+                                },
+                                {
+                                    "name": "core-1.0.2",
+                                    "value": 49534.57425742574
+                                },
+                                {
+                                    "name": "media-1.0.1",
+                                    "value": 49534.57425742574
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
