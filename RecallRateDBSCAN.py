@@ -132,7 +132,7 @@ def recScore(library, arraysource):
     maxSimilaritylib = ''
 
     for elem in arraysource[0]:
-        if ((elem != library) and (arraysource[0].index(elem) != 0)):
+        if ((elem != library) and (arraysource[0].index(elem) != 0) and elem in groundTruthLib):
             tempMaxSimilarity = similarity(library, elem, dataScore)
             if (tempMaxSimilarity > maxSimilarity):
                 maxSimilarity = tempMaxSimilarity
@@ -287,22 +287,9 @@ def souscluster(clusters):
     return dataa
 
 
-# def hiearchyCluster(childcluster):
 #     # CREATION DES SOUS CLUSTER PERE FILS
-#     temp = 0
-#     for elem in childcluster:
-#         # print(elem)
-#         if (temp == 0):
-#             temp = elem
-#             # print(temp)
-#         else:
-#             # print("yes")
-#             # print(elem["children"])
-#             elem["children"].append(temp)
-#             temp = elem
-#             # print(temp)
-#
-#     return temp
+
+
 
 def hiearchyCluster(childcluster):
     temp = 0
@@ -370,42 +357,91 @@ def globaljsonvisualisation(subdatajson):
     return data
 
 
-def scoreLibrary():
-    TransposeArraysourceforscorelibrary = np.transpose(arraysourceforscorelibrary)
-    # print(TransposeArraysourceforscorelibrary)
-    TransposeArraysourceforscorelibrary = TransposeArraysourceforscorelibrary.tolist()
-    for lib in TransposeArraysourceforscorelibrary:
-        # print(TransposeArraysourceforscorelibrary.index(lib))
-        nbapp = 0
-        if not (TransposeArraysourceforscorelibrary.index(lib) == 0):
+# def scoreLibrary():
+#     TransposeArraysourceforscorelibrary = np.transpose(arraysourceforscorelibrary)
+#     # print(TransposeArraysourceforscorelibrary)
+#     TransposeArraysourceforscorelibrary = TransposeArraysourceforscorelibrary.tolist()
+#     for lib in TransposeArraysourceforscorelibrary:
+#         # print(TransposeArraysourceforscorelibrary.index(lib))
+#         nbapp = 0
+#         if not (TransposeArraysourceforscorelibrary.index(lib) == 0):
+#
+#             # print(lib)
+#             for i in range(1, len(lib) - 1):
+#                 if (lib[i] == '1'):
+#                     nbapp = nbapp + 1
+#             Scoredictlibrary[str(lib[0])] = nbapp / len(lib)
+#     return Scoredictlibrary
+# # fat the array of cluster for evaluation recall rate
 
-            # print(lib)
-            for i in range(1, len(lib) - 1):
-                if (lib[i] == '1'):
-                    nbapp = nbapp + 1
-            Scoredictlibrary[str(lib[0])] = nbapp / len(lib)
-    return Scoredictlibrary
-# fat the array of cluster for evaluation recall rate
+def getlistofApp(arrayfold):
+    TransposeArraysourceforscorelibrary = np.transpose(arrayfold)
+    # print(TransposeArraysourceforscorelibrary)
+    listapp = TransposeArraysourceforscorelibrary.tolist()
+    return listapp[0]
+
+
+
+
 def flatten(S):
     if S == []:
         return S
     if isinstance(S[0], list):
         return flatten(S[0]) + flatten(S[1:])
     return S[:1] + flatten(S[1:])
-def lisoflibbyApp(database,namelib,nameapp):
+def listoflibbyApp(database,namelib,nameapp):
 
     for app in database:
         listlib=[]
-        indexofapp = database.index(app)
-        if indexofapp !=0:
-            for lib in app:
-                indexoflib = app.index(lib)
-                if lib == '1':
-                    listlib.append(namelib[indexoflib])
-        dictlibraryinapp[nameapp[indexofapp]]=listlib
+        # indexofapp = database.index(app)
+        if app !='Applicatons/librairies':
+            for n in range(1,len(app)):
+                if app[n] == '1':
+                    listlib.append(namelib[n])
+        dictlibraryinapp[app[0]] = listlib
+    print(dictlibraryinapp)
 
 
+def slideGroundtruth(l):
+    groundtruth = [l[i] for i in range(len(l)) if i % 2 == 1]
 
+    print(groundtruth)  # ['7072631', '7072687', '7072759', '7072783']
+    return groundtruth
+
+
+def slideValidation(l):
+    validation = [l[i] for i in range(len(l)) if i % 2 == 0]
+    print(validation)  # ['7072624', '7072672', '7072752', '7072768']
+    return validation
+def common_member(a, b):
+    a_set = set(a)
+    b_set = set(b)
+    if (a_set & b_set):
+        return True
+    else:
+        return False
+
+def getUsefullPatterns(patterns,groundtruth):
+    usefulPattern =[]
+    for pattern in patterns:
+        if(common_member(pattern,groundtruth)):
+            usefulPattern.append(pattern)
+    return usefulPattern
+
+def listofPatterns(nestedcluster):
+    listofPatterns=[]
+    for elem in nestedcluster:
+        if isinstance(elem, list):
+            listofPatterns.append(flatten(elem))
+    return listofPatterns
+
+def lislibraryinusefulpatter(lispattern,groundtruth):
+    removeGroundtruthUsefulLib = []
+    flatlib = flatten(lispattern)
+    for elem in  flatlib:
+        if not elem in  groundtruth:
+            removeGroundtruthUsefulLib.append(elem)
+    return removeGroundtruthUsefulLib
 
 
 
@@ -436,8 +472,12 @@ if __name__ == "__main__":
 
     arraysource = ligne(file)
     arraysourc = ligne(file)
-    arraysourceforscorelibrary = arraysource
-    scoreLibrary()
+    arraysourceforrecscorelibrary = arraysource
+    # data for evaluation recall rate
+    listallApp = []
+    listallLib = arraysourceforrecscorelibrary[0]
+    groundTruthLib =['lib3','lib4', 'lib5']
+    # scoreLibrary()
 
     for elem in arraysourc[0]:
         if (arraysourc[0].index(elem) != 0):
@@ -451,30 +491,36 @@ if __name__ == "__main__":
         minpt) + 'strnblibrairie' + str(nbrlibrary) + 'Date' + str(datetime.now().strftime("%d_%m_%Y_%H_%M_%S"))
     print(stringdataname)
     resultdbscan = relaxdbscan(arraysourc, eps, minpt, maxEpsilon)
-    # resulforevaluation = RecallRateEvaluation(fold,arraysource, maxEpsilon, dictlibrary, resultdbscan, minpt, nbrlibrary,
-    #                                 nbrapplication, epsilonStep)
-    # arrayofPatternForPUC = resulforevaluation.getPatternsForPCU()
-    #
-    # resulforevaluation.averagePuc(arrayofPatternForPUC)
-    #
-    # with open('DataJSONRecall/' + stringdataname + '.json', 'w') as fp:
-    #     json.dump(globaljsonvisualisation(geteachCluster(getAllClusters(resultdbscan, dictlibrary))), fp, indent=4)
-    # # print("result dbscan")
+
     print(resultdbscan)
     print( "list of all cluster")
-    listofallcluster= getAllClusters(resultdbscan, dictlibrary)
-    for elem in listofallcluster:
-        print("c)")
-        print(flatten(elem))
-
-    print('finished:' + stringdataname)
-
-    # print(recScore('core-1.0.0',arraysource))
+    listofallclusters= getAllClusters(resultdbscan, dictlibrary)
+    print(listofallclusters)
 
 
 
+    # print('finished:' + stringdataname)
 
+    # print(recScore('lib1',arraysource))
 
+    listoflibbyApp(arraysourceforrecscorelibrary, listallLib, getlistofApp(arraysourceforrecscorelibrary))
+
+    thisapp = 'app1'
+    thisgroundTruthLib = slideGroundtruth(dictlibraryinapp.get(thisapp))
+    thisValidation = slideValidation(dictlibraryinapp.get(thisapp))
+    thislistofflatCusters = listofPatterns(listofallclusters)
+    thisusefulPattern = getUsefullPatterns(thislistofflatCusters,thisgroundTruthLib)
+    thisflattenusefulPattern = flatten(thisusefulPattern)
+    thislistlibusefulpattern = lislibraryinusefulpatter(thisflattenusefulPattern,thisgroundTruthLib)
+    # test1= ['a','b','c']
+    # tests = [['a','r'], ['e','k']]
+    print(thisusefulPattern)
+    print(thisflattenusefulPattern)
+    print(len(thisflattenusefulPattern))
+    print(thisgroundTruthLib)
+    print(len(thisgroundTruthLib))
+    print(thislistlibusefulpattern)
+    print(len(thislistlibusefulpattern))
 
 
 
