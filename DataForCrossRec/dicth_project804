@@ -1,0 +1,9 @@
+1	project804
+2	#DEP#android-support-v4
+3	#DEP#com-actionbarsherlock
+4	#DEP#guice-2.0-no_aop
+5	#DEP#org-acra
+6	#DEP#org-hamcrest
+7	#DEP#org-json
+8	#DEP#roboguice-1.1
+9	#DEP#roboguice-1.1.1

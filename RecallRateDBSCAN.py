@@ -1,5 +1,6 @@
 import csv
 import json
+import os
 from _csv import writer
 from datetime import datetime
 
@@ -8,7 +9,8 @@ import numpy as np
 
 from RecallrateEvaluation import RecallRateEvaluation
 from cluster import Cluster
-
+topkName=['top1.csv','top3.csv','top5.csv','top7.csv','top10.csv']
+topnumber=[1,3,5,7,10]
 namesfoldValidANDnamesfoldTraining =['fold_1valid.csv', 'fold_2valid.csv', 'fold_3valid.csv', 'fold_4valid.csv', 'fold_5valid.csv', 'fold_6valid.csv', 'fold_7valid.csv', 'fold_8valid.csv', 'fold_9valid.csv', 'fold_10valid.csv']
 
 
@@ -124,20 +126,20 @@ def similarity(lib1, lib2, arraysource):
         usim=0
     return usim
 
-
-def recScore(library, arraysource):
+# Return the library that have the max RecSocre ArraySource repesent data Source
+def recScore(library, arraysource,LibGroundTruth):
     dataScore = arraysource
     score = []
     maxSimilarity = 0
     maxSimilaritylib = ''
 
     for elem in arraysource[0]:
-        if ((elem != library) and (arraysource[0].index(elem) != 0) and elem in groundTruthLib):
+        if ((elem != library) and (arraysource[0].index(elem) != 0) and elem in LibGroundTruth):
             tempMaxSimilarity = similarity(library, elem, dataScore)
             if (tempMaxSimilarity > maxSimilarity):
                 maxSimilarity = tempMaxSimilarity
                 maxSimilaritylib = elem
-    print(maxSimilaritylib)
+    # print(maxSimilaritylib)
     score.append(maxSimilarity)
     score.append(maxSimilaritylib)
 
@@ -394,24 +396,25 @@ def listoflibbyApp(database,namelib,nameapp):
     for app in database:
         listlib=[]
         # indexofapp = database.index(app)
-        if app !='Applicatons/librairies':
+        if app[0] !='Applicatons/librairies':
+            listallApp.append(app[0])
             for n in range(1,len(app)):
                 if app[n] == '1':
                     listlib.append(namelib[n])
         dictlibraryinapp[app[0]] = listlib
-    print(dictlibraryinapp)
+    # print(dictlibraryinapp)
 
 
 def slideGroundtruth(l):
     groundtruth = [l[i] for i in range(len(l)) if i % 2 == 1]
 
-    print(groundtruth)  # ['7072631', '7072687', '7072759', '7072783']
+    # print(groundtruth)  # ['7072631', '7072687', '7072759', '7072783']
     return groundtruth
 
 
 def slideValidation(l):
     validation = [l[i] for i in range(len(l)) if i % 2 == 0]
-    print(validation)  # ['7072624', '7072672', '7072752', '7072768']
+    # print(validation)  # ['7072624', '7072672', '7072752', '7072768']
     return validation
 def common_member(a, b):
     a_set = set(a)
@@ -439,91 +442,176 @@ def lislibraryinusefulpatter(lispattern,groundtruth):
     removeGroundtruthUsefulLib = []
     flatlib = flatten(lispattern)
     for elem in  flatlib:
-        if not elem in  groundtruth:
+        # if not elem in  groundtruth:
             removeGroundtruthUsefulLib.append(elem)
     return removeGroundtruthUsefulLib
 
+# Set Score for libarary in usefull pattern
+def setdicRecScore(listlibuseful,data,groundtruth,):
+    for libtoevaluate in listlibuseful:
+        score = recScore(libtoevaluate,data,groundtruth)
+        dictRecScore[libtoevaluate] =score[0]
+    return dictRecScore
+
+
+def getrecall(dicRecScore,topk):
+    sort_orders = sorted(dicRecScore.items(), key=lambda x: x[1], reverse=True)
+    # print(sort_orders)
+    ranking =[]
+    for rank in range(topk):
+        if not(rank +1 > len(sort_orders)):
+            ranking.append(sort_orders[rank][0])
+        # print(sort_orders[rank][0])
+    # print('top k element',ranking)
+    return ranking
+def getrecallrank(dicRecScore, validlist):
+    sort_orders = sorted(dicRecScore.items(), key=lambda x: x[1], reverse=True)
+    # print(sort_orders)
+    ranking =[]
+    for rank in range(len(sort_orders)):
+        if(sort_orders[rank][0] in validlist):
+            return (1/(rank+1))
+
+
+
+
+def append_list_as_row(file_name, list_of_elem,header_csv=['file','app','iscorrect','topk','firstrankIscorrect']):
+    # Open file in append mode
+    with open(file_name, 'a+', newline='') as write_obj:
+        # Create a writer object from csv module
+        csv_writer = writer(write_obj)
+        if os.stat(file_name).st_size == 0:
+            csv_writer.writerow(header_csv)
+        # Add contents of list as last row in the csv file
+        csv_writer.writerow(list_of_elem)
+
+def testurn(listelem,list2):
+    for elem in listelem:
+        if(elem in list2):
+            return elem
 
 
 
 if __name__ == "__main__":
 
-    fold = 'samplesortie2.csv'
-    # C = 0
-    # index = [1, 2, 3]
-    dataa = []
-    subdatajson = []
-    namelib =[]
-    nameapp =[]
-    # minpt = 5
-    minpt = 2
-    eps = 0
-    maxEpsilon = 0.6
-    # maxEpsilon = maxepsilonvariable/10
-    epsilonStep = 0.012
-    print('EDBSCAN')
-    print('maxEpsilon : ' + str(maxEpsilon))
-    print('epsilonStep :' + str(epsilonStep))
-    print('minimum points :' + str(minpt))
-    dictlibraryinapp ={}
-    dictlibrary = {}
-    Scoredictlibrary = {}
-    file = 'ValidationFold/'+fold
+    for topfile in range(len(topnumber)):
+        thistopk = topnumber[topfile]
+        topkfilename = topkName[topfile]
+        for listfilefold in range(len(namesfoldValidANDnamesfoldTraining)):
+            fold = namesfoldValidANDnamesfoldTraining[listfilefold]
+            # C = 0
+            # index = [1, 2, 3]
+            # fold ='samplesortie2.csv'
+            # thistopk =1
+            # topkfilename = "toptest3.csv"
+            dataa = []
+            subdatajson = []
+            namelib =[]
+            nameapp =[]
+            # minpt = 5
+            minpt = 5
+            eps = 0
+            maxEpsilon = 0.7
+            # maxEpsilon = maxepsilonvariable/10
+            epsilonStep = 0.1
+            print('EDBSCAN')
+            print('maxEpsilon : ' + str(maxEpsilon))
+            print('epsilonStep :' + str(epsilonStep))
+            print('minimum points :' + str(minpt))
+            dictlibraryinapp ={}
+            dictlibrary = {}
+            Scoredictlibrary = {}
 
-    arraysource = ligne(file)
-    arraysourc = ligne(file)
-    arraysourceforrecscorelibrary = arraysource
-    # data for evaluation recall rate
-    listallApp = []
-    listallLib = arraysourceforrecscorelibrary[0]
-    groundTruthLib =['lib3','lib4', 'lib5']
-    # scoreLibrary()
+            file = 'ValidationFold/'+fold
 
-    for elem in arraysourc[0]:
-        if (arraysourc[0].index(elem) != 0):
-            dictlibrary[str(elem)] = elem
+            arraysource = ligne(file)
+            arraysourc = ligne(file)
+            arraysourceforrecscorelibrary = arraysource
+            # data for evaluation recall rate
+            listallApp = []
+            listallLib = arraysourceforrecscorelibrary[0]
 
-    nbrlibrary = len(arraysourc[0])
-    nbrapplication = len(arraysourc)
-    print('nombre de librairies: ' + str(nbrlibrary))
-    print('nombre dapplications :' + str(nbrapplication))
-    stringdataname = 'DatamaxEpsilon' + str(maxEpsilon) + 'epsilonStep' + str(epsilonStep) + 'minpoint' + str(
-        minpt) + 'strnblibrairie' + str(nbrlibrary) + 'Date' + str(datetime.now().strftime("%d_%m_%Y_%H_%M_%S"))
-    print(stringdataname)
-    resultdbscan = relaxdbscan(arraysourc, eps, minpt, maxEpsilon)
+            # scoreLibrary()
 
-    print(resultdbscan)
-    print( "list of all cluster")
-    listofallclusters= getAllClusters(resultdbscan, dictlibrary)
-    print(listofallclusters)
+            for elem in arraysourc[0]:
+                if (arraysourc[0].index(elem) != 0):
+                    dictlibrary[str(elem)] = elem
 
+            nbrlibrary = len(arraysourc[0])
+            nbrapplication = len(arraysourc)
+            print('nombre de librairies: ' + str(nbrlibrary))
+            print('nombre dapplications :' + str(nbrapplication))
+            stringdataname = 'DatamaxEpsilon' + str(maxEpsilon) + 'epsilonStep' + str(epsilonStep) + 'minpoint' + str(
+                minpt) + 'strnblibrairie' + str(nbrlibrary) + 'Date' + str(datetime.now().strftime("%d_%m_%Y_%H_%M_%S"))
+            print(stringdataname)
+            resultdbscan = relaxdbscan(arraysourc, eps, minpt, maxEpsilon)
 
-
-    # print('finished:' + stringdataname)
-
-    # print(recScore('lib1',arraysource))
-
-    listoflibbyApp(arraysourceforrecscorelibrary, listallLib, getlistofApp(arraysourceforrecscorelibrary))
-
-    thisapp = 'app1'
-    thisgroundTruthLib = slideGroundtruth(dictlibraryinapp.get(thisapp))
-    thisValidation = slideValidation(dictlibraryinapp.get(thisapp))
-    thislistofflatCusters = listofPatterns(listofallclusters)
-    thisusefulPattern = getUsefullPatterns(thislistofflatCusters,thisgroundTruthLib)
-    thisflattenusefulPattern = flatten(thisusefulPattern)
-    thislistlibusefulpattern = lislibraryinusefulpatter(thisflattenusefulPattern,thisgroundTruthLib)
-    # test1= ['a','b','c']
-    # tests = [['a','r'], ['e','k']]
-    print(thisusefulPattern)
-    print(thisflattenusefulPattern)
-    print(len(thisflattenusefulPattern))
-    print(thisgroundTruthLib)
-    print(len(thisgroundTruthLib))
-    print(thislistlibusefulpattern)
-    print(len(thislistlibusefulpattern))
+            print(resultdbscan)
+            print( "list of all cluster")
+            listofallclusters= getAllClusters(resultdbscan, dictlibrary)
+            print(listofallclusters)
 
 
 
+            # print('finished:' + stringdataname)
+
+
+
+            listoflibbyApp(arraysourceforrecscorelibrary, listallLib, getlistofApp(arraysourceforrecscorelibrary))
+            # for application  in listallApp:
+            for application in  listallApp:
+                dictRecScore = {}
+                thisapp = application
+
+                thisgroundTruthLib = slideGroundtruth(dictlibraryinapp.get(thisapp))
+                # thisValidation = slideValidation(dictlibraryinapp.get(thisapp))
+                thislistofflatCusters = listofPatterns(listofallclusters)
+                thisusefulPattern = getUsefullPatterns(thislistofflatCusters,thisgroundTruthLib)
+                thisflattenusefulPattern = flatten(thisusefulPattern)
+                thislistlibusefulpattern = lislibraryinusefulpatter(thisflattenusefulPattern,thisgroundTruthLib)
+                # test1= ['a','b','c']
+                # tests = [['a','r'], ['e','k']]
+                # print(thisusefulPattern)
+                # print(thisflattenusefulPattern)
+                # print(len(thisflattenusefulPattern))
+                # print(thisgroundTruthLib)
+                # print(len(thisgroundTruthLib))
+                # print("list of useful",thislistlibusefulpattern)
+                # print(len(thislistlibusefulpattern))
+                setdicRecScore(thislistlibusefulpattern,arraysource,thisgroundTruthLib)
+                # print(len(dictRecScore))
+
+
+                list_topkLib = getrecall(dictRecScore,thistopk)
+
+                if(common_member(thisgroundTruthLib,list_topkLib)):
+                    thisrank =getrecallrank(dictRecScore, thisgroundTruthLib)
+                    if(thisrank == None):
+                        thisrank = 0
+                    append_list_as_row(topkfilename,[fold,thisapp,1,thistopk,thisrank])
+                else:
+                    thisrank = getrecallrank(dictRecScore, thisgroundTruthLib)
+                    if (thisrank == None):
+                        thisrank = 0
+                    append_list_as_row(topkfilename, [fold, thisapp, 0, thistopk,thisrank])
+                print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++===')
+                print(thisapp)
+                print('liste all ordoner de recommandation',
+                      sorted(dictRecScore.items(), key=lambda x: x[1], reverse=True))
+                print('$$list of top k ', list_topkLib)
+                print('list pour groundthruth', thisgroundTruthLib)
+
+                print("le rang trouve", thisrank)
+                print(thisapp,common_member(thisgroundTruthLib, list_topkLib))
+                print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++===')
+
+
+    # list1 =[8,0,9,7,4,8]
+    # list2 = [1,2,3]
+    # if(testurn(list1,list2) == None):
+    #     print("oups")
+    # else:
+    #     (print(testurn(list1,list2)))
 
 
 

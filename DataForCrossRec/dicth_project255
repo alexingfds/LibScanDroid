@@ -1,0 +1,10 @@
+1	project255
+2	#DEP#animated-vector-drawable-23.2.0
+3	#DEP#com-android-vending-billing
+4	#DEP#com-nineoldandroids
+5	#DEP#com-secrethq
+6	#DEP#dagger
+7	#DEP#javax-inject
+8	#DEP#multidex-1.0.1
+9	#DEP#org-cocos2dx-lib
+10	#DEP#support-v4-19.0.1

@@ -1,0 +1,10 @@
+1	project414
+2	#DEP#android-support-v4
+3	#DEP#appcompat-v7-25.3.1
+4	#DEP#gson-2.8.2
+5	#DEP#minidns-0.1.7
+6	#DEP#okhttp-3.12.0
+7	#DEP#org-jivesoftware
+8	#DEP#org-jxmpp
+9	#DEP#retrofit2
+10	#DEP#support-annotations-25.1.0

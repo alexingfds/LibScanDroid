@@ -1,0 +1,9 @@
+1	project960
+2	#DEP#android-annotation
+3	#DEP#android-net-http
+4	#DEP#android-support-v4
+5	#DEP#android-webkit
+6	#DEP#com-google-zxing
+7	#DEP#com-umeng
+8	#DEP#gson-1.7.1
+9	#DEP#universal-image-loader-1.7.0

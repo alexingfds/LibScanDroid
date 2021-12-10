@@ -1,0 +1,9 @@
+1	project124
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#com-squareup-leakcanary
+5	#DEP#com-viewpagerindicator
+6	#DEP#okhttp3
+7	#DEP#support-annotations-19.1.0
+8	#DEP#support-vector-drawable-25.4.0
+9	#DEP#uk-co-senab-photoview

@@ -1,0 +1,6 @@
+1	project857
+2	#DEP#android-annotation
+3	#DEP#com-android-vending-billing
+4	#DEP#com-dropbox-client2
+5	#DEP#org-apache-http-entity-mime
+6	#DEP#org-json-simple

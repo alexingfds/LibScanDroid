@@ -1,0 +1,12 @@
+1	project692
+2	#DEP#android
+3	#DEP#butterknife
+4	#DEP#cn-sharesdk
+5	#DEP#com-actionbarsherlock
+6	#DEP#com-amap-api
+7	#DEP#com-aps
+8	#DEP#com-igexin
+9	#DEP#com-nostra13-universalimageloader
+10	#DEP#com-umeng-analytics
+11	#DEP#lecho-lib-hellocharts
+12	#DEP#org-achartengine

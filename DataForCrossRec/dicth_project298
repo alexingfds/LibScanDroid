@@ -1,0 +1,15 @@
+1	project298
+2	#DEP#Ms-Telemetry
+3	#DEP#com-caverock-androidsvg
+4	#DEP#com-fasterxml-jackson
+5	#DEP#com-github-lzyzsd-circleprogress
+6	#DEP#firebase-common-15.0.0
+7	#DEP#kotlin
+8	#DEP#multidex-1.0.2
+9	#DEP#okhttp3
+10	#DEP#org-reactivestreams
+11	#DEP#percent-24.0.0
+12	#DEP#support-annotations-27.0.0
+13	#DEP#support-v13-27.0.0
+14	#DEP#transition-27.0.0
+15	#DEP#yearclass-2.0.0

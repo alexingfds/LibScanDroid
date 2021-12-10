@@ -1,0 +1,12 @@
+1	project46
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-23.2.0
+4	#DEP#appcompat-v7-24.1.0
+5	#DEP#butterknife
+6	#DEP#com-fasterxml-jackson
+7	#DEP#joda-time-2.8.1
+8	#DEP#jsoup-1.7.3
+9	#DEP#net-margaritov-preference-colorpicker
+10	#DEP#org-apache-commons-io
+11	#DEP#org-simpleframework-xml
+12	#DEP#support-annotations-24.0.0

@@ -1,0 +1,15 @@
+1	project388
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-23.2.0
+4	#DEP#butterknife
+5	#DEP#com-afollestad-materialdialogs
+6	#DEP#com-bumptech-glide
+7	#DEP#com-nineoldandroids
+8	#DEP#com-rengwuxian-materialedittext
+9	#DEP#design-23.2.0
+10	#DEP#fab-1.6.1
+11	#DEP#io-codetail
+12	#DEP#me-zhanghai-android-materialprogressbar
+13	#DEP#okhttp-3.0.0
+14	#DEP#org-jsoup
+15	#DEP#support-annotations-22.2.0

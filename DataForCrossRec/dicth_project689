@@ -1,0 +1,11 @@
+1	project689
+2	#DEP#android-annotation
+3	#DEP#android-net-http
+4	#DEP#android-support-v4
+5	#DEP#android-webkit
+6	#DEP#org-apache
+7	#DEP#org-json
+8	#DEP#org-kobjects
+9	#DEP#org-ksoap2
+10	#DEP#org-kxml2
+11	#DEP#org-xmlpull-v1

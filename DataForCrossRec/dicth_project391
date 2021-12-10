@@ -1,0 +1,12 @@
+1	project391
+2	#DEP#android-support-v4
+3	#DEP#com-android-volley
+4	#DEP#com-google-gson
+5	#DEP#core-ktx-0.3
+6	#DEP#de-greenrobot-event
+7	#DEP#guava-10.0
+8	#DEP#kotlin
+9	#DEP#org-intellij-lang-annotations
+10	#DEP#org-jetbrains-annotations
+11	#DEP#retrofit-1.3.0
+12	#DEP#support-annotations-27.1.0

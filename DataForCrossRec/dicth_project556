@@ -1,0 +1,12 @@
+1	project556
+2	#DEP#android-support-v4
+3	#DEP#com-android-vending-billing
+4	#DEP#com-crashlytics-android
+5	#DEP#com-flurry
+6	#DEP#com-itextpdf
+7	#DEP#it-sephiroth-android-library-imagezoom
+8	#DEP#javax-inject
+9	#DEP#jp-co-cyberagent-android-gpuimage
+10	#DEP#org-opencv
+11	#DEP#org-slf4j
+12	#DEP#support-annotations-22.2.0

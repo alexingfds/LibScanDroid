@@ -1,0 +1,13 @@
+1	project204
+2	#DEP#android-support-v4
+3	#DEP#com-google-gson
+4	#DEP#com-squareup-otto
+5	#DEP#design-24.2.0
+6	#DEP#net-danlew-android-joda
+7	#DEP#okhttp3
+8	#DEP#org-joda-time
+9	#DEP#org-spongycastle-util
+10	#DEP#percent-23.2.0
+11	#DEP#rx
+12	#DEP#support-annotations-19.1.0
+13	#DEP#support-vector-drawable-23.4.0

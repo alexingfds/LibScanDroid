@@ -1,0 +1,9 @@
+1	project207
+2	#DEP#com-google-zxing
+3	#DEP#gson-2.2.1
+4	#DEP#org-apache-commons
+5	#DEP#org-bouncycastle
+6	#DEP#org-kobjects
+7	#DEP#org-ksoap2
+8	#DEP#org-kxml2
+9	#DEP#org-xmlpull-v1

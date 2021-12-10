@@ -1,0 +1,11 @@
+1	project948
+2	#DEP#android-net-http
+3	#DEP#android-support-v4
+4	#DEP#android-webkit
+5	#DEP#com-amap-api
+6	#DEP#com-aps
+7	#DEP#com-google-zxing
+8	#DEP#com-tencent-mm
+9	#DEP#gson-2.2.1
+10	#DEP#org-apache-http-entity-mime
+11	#DEP#org-codehaus-jackson

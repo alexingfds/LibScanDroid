@@ -1,0 +1,14 @@
+1	project580
+2	#DEP#com-github-kevinsawicki-http
+3	#DEP#com-google-zxing
+4	#DEP#com-journeyapps-barcodescanner
+5	#DEP#com-neovisionaries-ws-client
+6	#DEP#com-squareup
+7	#DEP#guava-15.0
+8	#DEP#info-hoang8f-android-segmented
+9	#DEP#javax-annotation-meta
+10	#DEP#org-apmem-tools-layouts
+11	#DEP#org-slf4j
+12	#DEP#org-spongycastle
+13	#DEP#rx
+14	#DEP#scala

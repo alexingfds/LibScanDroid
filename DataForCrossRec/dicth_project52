@@ -1,0 +1,11 @@
+1	project52
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-23.2.0
+4	#DEP#com-afollestad-materialdialogs
+5	#DEP#com-android-vending-billing
+6	#DEP#jmdns-3.4.1
+7	#DEP#me-zhanghai-android-materialprogressbar
+8	#DEP#net-jcip-annotations
+9	#DEP#protolite-well-known-types-15.0.0
+10	#DEP#support-annotations-24.0.0
+11	#DEP#support-v13-24.0.0

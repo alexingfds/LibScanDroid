@@ -1,0 +1,12 @@
+1	project577
+2	#DEP#com-bigkoo-pickerview
+3	#DEP#com-stripe-android
+4	#DEP#com-ut-device
+5	#DEP#facebook-messenger-4.27.0
+6	#DEP#fastjson-1.1.47.android
+7	#DEP#kotlin
+8	#DEP#org-greenrobot-eventbus
+9	#DEP#org-xbill-DNS
+10	#DEP#preference-v14-26.0.0
+11	#DEP#support-annotations-26.0.0
+12	#DEP#transition-26.0.0

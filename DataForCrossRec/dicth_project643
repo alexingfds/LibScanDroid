@@ -1,0 +1,10 @@
+1	project643
+2	#DEP#android-annotation
+3	#DEP#com-google-gson
+4	#DEP#com-umeng
+5	#DEP#org-apache
+6	#DEP#org-kobjects
+7	#DEP#org-ksoap2
+8	#DEP#org-kxml2
+9	#DEP#org-simpleframework-xml
+10	#DEP#org-xmlpull-v1

@@ -1,0 +1,13 @@
+1	project752
+2	#DEP#android-support-v4
+3	#DEP#com-alipay
+4	#DEP#com-google-zxing
+5	#DEP#com-nineoldandroids
+6	#DEP#com-ta-utdid2
+7	#DEP#com-ut-device
+8	#DEP#org-json-simple
+9	#DEP#org-kobjects
+10	#DEP#org-ksoap2
+11	#DEP#org-kxml2
+12	#DEP#org-xmlpull-v1
+13	#DEP#universal-image-loader-1.9.0

@@ -1,0 +1,10 @@
+1	project246
+2	#DEP#dagger
+3	#DEP#gson-2.8.2
+4	#DEP#joda-time-2.1
+5	#DEP#kotlin
+6	#DEP#multidex-1.0.2
+7	#DEP#okhttp3
+8	#DEP#retrofit
+9	#DEP#support-annotations-26.0.0
+10	#DEP#transition-26.0.0

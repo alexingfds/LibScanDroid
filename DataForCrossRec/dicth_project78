@@ -1,0 +1,17 @@
+1	project78
+2	#DEP#android-media
+3	#DEP#android-support-v4
+4	#DEP#animated-vector-drawable-23.2.0
+5	#DEP#com-android-internal-telephony
+6	#DEP#com-crashlytics-android
+7	#DEP#com-gu-option
+8	#DEP#com-gun0912-tedpermission
+9	#DEP#com-jfeinstein-jazzyviewpager
+10	#DEP#com-nineoldandroids
+11	#DEP#com-nostra13-universalimageloader
+12	#DEP#com-squareup-otto
+13	#DEP#design-24.0.0
+14	#DEP#gson-2.2.1
+15	#DEP#multidex-1.0.3
+16	#DEP#se-emilsjolander-stickylistheaders
+17	#DEP#support-annotations-24.0.0

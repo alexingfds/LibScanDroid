@@ -1,0 +1,10 @@
+1	project13
+2	#DEP#android-support-v4
+3	#DEP#appcompat-v7-23.1.1
+4	#DEP#bitter-jnibridge
+5	#DEP#com-android-vending-billing
+6	#DEP#com-unity-purchasing
+7	#DEP#com-unity3d-player
+8	#DEP#firebase-common-15.0.0
+9	#DEP#org-fmod
+10	#DEP#support-annotations-22.2.0

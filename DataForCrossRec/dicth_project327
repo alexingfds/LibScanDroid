@@ -1,0 +1,12 @@
+1	project327
+2	#DEP#butterknife
+3	#DEP#com-google-gson
+4	#DEP#com-viewpagerindicator
+5	#DEP#com-wefika-flowlayout
+6	#DEP#okhttp3
+7	#DEP#org-greenrobot-eventbus
+8	#DEP#org-json-simple
+9	#DEP#org-reactivestreams
+10	#DEP#retrofit
+11	#DEP#support-annotations-27.0.0
+12	#DEP#transition-27.0.0

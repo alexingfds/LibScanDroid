@@ -1,0 +1,16 @@
+1	project608
+2	#DEP#com-adjust-sdk
+3	#DEP#com-ashokvarma-bottomnavigation
+4	#DEP#com-firebase-jobdispatcher
+5	#DEP#com-google-gson
+6	#DEP#com-hannesdorfmann-fragmentargs
+7	#DEP#com-paginate
+8	#DEP#dagger
+9	#DEP#facebook-messenger-4.27.0
+10	#DEP#io-realm
+11	#DEP#javax-annotation-meta
+12	#DEP#javax-inject
+13	#DEP#me-zhanghai-android-materialprogressbar
+14	#DEP#okhttp3
+15	#DEP#org-greenrobot-eventbus
+16	#DEP#org-reactivestreams

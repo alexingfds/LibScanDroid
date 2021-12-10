@@ -1,0 +1,13 @@
+1	project547
+2	#DEP#android-databinding
+3	#DEP#android-support-v4
+4	#DEP#animated-vector-drawable-23.2.0
+5	#DEP#com-bumptech-glide
+6	#DEP#com-caverock-androidsvg
+7	#DEP#com-crashlytics-android
+8	#DEP#com-getbase-floatingactionbutton
+9	#DEP#design-23.3.0
+10	#DEP#io-fabric-sdk-android
+11	#DEP#sqlbrite-0.1.0
+12	#DEP#support-annotations-22.2.0
+13	#DEP#uk-co-senab-photoview

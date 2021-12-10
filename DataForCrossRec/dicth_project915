@@ -1,0 +1,12 @@
+1	project915
+2	#DEP#android-net-http
+3	#DEP#android-webkit
+4	#DEP#com-coremedia-iso
+5	#DEP#com-googlecode-mp4parser
+6	#DEP#org-apache
+7	#DEP#org-aspectj
+8	#DEP#org-jdesktop-application
+9	#DEP#org-kobjects
+10	#DEP#org-ksoap2
+11	#DEP#org-kxml2
+12	#DEP#org-xmlpull-v1

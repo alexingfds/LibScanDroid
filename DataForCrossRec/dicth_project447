@@ -1,0 +1,12 @@
+1	project447
+2	#DEP#android-arch
+3	#DEP#core-1.0.0
+4	#DEP#multidex-1.0.2
+5	#DEP#oauth-signpost
+6	#DEP#org-apache
+7	#DEP#org-metalev-multitouch-controller
+8	#DEP#org-osmdroid
+9	#DEP#org-slf4j
+10	#DEP#support-annotations-28.0.0
+11	#DEP#support-compat-28.0.0
+12	#DEP#versionedparcelable-1.0.0

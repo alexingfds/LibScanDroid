@@ -1,0 +1,10 @@
+1	project405
+2	#DEP#android-support-v4
+3	#DEP#appcompat-v7-23.0.1
+4	#DEP#com-android-vending-billing
+5	#DEP#com-astuetz
+6	#DEP#com-bumptech-glide
+7	#DEP#multidex-1.0.1
+8	#DEP#org-apache-commons-lang3
+9	#DEP#org-jsoup
+10	#DEP#support-annotations-22.2.0

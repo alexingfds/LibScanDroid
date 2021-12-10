@@ -1,0 +1,9 @@
+1	project369
+2	#DEP#android-annotation
+3	#DEP#android-support-v4
+4	#DEP#jsoup-1.6.2
+5	#DEP#org-codehaus-jackson
+6	#DEP#org-kobjects
+7	#DEP#org-ksoap2
+8	#DEP#org-kxml2
+9	#DEP#org-xmlpull-v1

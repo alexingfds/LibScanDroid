@@ -1,0 +1,12 @@
+1	project23
+2	#DEP#android-support-v4
+3	#DEP#appcompat-v7-22.1.1
+4	#DEP#com-batch-android
+5	#DEP#com-crashlytics-android
+6	#DEP#com-flurry
+7	#DEP#com-nineoldandroids
+8	#DEP#com-parse
+9	#DEP#com-viewpagerindicator
+10	#DEP#io-fabric-sdk-android
+11	#DEP#org-achartengine
+12	#DEP#support-annotations-19.1.0

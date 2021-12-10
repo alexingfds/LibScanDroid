@@ -1,0 +1,17 @@
+1	project63
+2	#DEP#analytics-6.1.0
+3	#DEP#android-content-pm
+4	#DEP#android-support-v4
+5	#DEP#audience-network-sdk-4.9.0
+6	#DEP#cardview-v7-21.0.2
+7	#DEP#com-actionbarsherlock
+8	#DEP#com-alibaba-fastjson
+9	#DEP#com-android
+10	#DEP#com-google-gson
+11	#DEP#com-pnikosis-materialishprogress
+12	#DEP#com-squareup
+13	#DEP#com-viewpagerindicator
+14	#DEP#okhttp3
+15	#DEP#retrofit2
+16	#DEP#support-annotations-22.2.0
+17	#DEP#support-v13-20.0.0

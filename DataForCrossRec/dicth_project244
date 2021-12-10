@@ -1,0 +1,11 @@
+1	project244
+2	#DEP#android-support-v4
+3	#DEP#com-mobeta-android-dslv
+4	#DEP#dagger
+5	#DEP#design-26.0.0
+6	#DEP#guava-15.0
+7	#DEP#javax-inject
+8	#DEP#percent-23.2.0
+9	#DEP#support-annotations-19.1.0
+10	#DEP#support-vector-drawable-25.4.0
+11	#DEP#wearable-2.1.0

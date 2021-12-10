@@ -1,0 +1,15 @@
+1	project95
+2	#DEP#acra-4.9.0
+3	#DEP#android-support-v4
+4	#DEP#animated-vector-drawable-23.2.0
+5	#DEP#butterknife
+6	#DEP#ch-acra-acra
+7	#DEP#com-afollestad-materialdialogs
+8	#DEP#com-google-gson
+9	#DEP#com-squareup-picasso
+10	#DEP#design-24.1.0
+11	#DEP#me-zhanghai-android-materialprogressbar
+12	#DEP#microsoft-mappoint
+13	#DEP#org-metalev-multitouch-controller
+14	#DEP#org-osmdroid
+15	#DEP#support-annotations-24.0.0

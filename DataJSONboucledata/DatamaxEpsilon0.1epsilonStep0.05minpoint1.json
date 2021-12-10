@@ -1,0 +1,45 @@
+{
+    "name": "",
+    "children": [
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "lifecycle-common-2.0.0",
+                            "value": 185296.0
+                        },
+                        {
+                            "name": "loader-1.0.0",
+                            "value": 185296.0
+                        },
+                        {
+                            "name": "localbroadcastmanager-1.0.0",
+                            "value": 185296.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "slidingpanelayout-1.0.0",
+                            "value": 277944.0
+                        },
+                        {
+                            "name": "swiperefreshlayout-1.0.0",
+                            "value": 277944.0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

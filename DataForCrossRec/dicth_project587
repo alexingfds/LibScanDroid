@@ -1,0 +1,11 @@
+1	project587
+2	#DEP#android-support-v4
+3	#DEP#com-github-machinarius-preferencefragment
+4	#DEP#com-mikepenz
+5	#DEP#com-octo-android-robospice
+6	#DEP#gson-2.8.0
+7	#DEP#guava-15.0
+8	#DEP#org-androidannotations
+9	#DEP#org-apache-commons
+10	#DEP#roboguice-util-temp
+11	#DEP#support-annotations-22.2.0

@@ -1,0 +1,8 @@
+1	project651
+2	#DEP#android-annotation
+3	#DEP#android-support-v4
+4	#DEP#com-android-vending-billing
+5	#DEP#org-kobjects
+6	#DEP#org-ksoap2
+7	#DEP#org-kxml2
+8	#DEP#org-xmlpull-v1

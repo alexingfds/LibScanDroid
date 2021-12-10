@@ -84,3 +84,285 @@
 2021-07-26 01:39:08.673031
 [['android-net-http', -1], ['android-support-v4', -1], ['android-webkit', -1], ['com-j256-ormlite', -1], ['com-umeng', -1], ['gson-2.2.3', -1], ['org-apache-commons', -1], ['org-hamcrest', -1], ['org-json', -1], ['android-annotation', -1], ['org-kobjects', -1], ['org-ksoap2', -1], ['org-kxml2', -1], ['org-xmlpull-v1', -1], ['jsoup-1.6.3', -1], ['org-apache', -1], ['com-actionbarsherlock', -1], ['com-alibaba-fastjson', -1], ['com-baidu', -1], ['com-hp-hpl-sparta', -1], ['com-jcraft-jzlib-RELEASE100', -1], ['com-nostra13-universalimageloader', -1], ['com-xiaomi', -1], ['demo', -1], ['net-sourceforge-pinyin4j', -1], ['org-jivesoftware', -1], ['org-pjsip', -1], ['org-xbill-DNS', -1], ['com-alipay-android-app', -1], ['animated-vector-drawable-23.2.0', -1], ['com-bumptech-glide', -1], ['com-crashlytics-android', -1], ['com-facebook-ads', -1], ['com-github-mikephil-charting', -1], ['com-google-gson', -1], ['com-mopub', -1], ['com-rateus-lib', -1], ['com-zj', -1], ['design-24.2.1', -1], ['io-fabric-sdk-android', -1], ['multidex-1.0.1', -1], ['org-joda-time', -1], ['support-annotations-24.0.0', -1], ['appcompat-v7-19.1.0', -1], ['com-nineoldandroids', -1], ['protolite-well-known-types-15.0.0', -1], ['support-v4-19.1.0', -1], ['gson-2.2.2', -1], ['org-achartengine', -1], ['com-github-clans-fab', -1], ['com-squareup-picasso', -1], ['design-24.2.0', -1], ['appcompat-v7-23.1.1', -1], ['bitter-jnibridge', -1], ['com-android-vending-billing', -1], ['com-unity-purchasing', -1], ['com-unity3d-player', -1], ['firebase-common-15.0.0', -1], ['org-fmod', -1], ['support-annotations-22.2.0', -1], ['appcompat-v7-23.4.0', -1], ['com-jakewharton-disklrucache', -1], ['com-slidingmenu-lib', -1], ['com-viewpagerindicator', -1], ['support-annotations-19.1.0', -1], ['org-apache-http-entity-mime', -1], ['com-android', -1], ['com-dropbox-client2', -1], ['design-24.1.0', -1], ['org-json-simple', -1], ['support-annotations-27.0.0', -1], ['uk-co-senab-photoview', -1], ['appcompat-v7-23.0.0', -1], ['design-23.0.0', -1], ['com-androidquery', -1], ['appcompat-v7-22.1.1', -1], ['com-batch-android', -1], ['com-flurry', -1], ['com-parse', -1], ['android-arch', -1], ['batch-sdk-1.10.0', -1], ['butterknife', -1], ['com-annimon-stream', -1], ['com-bigkoo-pickerview', -1], ['com-google-zxing', -1], ['com-octo-android-robospice', -1], ['com-squareup-okhttp', -1], ['de-hdodenhof-circleimageview', -1], ['design-26.0.0', -1], ['in-srain-cube-views-ptr', -1], ['info-hoang8f-android-segmented', -1], ['io-card-payment', -1], ['library-0.7.0', -1], ['multidex-1.0.2', -1], ['retrofit-1.6.0', -1], ['android-content-pm', -1], ['cn-gov-pbc-tsm-client-mobile-android-bank-service', -1], ['com-UCMobile-PayPlugin', -1], ['com-edmodo-cropper', -1], ['com-tencent-mm', -1], ['com-unionpay', -1], ['vi-com-gdi-bgl-android-java', -1], ['appcompat-v7-22.2.1', -1], ['gnu-bytecode', -1], ['gnu-commonlisp', -1], ['gnu-ecmascript', -1], ['gnu-expr', -1], ['gnu-lists', -1], ['gnu-mapping', -1], ['gnu-math', -1], ['gnu-text', -1], ['gnu-xml', -1], ['gnu-xquery', -1], ['kawa', -1], ['org-acra', -1], ['annotation-1.0.0', -1], ['appcompat-1.0.0', -1], ['cardview-1.0.0', -1], ['collection-1.0.0', -1], ['com-fasterxml-jackson-core', -1], ['core-1.0.0', -1], ['core-1.0.1', -1], ['io-sentry', -1], ['lifecycle-runtime-2.0.0', -1], ['okhttp3', -1], ['org-slf4j', -1], ['org-sufficientlysecure-htmltextview', -1], ['preference-1.0.0', -1], ['room-runtime-2.0.0', -1], ['sqlite-2.0.0', -1], ['transition-1.0.0', -1], ['vectordrawable-1.0.0', -1], ['work-runtime-1.0.0', -1], ['design-22.2.1', -1], ['animated-vector-drawable-25.0.0', -1], ['aws-android-sdk-core-2.1.10', -1], ['com-adobe', -1], ['com-squareup', -1], ['customtabs-25.0.0', -1], ['design-25.0.1', -1], ['glide-3.3.1', -1], ['multidex-instrumentation-2.0.0', -1], ['org-codehaus-jackson', -1], ['org-java_websocket', -1], ['percent-24.0.0', -1], ['preference-v14-24.2.0', -1], ['recommendation-27.1.0', -1], ['support-annotations-25.0.0', -1], ['support-v13-25.1.0', -1], ['transition-25.0.0', -1], ['browser-1.0.0', -1], ['com-facebook-stetho', -1], ['constraint-layout-1.0.2', -1], ['multidex-1.0.0', -1], ['okhttp-2.7.0', -1], ['preference-v14-26.0.0', -1], ['annotation-1.1.0', -1], ['appcompat-1.0.1', -1], ['collection-1.1.0', -1], ['com-amulyakhare-textdrawable', -1], ['com-getbase-floatingactionbutton', -1], ['com-github-paolorotolo-appintro', -1], ['com-mikepenz', -1], ['core-1.0.2', -1], ['de-psdev-licensesdialog', -1], ['me-dm7-barcodescanner', -1], ['media-1.0.1', -1], ['org-intellij-lang-annotations', -1], ['org-jetbrains-annotations', -1], ['org-spongycastle', -1], ['org-greenrobot-eventbus', -1], ['transition-1.1.0', -1], ['net-i2p-android-ext-floatingactionbutton', -1], ['cardview-v7-23.2.1', -1], ['dagger', -1], ['guava-15.0', -1], ['javax-inject', -1], ['junit-extensions', -1], ['junit-framework', -1], ['junit-textui', -1], ['net-sourceforge-zbar', -1], ['org-junit', -1], ['org-objenesis', -1], ['support-v13-23.0.0', -1], ['af-android-sdk-4.8.9', -1], ['bolts', -1], ['com-github-chrisbanes-photoview', -1], ['com-intercom', -1], ['com-jakewharton-picasso', -1], ['com-redmadrobot-inputmask', -1], ['com-segment-analytics', -1], ['com-stripe-android', -1], ['com-twitter', -1], ['design-27.0.0', -1], ['exifinterface-27.1.0', -1], ['facebook-applinks-4.27.0', -1], ['facebook-login-4.27.0', -1], ['facebook-messenger-4.27.0', -1], ['facebook-places-4.27.0', -1], ['io-branch', -1], ['io-intercom', -1], ['org-apmem-tools-layouts', -1], ['paypal-android-sdk-2.16.0', -1], ['retrofit2', -1], ['se-emilsjolander-stickylistheaders', -1], ['support-annotations-27.1.0', -1], ['support-v13-27.0.0', -1], ['transition-27.1.0', -1], ['animated-vector-drawable-25.1.0', -1], ['com-afollestad-materialdialogs', -1], ['com-android-volley', -1], ['com-github', -1], ['design-25.1.0', -1], ['eu-chainfire-libsuperuser', -1], ['library-0.4.0', -1], ['me-zhanghai-android-materialprogressbar', -1], ['support-annotations-25.1.0', -1], ['systembartint-1.0.3', -1], ['amazon-communication', -1], ['android-accounts', -1], ['com-RNFetchBlob', -1], ['com-amazonaws-mobileconnectors-remoteconfiguration', -1], ['com-brentvatne-react', -1], ['com-dp-utils', -1], ['com-github-yamill-orientation', -1], ['com-imagepicker', -1], ['com-reactnative-ivpusic-imagepicker', -1], ['com-yalantis-ucrop', -1], ['com-yqritc-scalablevideoview', -1], ['design-23.2.1', -1], ['fi-iki-elonen', -1], ['fr-castorflex-android-smoothprogressbar', -1], ['fr-greweb-reactnativeviewshot', -1], ['id-zelory-compressor', -1], ['javax-annotation', -1], ['org-reactivestreams', -1], ['support-vector-drawable-23.2.0', -1], ['appcompat-v7-23.2.1', -1], ['com-fasterxml-jackson', -1], ['com-larvalabs-svgandroid', -1], ['de-greenrobot-event', -1], ['kotlin', -1], ['media-1.0.0', -1], ['multidex-2.0.1', -1], ['org-jdom2', -1], ['org-jetbrains-anko', -1], ['com-sun', -1], ['javax-activation', -1], ['mailapi-1.4.2', -1], ['myjava-awt-datatransfer', -1], ['twitter4j', -1], ['gson-2.3', -1], ['appcompat-v7-24.1.0', -1], ['joda-time-2.8.1', -1], ['jsoup-1.7.3', -1], ['net-margaritov-preference-colorpicker', -1], ['org-apache-commons-io', -1], ['org-simpleframework-xml', -1], ['androidplot-core-0.6.1', -1], ['appcompat-v7-21.0.2', -1], ['android-job-1.2.5', -1], ['androidsvg-1.4', -1], ['caldroid-1.1.0', -1], ['caldroid-3.0.0', -1], ['com-codetroopers-betterpickers', -1], ['com-melnykov-fab', -1], ['dagger-2.13', -1], ['databinding-runtime-3.3.1', -1], ['fonticon-0.1.9', -1], ['gridlayout-1.0.0', -1], ['gson-2.8.2', -1], ['hirondelle-date4j', -1], ['icepick', -1], ['me-relex-circleindicator', -1], ['multidex-2.0.0', -1], ['org-codehaus-mojo-animal_sniffer', -1], ['org-jsoup', -1], ['org-parceler', -1], ['rx', -1], ['timber-log', -1], ['appcompat-v7-20.0.0', -1], ['support-v4-20.0.0', -1], ['jmdns-3.4.1', -1], ['net-jcip-annotations', -1], ['support-v13-24.0.0', -1], ['com-nispok-snackbar', -1], ['design-28.0.0', -1], ['io-codetail', -1], ['me-leolin-shortcutbadger', -1], ['org-jxmpp', -1], ['org-metalev-multitouch-controller', -1], ['org-osmdroid', -1], ['pub-devrel-easypermissions', -1], ['support-media-compat-28.0.0', -1], ['support-vector-drawable-28.0.0', -1], ['transition-28.0.0', -1], ['support-annotations-26.0.0', -1], ['support-v13-26.0.0', -1], ['transition-26.0.0', -1], ['acra-4.11', -1], ['com-woxthebox-draglistview', -1], ['httpclient-4.5.8', -1], ['junit-runner', -1], ['oauth-signpost', -1], ['scribejava-core-6.6.3', -1], ['androidsvg-1.3', -1], ['constraintlayout-1.1.1', -1], ['guava-10.0', -1], ['java8-util', -1], ['lecho-lib-hellocharts', -1], ['net-fortuna-ical4j', -1], ['org-apache-commons-lang3', -1], ['org-threeten-bp', -1], ['room-runtime-2.1.0', -1], ['af-android-sdk-4.3.4', -1], ['gson-2.8.0', -1], ['exifinterface-1.0.0', -1], ['gson-2.8.5', -1], ['java8-lang', -1], ['jsoup-1.11.3', -1], ['okhttp-3.12.0', -1], ['acra-4.6.2', -1], ['gson-2.4', -1], ['android-databinding', -1], ['com-android-databinding-library', -1], ['dagger-2.8', -1], ['io-reactivex', -1], ['com-polites-android', -1], ['analytics-6.1.0', -1], ['audience-network-sdk-4.9.0', -1], ['cardview-v7-21.0.2', -1], ['com-pnikosis-materialishprogress', -1], ['support-v13-20.0.0', -1], ['android-database-sqlcipher-3.5.3', -1], ['com-daimajia-swipe', -1], ['com-leanplum', -1], ['com-yarolegovich-discretescrollview', -1], ['pl-droidsonroids-gif', -1], ['annotation-1.0.1', -1], ['com-daimajia', -1], ['dynamicanimation-1.0.0', -1], ['com-getkeepsafe-taptargetview', -1], ['okio-2.2.0', -1], ['gnu-q2-lang', -1], ['com-everyplay', -1], ['com-vuforia', -1], ['com-skyfishjy-library', -1], ['com-jcraft-jzlib', -1], ['com-karumi-dexter', -1], ['com-tokenautocomplete', -1], ['databinding-runtime-3.4.1', -1], ['javax-jmdns', -1], ['org-bouncycastle', -1], ['com-esotericsoftware', -1], ['com-sothree-slidinguppanel', -1], ['org-objectweb-asm', -1], ['brut-common', -1], ['brut-util', -1], ['ch-qos-logback', -1], ['com-crashlytics-android-answers-shim', -1], ['com-mindprod-ledatastream', -1], ['org-apache-commons-codec', -1], ['com-getkeepsafe-relinker', -1], ['support-vector-drawable-25.4.0', -1], ['uk-co-chrisjenx-calligraphy', -1], ['android-media', -1], ['com-android-internal-telephony', -1], ['com-gu-option', -1], ['com-gun0912-tedpermission', -1], ['com-jfeinstein-jazzyviewpager', -1], ['com-squareup-otto', -1], ['design-24.0.0', -1], ['gson-2.2.1', -1], ['multidex-1.0.3', -1], ['guava-14.0', -1], ['at-nineyards-anyline', -1], ['com-adjust-sdk', -1], ['com-adtech-mobilesdk', -1], ['com-fernandocejas-frodo-annotation', -1], ['com-krux-androidsdk', -1], ['com-microsoft-windowsazure', -1], ['com-noveogroup-android-log', -1], ['com-optimizely-ab', -1], ['com-proximity-library', -1], ['com-squareup-leakcanary', -1], ['com-tune', -1], ['de-javakaffee-kryoserializers', -1], ['gson-2.6.1', -1], ['io-paperdb', -1], ['org-opencv', -1], ['com-airbnb-lottie', -1], ['com-commonsware-cwac-provider', -1], ['com-comscore', -1], ['com-dd-processbutton', -1], ['com-fasterxml-jackson-annotation', -1], ['com-isseiaoki-simplecropview', -1], ['com-mobsandgeeks-saripaar', -1], ['commons-validator-routines', -1], ['constraintlayout-1.1.0', -1], ['de-infonline-lib', -1], ['de-spring', -1], ['net-hockeyapp-android', -1], ['percent-23.2.0', -1], ['transition-27.0.0', -1], ['ch-tutti-android-bottomsheet', -1], ['com-birbit-android-jobqueue', -1], ['com-lenovo', -1], ['com-localytics-android', -1], ['com-trello-rxlifecycle', -1], ['library-0.4.3', -1], ['proguard-annotation', -1], ['com-adcolony', 1], ['com-amazon-device-ads', 1], ['com-applovin', 1], ['com-chartboost-sdk', 1], ['com-tapjoy', 1], ['com-unity3d', 1], ['percentlayout-1.0.0', -1], ['wearable-2.2.0', -1], ['com-appsflyer', -1], ['com-bumptech-glide-integration-okhttp3', -1], ['com-campmobile', -1], ['com-linecorp', -1], ['com-nhncorp-nelo2-android', -1], ['com-sensetime', -1], ['jp-naver-common-android-notice', -1], ['me-grantland-widget', -1], ['me-leolin-shortcutbadger-impl', -1], ['org-mozilla', -1], ['org-vinuxproject-sonic', -1], ['com-davemorrissey-labs-subscaleview', -1], ['com-koushikdutta', -1], ['com-andromo-widget', -1], ['gridlayout-v7-19.1.0', -1], ['org-jsoup-nodes', -1], ['design-25.3.0', -1], ['com-hannesdorfmann-adapterdelegates3', -1], ['com-jakewharton', -1], ['dagger-2.6', -1], ['org-codechimp-apprater', -1], ['roboguice-4.0.0', -1], ['urbanairship-sdk-8.7.0', -1], ['wearable-2.1.0', -1], ['yearclass-1.0.0', -1], ['com-handmark-pulltorefresh-library', -1], ['com-insdio-aqicn-airwidget', -1], ['microsoft-mappoint', -1], ['acra-4.9.0', -1], ['ch-acra-acra', -1], ['com-amazonaws', -1], ['com-chad-library', -1], ['com-hanks-htextview', -1], ['com-kyleduo-switchbutton', -1], ['transition-24.2.0', -1], ['com-lyft-android-scissors', -1], ['com-tbruyelle-rxpermissions', -1], ['com-trello-rxlifecycle2', -1], ['retrofit', -1], ['batch-sdk-1.10.1', -1], ['com-mixpanel-android', -1], ['com-readystatesoftware-sqliteasset', -1], ['cupboard-2.2.0', -1], ['org-scribe', -1], ['paperparcel', -1], ['kotlinx-coroutines-experimental', -1], ['com-jakewharton-threetenabp', -1], ['com-rd', -1], ['jp-wasabeef-blurry', -1], ['kotlinx-android', -1], ['com-activeandroid', -1], ['android-sdk-2.16.0', -1], ['com-eclipsesource-json', -1], ['io-github-douglasjunior-androidSimpleTooltip', -1], ['com-balysv-materialmenu-ps', -1], ['com-quinny898-library-persistentsearch', -1], ['io-codetailps', -1], ['me-gujun-android-taggroup', -1], ['tourguide-tourguide', -1], ['com-alipay', -1], ['com-aurelhubert-ahbottomnavigation', -1], ['databinding-runtime-3.4.0', -1], ['org-androidannotations', -1], ['org-json-alipay', -1], ['appcompat-v7-23.2.0', -1], ['bo-app', -1], ['com-appboy', -1], ['com-apptimize', -1], ['com-zendesk', -1], ['it-sephiroth-android-library-tooltip', -1], ['mp', -1], ['nl-dionsegijn-konfetti', -1], ['org-jcodec', -1], ['appcompat-v7-22.0.0', -1], ['appcompat-v7-27.0.2', -1], ['com-akexorcist-roundcornerprogressbar', -1], ['com-anjlab-android-iab-v3', -1], ['com-makeramen-roundedimageview', -1], ['com-universalvideoview', -1], ['com-wang-avi', -1], ['eu-fiskur-chipcloud', -1], ['fisk-chipcloud', -1], ['hawk-2.0.1', -1], ['iterable-com-iterableapi', -1], ['org-adw-library-widgets-discreteseekbar', -1], ['picasso2-okhttp3-downloader-1.1.0', -1], ['appcompat-v7-26.0.0', 1], ['audience-network-sdk-4.25.0', -1], ['com-appnext', 1], ['com-appodeal-ads', 1], ['com-avocarrot', 1], ['com-inmobi', 1], ['com-ironsource', 1], ['com-moat-analytics-mobile', 1], ['com-my-target', 1], ['com-startapp-android-publish', 1], ['com-vungle-publisher', 1], ['com-yandex', 1], ['do-do-do-do', 1], ['for', 1], ['if-do-do', 1], ['io-presage', 1], ['org-nexage-sourcekit', 1], ['com-soundcloud-android-crop', -1], ['io-socket', -1], ['jp-wasabeef-picasso-transformations', -1], ['org-apache-commons-cli', -1], ['stetho-1.4.0', -1], ['appintro-4.1.0', -1], ['com-digits-sdk', -1], ['com-github-anrwatchdog', -1], ['com-google-android', -1], ['com-journeyapps-barcodescanner', -1], ['com-nirhart-parallaxscroll', -1], ['com-paginate', -1], ['gson-2.3.1', -1], ['org-apache-http', -1], ['org-aspectj', -1], ['retrofit-1.7.0', -1], ['circularimageview-3.0.2', -1], ['com-alphab', -1], ['com-andexert-library', -1], ['com-mobileapptracker', -1], ['com-rengwuxian-materialedittext', -1], ['com-vpadn', -1], ['com-wdullaer-materialdatetimepicker', -1], ['vpadn', -1], ['com-mobeta-android-dslv', -1], ['support-vector-drawable-23.4.0', -1], ['android-beacon-library-2.10', -1], ['android-net', -1], ['com-android-internal-http-multipart', -1], ['com-samsung-android-sdk', -1], ['org-htmlparser', -1], ['customtabs-24.0.0', -1], ['gson-2.8.1', -1], ['net-sqlcipher', -1], ['net-vrallev-android-cat', -1], ['appcompat-v7-23.0.1', -1], ['Laevatein-2.1.1', -1], ['com-airbnb-deeplinkdispatch', -1], ['com-bugsnag-android', -1], ['com-wefika-flowlayout', -1], ['dagger-2.9', -1], ['io-realm', -1], ['it-sephiroth-android-library', -1], ['permissions-dispatcher', -1], ['audience-network-sdk-4.12.1', -1], ['com-appodeal', -1], ['com-cmcm', -1], ['com-immersion', -1], ['com-jirbo-adcolony', -1], ['com-revmob', -1], ['dagger-2.1', -1], ['org-apache-cordova', -1], ['rrrrrr', -1], ['cn-pedant-SweetAlert', -1], ['com-arlib-floatingsearchview', -1], ['com-like', -1], ['com-loopj-android-http', -1], ['com-romainpiel-shimmer', -1], ['cz-msebera', -1], ['viewpropertyobjectanimator-1.2.0', -1], ['com-theartofdev-edmodo-cropper', -1], ['conscrypt-android-2.1.0', -1], ['de-measite-minidns', -1], ['design-25.0.0', -1], ['support-emoji-28.0.0', -1], ['com-nytimes-android-external-cache', -1], ['com-paypal-android-sdk', -1], ['com-stripe', -1], ['com-zopim-android-sdk', -1], ['net-danlew-android-joda', -1], ['stetho-1.3.1', -1], ['design-23.1.1', -1], ['dropbox-core-sdk-3.0.2', -1], ['dagger-2.22.1', -1], ['com-jaredrummler-materialspinner', -1], ['com-shawnlin-numberpicker', -1], ['guava-12.0', -1], ['jsch-0.1.50', -1], ['com-joanzapata-iconify', -1], ['com-prolificinteractive-materialcalendarview', -1], ['hugo-weaving', -1], ['jp-co-cyberagent-android-gpuimage', -1], ['tv-danmaku-ijk-media-player', -1], ['analytics-5.6.1', -1], ['com-autonavi-aps-amapapi-model', -1], ['com-igexin', -1], ['com-jg', -1], ['com-mob', -1], ['com-qq-taf-jce', -1], ['com-sina', -1], ['com-ta-utdid2', -1], ['com-ut-device', -1], ['com-zhy-view-flowlayout', -1], ['jp-wasabeef-glide-transformations', -1], ['location-3.0.0', -1], ['okhttp-2.6.0', -1], ['design-23.4.0', -1], ['brut-androlib', -1], ['cf819dbfef851e6f21def64d3f4b4cc5d7425104b4830ec765dc5157c4453831', -1], ['com-amap-api', -1], ['com-autonavi', -1], ['com-klinker-android-link_builder', -1], ['com-tonicartos-widget-stickygridheaders', -1], ['es-voghdev-pdfviewpager-library', -1], ['it-sephiroth-android-library-imagezoom', -1], ['kankan-wheel-widget', -1], ['stetho-1.4.2', -1], ['ezvcard', -1], ['com-jakewharton-rxbinding', -1], ['net-simonvt-numberpicker', -1], ['com-astuetz', -1], ['com-coremedia-iso', -1], ['com-mapbox', -1], ['constraint-layout-1.1.0', -1], ['isoparser-1.0.5.4', -1], ['isoparser-1.0.6', -1], ['HockeySDK-3.5.0', -1], ['android-beacon-library-2.11', -1], ['com-moat-analytics-mobile-aol', -1], ['com-quantcast-measurement-service', -1], ['joda-time-2.3', -1], ['picasso2-okhttp3-downloader-1.0.1', -1], ['stetho-1.4.1', -1], ['org-commonmark', -1], ['appcompat-v7-23.1.0', -1], ['com-dd-plist', -1], ['com-dropbox-core', -1], ['consent-library-1.0.7', -1], ['constraintlayout-1.1.3', -1], ['io-opencensus', -1], ['libthrift-0.10.0', -1], ['com-h6ah4i-android-widget-advrecyclerview', -1], ['com-jaredrummler-android-colorpicker', -1], ['net-cachapa-expandablelayout', -1], ['rxjava-2.2.9', -1], ['com-evernote-android-state', -1], ['leanback-1.0.0', -1], ['materialdatetimepicker-3.6.4', -1], ['recyclerview-fastscroll-1.0.18', -1], ['ru-noties-markwon', -1], ['fab-1.5.0', -1], ['de-mindpipe-android-logging-log4j', -1], ['com-qihoo-util', -1], ['com-stub', -1], ['audience-network-sdk-4.27.0', -1], ['com-BV-LinearGradient', -1], ['com-airbnb', -1], ['com-amplitude', -1], ['com-cocosw-bottomsheet', -1], ['com-horcrux-svg', -1], ['com-onesignal', -1], ['com-unity3d-ads', -1], ['acra-4.9.1', -1], ['jp-wasabeef-recyclerview', -1], ['okhttp-3.11.0', -1], ['palette-1.0.0', -1], ['com-firebase-jobdispatcher', -1], ['joda-time-2.9.4', -1], ['preference-v14-23.0.0', -1], ['urbanairship-sdk-8.8.0', -1], ['androidsdk-1.2.2', -1], ['com-readystatesoftware-viewbadger', -1], ['com-samsung', -1], ['org-brickred-socialauth', -1], ['roboguice-util-temp', -1], ['circleimageview-1.3.0', -1], ['com-commonsware-cwac', -1], ['guava-r03', -1], ['edu-umd-cs-findbugs-annotations', -1], ['proguard-canary', -1], ['appcompat-v7-23.3.0', -1], ['joda-time-2.9.5', -1], ['audience-network-sdk-4.19.0', -1], ['com-adobe-mobile', -1], ['com-millennialmedia', -1], ['design-25.2.0', -1], ['materialdatetimepicker-2.5.0', -1], ['urbanairship-sdk-8.0.4', -1], ['scala', -1], ['appcompat-v7-27.0.0', -1], ['design-22.2.0', -1], ['HoloColorPicker-1.5', -1], ['com-microsoft-live', -1], ['customtabs-23.2.0', -1], ['dropbox-core-sdk-2.1.0', -1], ['library-5.2.1', -1], ['org-amse-ys-zip', -1], ['universal-image-loader-1.8.6', -1], ['androidasync-2.2.1', -1], ['okhttp-2.2.0', -1], ['org-apache-commons-lang', -1], ['jxl-2.6.12.1', -1], ['org-spongycastle-util', -1], ['com-nhaarman-listviewanimations', -1], ['design-23.2.0', -1], ['okhttp-4.0.0', -1], ['universal-image-loader-1.9.2', -1], ['Java-WebSocket-1.3.7', -1], ['androidx-browser-browseractions', -1], ['customtabs-23.0.0', -1], ['com-joooonho', -1], ['com-readystatesoftware', -1], ['dagger-2.12', -1], ['at-grabner-circleprogress', -1], ['audience-network-sdk-4.6.0', -1], ['com-aigestudio-wheelpicker', -1], ['com-dd', -1], ['com-integralads-avid-library-mopub', -1], ['com-sbstrm-appirater', -1], ['stickylistheaders-2.5.0', -1], ['com-adcolony-sdk', -1], ['com-onevcat-uniwebview', -1], ['org-ocpsoft-prettytime', -1], ['android-1.10', -1], ['bc626e62b8783e095b3fd857423ef7713de12b2a9e89fa3280e45f5a9fdd7de7', -1], ['com-alibaba-wireless-security', -1], ['com-mapzen-android-lost', -1], ['com-taobao-dp', -1], ['fastjson-1.1.53.android', -1], ['org-android', -1], ['org-apache-thrift', -1], ['rxjava-2.0.1', -1], ['support-vector-drawable-25.0.0', -1], ['paging-common-2.1.0', -1], ['org-yaml-snakeyaml', -1], ['ca-barrenechea-widget-recyclerview-decoration', -1], ['support-v4-24.1.0', -1], ['com-artemzin-rxjavaproguardrules', -1], ['com-danikula-videocache', -1], ['com-devmarvel-creditcardentry', -1], ['com-startapp-android', -1], ['io-supercharge-shimmerlayout', -1], ['kotlinx-android-extensions', -1], ['support-v13-27.1.0', -1], ['dagger-2.14', -1], ['prettytime-4.0.1.Final', -1], ['joda-time-2.1', -1], ['com-integralads-avid-library-inmobi', 1], ['android-arch-lifecycle', -1], ['com-dmitrymalkovich-android', -1], ['com-emilsjolander-components-stickylistheaders', -1], ['android-database-sqlcipher-3.3.1-1', -1], ['guava-r09', -1], ['com-secrethq', -1], ['org-cocos2dx-lib', -1], ['support-v4-19.0.1', -1], ['com-balysv-materialripple', -1], ['parse-android-1.10.3', -1], ['io-netty', -1], ['rxjava-2.0.6', -1], ['qrcodereaderview-2.0.2', -1], ['jsoup-1.10.3', -1], ['com-evernote-android-job', -1], ['superslim-0.4.10.1', -1], ['eu-davidea', -1], ['javax-annotation-meta', -1], ['legacy-support-v13-1.0.0', -1], ['com-lsjwzh-widget-materialloadingprogressbar', -1], ['com-twitter-sdk-android', -1], ['ion-2.1.5', -1], ['paypal-android-sdk-2.15.0', -1], ['cn-smssdk', -1], ['com-jungly-gridpasswordview', -1], ['fastjson-1.2.2.sec01', -1], ['cc-promote-mobvista', -1], ['com-altamob-sdk', -1], ['com-cc-promote', -1], ['com-mobi', -1], ['com-mobvista-msdk', -1], ['tyrant-explosionfield', -1], ['tyrantgit-explosionfield', -1], ['com-blankj-utilcode', -1], ['com-youth-banner', -1], ['logger-2.1.0', -1], ['com-github-lzyzsd-circleprogress', -1], ['com-kaopiz-kprogresshud', -1], ['com-lzy-okgo', -1], ['com-orhanobut-logger', -1], ['com-speeds-ratelib', -1], ['com-umeng-analytics', -1], ['de-blinkt-openvpn', -1], ['net-frakbot-jumpingbeans', -1], ['OneSignal-2.6.2', -1], ['com-huawei-android', -1], ['com-tencent', -1], ['at-technikum-mti-fancycoverflow', -1], ['com-ccit-SecureCredential', -1], ['com-chongchong-cardioface', -1], ['org-cybergarage', -1], ['com-edmodo-rangebar', -1], ['com-orm', -1], ['gson-2.7', -1], ['library-1.0.3', -1], ['com-github-danielnilsson9-colorpickerview', -1], ['com-itextpdf', -1], ['com-zhihu-matisse', -1], ['dom-2.3.0-jaxb-1.0.6', -1], ['org-dom4j', -1], ['acra-4.7.0', -1], ['com-amazon', -1], ['com-jakewharton-rxbinding2', -1], ['support-v4-24.0.0', -1], ['net-opacapp-multilinecollapsingtoolbar', -1], ['appcompat-1.0.2', -1], ['rebound-0.3.7', -1], ['com-googlecode-mp4parser', -1], ['com-loc', -1], ['com-mp4parser', -1], ['crashreport-2.8.6.0', -1], ['fastjson-1.2.31', -1], ['isoparser-1.1.14', -1], ['Ms-Telemetry', -1], ['com-caverock-androidsvg', -1], ['yearclass-2.0.0', -1], ['com-beetstra-jutf7', -1], ['library-5.4.1', -1], ['navigation-common-1.0.0', -1], ['com-github-amlcurran-showcaseview', -1], ['org-htmlcleaner', -1], ['yuku-ambilwarna', -1], ['androidsdk-1.6.6', -1], ['bdabe04fa6179d13e590f6173acbc94d9ffdbc4b4a9310a989e30820c27b94e8', -1], ['org-jdom', -1], ['at-blogc', -1], ['recyclerview-fastscroll-1.0.19', -1], ['com-huawei-hms', -1], ['com-liulishuo-filedownloader', -1], ['com-meizu-cloud', -1], ['com-tencent-bugly', -1], ['com-timehop-stickyheadersrecyclerview', -1], ['dx-1.16', -1], ['jp-line-android-sdk', -1], ['org-mp4parser-aspectj', -1], ['percent-22.2.0', -1], ['support-emoji-26.0.0', -1], ['tv-cjump-jni', -1], ['com-android-debug-hv', -1], ['com-hianalytics-android', -1], ['AndroidImageSlider-0.0.1', -1], ['com-felipecsl-gifimageview-library', -1], ['dmax-dialog', -1], ['com-enrique-stackblur', -1], ['design-27.1.0', -1], ['SevenZip', -1], ['com-darktalker-cordova-screenshot', -1], ['com-ohh2ahh-appavailability', -1], ['com-plugin-gcm', -1], ['com-smartmobilesoftware', -1], ['de-appplant-cordova-plugin', -1], ['fabric-1.3.17', -1], ['nl-xservices-plugins', -1], ['org-crosswalk-engine', -1], ['org-pushandplay-cordova-apprate', -1], ['twitter4j-core-4.0.4', -1], ['OneSignal-3.0.3', -1], ['com-cookpad-puree', -1], ['com-github-ksoichiro-android-observablescrollview', -1], ['com-shamanland-fonticon', -1], ['rebound-0.3.5', -1], ['com-bea-xml-stream', -1], ['com-wutka-dtd', -1], ['jackson-core-2.9.0.pr4', -1], ['joda-time-2.10.1', -1], ['scribe-1.3.6', -1], ['prettytime-3.2.7.Final', -1], ['org-greenrobot', -1], ['org-mozilla-universalchardet', -1], ['xz-1.8', -1], ['jsoup-1.11.1', -1], ['universal-image-loader-1.7.0', -1], ['com-github-machinarius-preferencefragment', -1], ['com-kobakei-ratethisapp', -1], ['httpclient-4.4.1.2', -1], ['logger-1.15', -1], ['circularprogressbar-1.0.0', -1], ['com-kochava-base', -1], ['support-v4-13.0.0', -1], ['com-franmontiel-persistentcookiejar', -1], ['dagger-2.5', -1], ['net-openid-appauth', -1], ['joda-money-0.11', -1], ['af-android-sdk-4.6.0', -1], ['android-auto-scroll-view-pager-1.1.2', -1], ['com-appyvet-rangebar', -1], ['com-devspark-robototextview', -1], ['com-lsjwzh-widget-recyclerviewpager', -1], ['de-roderick-weberknecht', -1], ['fabric-1.4.1', -1], ['parse-android-1.13.0', -1], ['retrofit-1.5.1', -1], ['roundedimageview-2.0.0', -1], ['fab-1.6.1', -1], ['jsch-0.1.51', -1], ['recyclerview-v7-21.0.2', -1], ['com-securepreferences', -1], ['com-tozny-crypto-android', -1], ['conscrypt-android-1.1.0', -1], ['jsch-0.1.54', -1], ['Microsoft-Telemetry', -1], ['android-processes-1.0.7', -1], ['com-uservoice-uservoicesdk', -1], ['support-content-27.0.0', -1], ['com-android-vending', -1], ['com-jni-annotation', -1], ['HockeySDK-5.0.2', -1], ['Microsoft-Android-LoggingLibrary', -1], ['design-23.1.0', -1], ['fr-ganfra-materialspinner', -1], ['appcompat-v7-24.2.0', -1], ['com-couchbase-lite', -1], ['com-shinobicontrols-charts', -1], ['net-lingala-zip4j', -1], ['android-job-1.2.6', -1], ['dagger-1.2.4', -1], ['livedata-core-1.1.1', -1], ['jsoup-1.6.2', -1], ['audience-network-sdk-4.10.0', -1], ['library-2.2.0', -1], ['audience-network-sdk-4.12.0', -1], ['customtabs-24.2.0', -1], ['joda-time-2.2', -1], ['org-jaudiotagger', -1], ['com-nytimes-android-external', -1], ['rxjava-2.2.10', -1], ['jmdns-3.4.0', -1], ['okhttp-3.0.0', -1], ['okhttp-4.0.0-RC1', -1], ['rhino-1.7.7.1', -1], ['core-ktx-0.3', -1], ['retrofit-1.3.0', -1], ['com-android-vending-expansion-zipfile', -1], ['lifecycle-livedata-core-2.0.0', -1], ['rxjava-2.1.14', -1], ['appcompat-v7-22.1.0', -1], ['rhino-1.7.10', -1], ['rxjava-2.2.3', -1], ['com-larswerkman-holocolorpicker', -1], ['xz-1.5', -1], ['databinding-runtime-3.2.0', -1], ['rxjava-2.1.17', -1], ['appcompat-v7-25.3.1', -1], ['minidns-0.1.7', -1], ['appcompat-v7-25.4.0', -1], ['com-roughike-bottombar', -1], ['com-jakewharton-retrofit2-adapter-rxjava2', -1], ['appintro-1.3.0', -1], ['com-sleepbot-datetimepicker', -1], ['io-nlopez-smartlocation', -1], ['rx-exceptions', -1], ['audience-network-sdk-4.26.0', -1], ['dagger-2.7', -1], ['com-beloo-widget-chipslayoutmanager', -1], ['com-github-rjeschke-txtmark', -1], ['minidns-0.1.3', -1], ['org-markdown4j', -1], ['com-gc-materialdesign', -1], ['geojson-1.0.0', -1], ['mapbox-android-sdk-0.7.1', -1], ['mapbox-android-sdk-0.7.4', -1], ['uk-co-senab-bitmapcache', -1], ['io-ionic-keyboard', -1], ['org-libsdl-app', -1], ['mpandroidchart-1.7.5', -1], ['appcompat-v7-24.0.0', -1], ['support-annotations-28.0.0', -1], ['support-compat-28.0.0', -1], ['android', -1], ['cz-msebera-android-httpclient', -1], ['org-ccil-cowan-tagsoup', -1], ['com-ortiz-touch', -1], ['com-getpebble-android-kit', -1], ['preference-v14-24.0.0', -1], ['com-slidinglayer', -1], ['io-branch-referral', -1], ['materialdatetimepicker-1.5.0', -1], ['appcompat-v7-22.2.0', -1], ['batch-sdk-1.9.2', -1], ['materialdatetimepicker-1.3.1', -1], ['prettytime-3.2.5.Final', -1], ['com-simplecityapps-recyclerview_fastscroll', -1], ['com-nineoldandroids-util', -1], ['com-sina-weibo', -1], ['checker-qual-2.7.0', -1], ['android-gif-drawable-1.2.13', -1], ['emoji-1.0.0', -1], ['freemarker-cache', -1], ['freemarker-core', -1], ['freemarker-debug', -1], ['freemarker-ext', -1], ['freemarker-log', -1], ['freemarker-template', -1], ['jackson-core-2.9.8', -1], ['net-ypresto-androidtranscoder', -1], ['com-badlogic-gdx', -1], ['firebase-firestore-17.1.1', -1], ['net-grandcentrix-tray', -1], ['jsoup-1.7.2', -1], ['android-view-pager-indicator-0.9.0', -1], ['io-vov-vitamio', -1], ['graphview-4.2.2', -1], ['org-springframework', -1], ['anetwork-channel', -1], ['cn-com', -1], ['com-alibaba-sdk-android-httpdns', -1], ['com-amap-api-location', -1], ['com-aps', -1], ['org-joda', -1], ['com-intuit-sdp', -1], ['com-aerserv-sdk', -1], ['com-integralads-avid-library', -1], ['jackson-core-2.2.0', -1], ['com-bluelinelabs-conductor', -1], ['org-w3c-dom', -1], ['com-azeesoft-lib-colorpicker', -1], ['library-0.3.3', -1], ['library-1.4', -1], ['org-audiostream', -1], ['org-jnius', -1], ['org-litepal', -1], ['org-swiftp', -1], ['LBSAPIProtocol', -1], ['MTT', -1], ['com-qq', -1], ['com-github-rahatarmanahmed-cpv', -1], ['de-greenrobot-dao', -1], ['location-2.7.0', -1], ['com-miguelcatalan-materialsearchview', -1], ['materialdatetimepicker-1.4.2', -1], ['cn-vbyte-p2p', -1], ['com-power', -1], ['fastjson-1.1.57.android', -1], ['com-jjoe64-graphview', -1], ['org-kxml2-io', -1], ['Java-WebSocket-1.3.0', -1], ['br-com-locktronic', -1], ['com-transitionseverywhere', -1], ['android-observablescrollview-1.6.0', -1], ['com-adobe-phonegap-push', -1], ['jackpal-androidterm', -1], ['prettytime-2.1.1.Final', -1], ['com-dsi-ant', -1], ['com-garmin-fit', -1], ['com-msc-sa-aidl', -1], ['fr-castorflex-android-verticalviewpager', -1], ['stetho-1.1.0', -1], ['uk-co', -1], ['at-runtastic-server', -1], ['com-arellomobile-android-push-utils-rich', -1], ['com-bumptech-glide-load-resource-bitmap', -1], ['com-pushwoosh', -1], ['gueei-binding', -1], ['rx-schedulers', -1], ['twitter4j-core-4.0.5', -1], ['org-webkit-android_jsc', -1], ['tape-1.2.3', -1], ['guava-11.0.2', -1], ['org-kde-necessitas-ministro', -1], ['com-daasuu-ei', -1], ['com-ittianyu-bottomnavigationviewex', -1], ['com-moat-analytics-mobile-vng', -1], ['systembartint-1.0.1', -1], ['jiaozivideoplayer-6.2.4', -1], ['smartisanos-api', -1], ['smartisanos-util', -1], ['disklrucache-1.3.0', -1], ['retrofit-1.1.1', -1], ['cn-carbswang-android-numberpickerview-library', -1], ['org-webrtc', -1], ['org-eclipse-paho-client-mqttv3', -1], ['org-solovyev-android-views-llm', -1], ['appcompat-v7-25.0.0', -1], ['org-chromium', -1], ['ahbottomnavigation-2.1.0', -1], ['com-samskivert-mustache', -1], ['com-ogaclejapan-smarttablayout', -1], ['info-hoang8f', -1], ['ahbottomnavigation-2.0.6', -1], ['de-keyboardsurfer', -1], ['org-greenrobot-greendao', -1], ['rxandroidble-1.4.0', -1], ['analytics-6.1.3', -1], ['com-antfortune-freeline', -1], ['com-baoyz-swipemenulistview', -1], ['design-23.3.0', -1], ['sqlbrite-0.1.0', -1], ['com-rt2zz-reactnativecontacts', -1], ['org-jdeferred', -1], ['android-beacon-library-2.7', -1], ['barcodescanner-xservices-nl-barcodescanner', -1], ['com-phonegap-plugins-barcodescanner', -1], ['air-extensions', -1], ['com-pozirk-payment', -1], ['com-yqritc-recyclerviewflexibledivider', -1], ['com-jeremyfeinstein-slidingmenu-lib', -1], ['universal-image-loader-1.8.4', -1], ['com-booking', -1], ['com-ted-android', -1], ['dagger-2.16', -1], ['facebook-login-4.34.0', -1], ['com-anchorfree', -1], ['support-v4-21.0.2', -1], ['android-database-sqlcipher-3.5.0', -1], ['dagger-2.2', -1], ['jsch-0.1.53', -1], ['acra-4.2.3', -1], ['com-afollestad-sectionedrecyclerview', -1], ['gson-2.5', -1], ['org-roboguice-shaded-goole-common', -1], ['com-jcodecraeer-xrecyclerview', -1], ['com-lidroid-xutils', -1], ['com-now-ottpayment-utils', -1], ['com-pccw-media-data-tracking', -1], ['com-qianxun-stat', -1], ['th-co-ais', -1], ['httpclient-android-4.3.5', -1], ['reactive-streams-0.4.0.M2', -1], ['fastjson-1.1.47.android', -1], ['co-bestline', -1], ['com-ccdmobile-ccdbase', -1], ['com-github-kevinsawicki-http', -1], ['com-neovisionaries-ws-client', -1], ['com-zjsoft', -1], ['joda-time-2.4', -1], ['com-todddavies-components-progressbar', -1], ['xutils-3.5.0', -1], ['com-h6ah4i-android-widget-verticalseekbar', -1], ['com-shockwave-pdfium', -1], ['com-tonicartos-superslim', -1], ['retrofit-2.0.0', -1], ['stetho-1.5.0', -1], ['com-ibm-mqtt', -1], ['com-apollographql-apollo', -1], ['support-dynamic-animation-27.1.0', -1], ['af-android-sdk-4.8.7', -1], ['expandablerecyclerview-1.0', -1], ['qrcodereaderview-2.0.1', -1], ['master-flame-danmaku', -1], ['org-jdesktop-application', -1], ['com-daimajia-slider-library', -1], ['com-ms-square-android-expandabletextview', -1], ['com-pinterest-pinit', -1], ['iterableapi-2.2.4', -1], ['org-apache-commons-lang-RELEASE100', -1], ['picasso-2.71828', -1], ['com-android-billingclient-api', -1], ['com-github-lzyzsd-jsbridge', -1], ['com-mobfox-sdk', -1], ['box-android-content-sdk-1.0.1', -1], ['dropbox-core-sdk-3.0.5', -1], ['recyclerview-v7-25.3.0', -1], ['ch-hsr-geohash', -1], ['com-cloudinary', -1], ['materialdatetimepicker-2.1.0', -1], ['org-cloudinary-json', -1], ['org-zakariya-stickyheaders', -1], ['urbanairship-sdk-8.9.1', -1], ['prettytime-3.0.3.Final', -1], ['com-ashokvarma-bottomnavigation', -1], ['com-hannesdorfmann-fragmentargs', -1], ['org-altbeacon', -1], ['layouts-1.0', -1], ['android-bluetooth', -1], ['com-evernote', -1], ['com-growingio-android-sdk', -1], ['jackson-core-2.5.1', -1], ['library-1.3.9', -1], ['logansquare-1.3.7', -1], ['net-vrallev-android-task', -1], ['com-ut', -1], ['fastjson-1.2.9', -1], ['mtopsdk-common', -1], ['mtopsdk-mtop', -1], ['mtopsdk-xstate', -1], ['com-qihoo360-replugin', -1], ['gson-1.7.1', -1], ['library-3.0.0', -1], ['com-flyco-tablayout', -1], ['com-githang-statusbar', -1], ['com-oguzdev-circularfloatingactionmenu-library', -1], ['com-yanzhenjie', -1], ['com-zhy-http-okhttp', -1], ['com-flyco-pageindicator', -1], ['jiaozivideoplayer-6.1.2', -1], ['com-handmark-pulltorefresh', -1], ['gson-1.5', -1], ['crashreport-2.6.6.1', -1], ['cn-bmob', -1], ['cn-sharesdk', -1], ['crashreport-2.6.0', -1], ['me-wcy-lrcview', -1], ['sharesdk-demo-wxapi', -1], ['sharesdk-onekeyshare', -1], ['com-bartoszlipinski-recyclerviewheader', -1], ['com-umeng_social_sdk_res_lib', -1], ['com-hannesdorfmann-mosby-mvp', -1], ['exifinterface-28.0.0', -1], ['facebook-places-4.34.0', -1], ['org-jaxen', -1], ['activation-1.1', -1], ['android-volley-1.0.0', -1], ['gson-2.0', -1], ['com-flipboard-bottomsheet', -1], ['msgpack-0.6.10', -1], ['okhttp3-internal-publicsuffix', -1], ['com-sensorsdata-analytics-android', -1], ['acra-4.3.0', -1], ['com-amazon-inapp-purchasing', -1], ['afu-plume', -1], ['checker-qual-2.0.0', -1], ['com-apptalkingdata', -1], ['com-malinskiy-materialicons', -1], ['com-tendcloud-tenddata', -1], ['dagger-2.0', -1], ['me-tatarka-bindingcollectionadapter2', -1], ['rhino-1.7.7', -1], ['universal-image-loader-1.9.5', -1], ['com-squareup-wire', -1], ['net-tsz-afinal', -1], ['support-v4-21.0.0', -1], ['com-danielcwilson-plugins-analytics', -1], ['com-nordnetab-cordova-ul', -1], ['cordova-plugins-screenorientation', -1], ['org-xwalk-core', -1], ['disklrucache-1.2.0', -1], ['jsoup-1.6.1', -1], ['3dmap-6.5.0', -1], ['android-gif-drawable-1.2.7', -1], ['com-scwang-smartrefresh-layout', -1], ['com-bartoszlipinski-viewpropertyobjectanimator', -1], ['analytics-6.1.2', -1], ['fastjson-1.2.8', -1], ['ig-json-parser-processor-0.0.1', -1], ['logger-1.13', -1], ['parse-android-1.10.1', -1], ['crashreport-2.2.0.0', -1], ['com-dpizarro', -1], ['org-cocos2d', -1], ['universal-image-loader-1.9.0', -1], ['com-thoughtbot-expandablerecyclerview', -1], ['paging-common-2.0.0', -1], ['org-xutils', -1], ['com-sun-codemodel', -1], ['android-gif-drawable-1.0.8', -1], ['dagger-1.0.0', -1], ['stickylistheaders-2.1.3', -1], ['timber-1.1.0', -1], ['org-vimgadgets-linebreak', -1], ['guava-10.0.1', -1], ['javax-mail', -1], ['guice-2.0-no_aop', -1], ['roboguice-1.1', -1], ['roboguice-1.1.1', -1], ['com-box', -1], ['org-msgpack', -1], ['jsoup-1.5.2', -1], ['guava-11.0.1', -1], ['kankan-wheel', -1], ['anet-channel', -1], ['com-orhanobut-hawk', -1], ['com-synnapps-carouselview', -1], ['gson-1.6', -1], ['guava-r07', -1], ['org-geometerplus', -1], ['com-pili-pldroid-player', -1], ['jp-wasabeef', -1], ['libcore-io', -1], ['analytics-6.0.9', -1], ['com-zhouyou-http', -1], ['audience-network-sdk-4.16.0', -1], ['OneSignal-2.3.0', -1], ['android-gif-drawable-1.1.15', -1], ['com-amap', -1], ['org-rajawali3d', -1], ['sdk-meizu-auth', -1], ['library-1.6.9', -1], ['me-relex-photodraweeview', -1], ['msgpack-0.6.9', -1], ['dagger-android', -1], ['xUtils-2.6.13', -1], ['android-os', -1], ['com-mozillaonline', -1], ['cn-dreamtobe-kpswitch', -1], ['library-0.4.2', -1], ['android-gif-drawable-1.0.12', -1], ['3dmap-6.7.0', -1], ['com-devbrackets-android-exomedia', -1], ['fadingactionbar-3.1.0', -1], ['it-carlom-stikkyheader', -1], ['me-everything', -1], ['appcompat-v7-25.1.0', -1], ['mailapi-1.4.3', -1], ['android-processes-1.0.1', -1], ['nl-siegmann-epublib', -1], ['com-moat-analytics-mobile-inm', -1], ['co-apptailor-googlesignincom-airlabsinccom-babisoft-ReactNativeLocalizationcom-clipsub-rnbottomsheetcom-cmcewen-blurviewcom-dieam-reactnativepushnotificationcom-geektime-rnonesignalandroidcom-idehub-Billingcom-languagedropscom-learnium-RNDeviceInfocom-microsoft-codepush-reactcom-nimbusdscom-rnfscom-rnziparchivecom-robertsheao-RNZenDeskSupportcom-smixx-fabriccom-sudoplz-reactnativeamplitudeanalyticscom-virocom-viromediacom-zmxv-RNSoundio-invertase-firebaselogs-proto-wireless-performance-mobile-nanonet-minidevorg-devio-rn-splashscreenui-morphingtext', -1], ['com-albinmathew-photocropcom-arcsoft-livebroadcastcom-daimajia-easingcom-etsy-android-gridcom-example-temp-voicechangecom-gifshow-twitter-widgetcom-jaredrummler-android-processescom-kakaocom-kik-kikapicom-ksycom-marswin89-marsdaemoncom-megvii-facepp-sdkcom-nhn-android-naverlogincom-ss-android-push-daemon-nativcom-vk-sdkcom-zing-zalomaster-flame-danmaku-danmakuorg-passayorg-wysaidthirdplatform-camera', -1], ['AccostSvcActionMsgAndroidClientInterfaceAvatarInfoBumpSvcCardPayCliLogSvcCommonClientInterfaceConfigPushDCClientInterfaceEncounterSvcGeneralSettingsGroupPicIMMsgBodyPackKQQKQQFSLBSAddrProtocolLBSClientInterfaceV2LBS_V2_PROTOCOLMessageSvcPackNS_MOBILE_FEEDSNS_MOBILE_OPERATIONNS_UNDEAL_COUNTNearbyGroupNearbyPubAcctNeighborCommNeighborSvcOnlinePushPackPasserbySvcPersonalStatePushAdMsgPushNotifyPackQMF_PROTOCALQQServiceQzoneCombineRegisterProxySvcPackResPackageSecurityAccountServerShareAlbumHelperProtocolSummaryCardSummaryCardTafVideoSvrPackWMDBClientInterfaceWalletacscannoncom-datalinecom-etrump-mixlayoutcom-trunk-group_feedscom-weiyun-sdkcommon-config-servicecommon-qzone-componentcooperation-peakcooperation-plugincooperation-qqfavcooperation-qzonecooperation-troopfriendlistlocalpb-datalinelocalpb-richMsgmqq-appmqq-databasemqq-managermqq-observermqq_qstarmsf-msgcommmsf-msgsvcmsf-onlinepushmsf-registerproxymsf-statsvcoicq-wlogin_sdkpttcenterserviceqz_groupphototencent-imtencent-mobileim-structmsgtencent-qun-group_activitywifiphoto', -1], ['coordinatorlayout-1.0.0core-common-2.0.0cursoradapter-1.0.0customview-1.0.0drawerlayout-1.0.0fragment-1.0.0interpolator-1.0.0loader-1.0.0recyclerview-1.0.0swiperefreshlayout-1.0.0versionedparcelable-1.0.0viewpager-1.0.0asynclayoutinflater-1.0.0documentfile-1.0.0legacy-support-core-ui-1.0.0lifecycle-common-2.0.0localbroadcastmanager-1.0.0print-1.0.0slidingpanelayout-1.0.0vectordrawable-animated-1.0.0', -1]]
 2021-07-26 02:36:06.905268
+[['lib3', 1], ['lib5', 1], ['lib1lib2lib4', 1], ['lib6lib7lib8', 1]]
+2021-08-07 14:38:28.068880
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-07 14:42:43.629894
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-07 14:43:36.134781
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-07 14:50:12.273852
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-07 14:50:22.204733
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-07 14:50:37.905184
+[['lib3', 1], ['lib5', 2], ['lib4lib1lib2', 1], ['lib6lib7lib8', 2]]
+2021-08-07 14:50:47.386345
+[['lib3', -1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 14:51:04.491337
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 14:57:30.663417
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-07 14:58:01.261559
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 14:58:23.328948
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 14:58:45.035663
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 14:59:12.050413
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 14:59:21.392668
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 14:59:29.149738
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 14:59:36.422312
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 14:59:46.180363
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:02:24.746922
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:02:35.961812
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:02:43.776173
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:03:07.454868
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:03:19.732161
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:03:30.992138
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:03:39.262750
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:03:50.072151
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:04:02.480073
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:04:16.672618
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:04:25.229759
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:04:39.699479
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:05:40.771321
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:05:46.969330
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:05:52.388397
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:06:00.350209
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:06:05.774514
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:06:13.735155
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:06:18.987680
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:06:24.753420
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:06:34.654403
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:06:40.199922
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:06:54.312118
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:07:07.188975
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:07:14.104429
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:07:28.772042
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:07:38.016271
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:07:49.179566
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-07 15:08:22.362887
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:08:29.642171
+[['lib5', 1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', 1]]
+2021-08-07 15:08:36.932720
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 11:50:58.909384
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 11:55:06.509834
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:03:14.587788
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:03:23.831837
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:03:34.059631
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-08 12:03:41.905356
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:03:47.519771
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:03:53.900177
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:04:01.187565
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:04:08.938263
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:04:16.185850
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:04:26.986613
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:04:32.321555
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:04:39.063977
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:04:46.556179
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:04:54.243114
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:05:02.286569
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:05:18.332800
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:11:58.010114
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:12:16.103488
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:12:25.016013
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:12:36.749147
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:12:44.853643
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:12:52.079766
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:13:00.483950
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:13:17.912400
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:13:29.205070
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:13:39.758906
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:13:46.693355
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:13:58.901392
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:14:20.369945
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:14:49.506121
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:14:59.278737
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:15:21.368406
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:15:31.119212
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:15:39.240830
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:15:58.943011
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:16:20.453251
+[['lib3', 1], ['lib4', 1], ['lib5', -1], ['lib6', 2], ['lib1lib2', 1], ['lib7lib8', 2]]
+2021-08-08 12:16:31.839698
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:20:19.454486
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:33:37.584632
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 12:35:11.325602
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:35:17.912752
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:35:31.515882
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:35:39.206710
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:35:47.507489
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:36:09.500610
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:36:19.072281
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:36:37.602585
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:36:47.612154
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:36:53.910110
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:37:01.950457
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:37:25.990363
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:50:22.620956
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:50:32.967018
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:50:43.482022
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:52:09.482350
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:52:15.444972
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 12:52:25.530705
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:52:35.862465
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:52:42.457375
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:53:35.743495
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:53:44.836221
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:53:57.421596
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:54:05.814887
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 12:54:15.438644
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-08 12:54:30.886472
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-08 12:54:46.320730
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 13:17:37.649930
+[['lib5', -1], ['lib6', -1], ['lib7lib8', -1], ['lib3lib4lib1lib2', -1]]
+2021-08-08 13:27:58.040020
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-08 13:28:15.395110
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 13:28:23.998011
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 13:28:53.534296
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-08 13:29:00.747391
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 13:29:07.213403
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 13:29:21.632934
+[['lib5', -1], ['lib3lib4lib1lib2', -1], ['lib6lib7lib8', -1]]
+2021-08-08 13:29:31.408407
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-08 13:29:39.745653
+[['lib5', -1], ['lib1lib2lib3lib4', -1], ['lib6lib7lib8', -1]]
+2021-08-09 11:28:02.526385
+[['lib1lib2lib3lib4', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-09 11:28:21.391912
+[['lib6', -1], ['lib7', -1], ['lib8', -1], ['lib1lib2lib3lib4lib5', -1]]
+2021-08-09 11:28:43.108284
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-09 11:29:00.037548
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-09 11:35:26.148608
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-09 11:35:33.574520
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-09 11:38:29.449008
+[['lib5', -1], ['lib1lib2lib3lib4', -1], ['lib6lib7lib8', -1]]
+2021-08-09 11:38:47.522128
+[['lib5', -1], ['lib1lib2lib3lib4', -1], ['lib6lib7lib8', -1]]
+2021-08-18 09:56:28.146313
+[['lib1lib2lib3lib4', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-18 09:59:35.152184
+[['lib5', -1], ['lib1lib2lib3lib4', -1], ['lib6lib7lib8', -1]]
+2021-08-18 09:59:46.960614
+[['lib3lib4lib1lib2', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-18 10:00:05.416833
+[['lib5', -1], ['lib1lib2lib3lib4', -1], ['lib6lib7lib8', -1]]
+2021-08-18 10:00:15.718201
+[['lib1lib2lib3lib4', -1], ['lib5lib6lib7lib8', -1]]
+2021-08-18 10:00:26.073280
+[['lib3', -1], ['lib4', -1], ['lib5', -1], ['lib6', -1], ['lib1lib2', -1], ['lib7lib8', -1]]
+2021-08-18 10:01:03.435991

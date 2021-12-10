@@ -1,0 +1,8 @@
+1	project785
+2	#DEP#junit-extensions
+3	#DEP#junit-framework
+4	#DEP#junit-runner
+5	#DEP#junit-textui
+6	#DEP#oauth-signpost
+7	#DEP#org-apache-commons
+8	#DEP#org-dom4j

@@ -1,0 +1,16 @@
+1	project39
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-25.1.0
+4	#DEP#com-afollestad-materialdialogs
+5	#DEP#com-android-volley
+6	#DEP#com-github
+7	#DEP#design-25.1.0
+8	#DEP#eu-chainfire-libsuperuser
+9	#DEP#library-0.4.0
+10	#DEP#me-zhanghai-android-materialprogressbar
+11	#DEP#org-apache
+12	#DEP#org-slf4j
+13	#DEP#support-annotations-25.1.0
+14	#DEP#support-v13-25.1.0
+15	#DEP#systembartint-1.0.3
+16	#DEP#transition-25.0.0

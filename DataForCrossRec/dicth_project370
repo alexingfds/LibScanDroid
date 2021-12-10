@@ -1,0 +1,13 @@
+1	project370
+2	#DEP#audience-network-sdk-4.10.0
+3	#DEP#butterknife
+4	#DEP#facebook-messenger-4.27.0
+5	#DEP#firebase-common-15.0.0
+6	#DEP#gson-2.8.2
+7	#DEP#library-2.2.0
+8	#DEP#multidex-1.0.2
+9	#DEP#oauth-signpost
+10	#DEP#okhttp3
+11	#DEP#org-reactivestreams
+12	#DEP#support-annotations-27.0.0
+13	#DEP#transition-27.0.0

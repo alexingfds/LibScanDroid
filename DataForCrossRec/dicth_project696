@@ -1,0 +1,10 @@
+1	project696
+2	#DEP#android-annotation
+3	#DEP#android-support-v4
+4	#DEP#com-google-zxing
+5	#DEP#com-handmark-pulltorefresh-library
+6	#DEP#com-loopj-android-http
+7	#DEP#gson-2.0
+8	#DEP#net-sourceforge-zbar
+9	#DEP#org-apache-commons
+10	#DEP#org-dom4j

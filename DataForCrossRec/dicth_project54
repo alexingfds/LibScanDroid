@@ -1,0 +1,17 @@
+1	project54
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#com-afollestad-materialdialogs
+5	#DEP#com-bumptech-glide
+6	#DEP#com-crashlytics-android
+7	#DEP#com-github-chrisbanes-photoview
+8	#DEP#com-google-gson
+9	#DEP#design-26.0.0
+10	#DEP#exifinterface-27.1.0
+11	#DEP#io-fabric-sdk-android
+12	#DEP#javax-inject
+13	#DEP#me-zhanghai-android-materialprogressbar
+14	#DEP#multidex-1.0.1
+15	#DEP#support-annotations-26.0.0
+16	#DEP#support-v13-26.0.0
+17	#DEP#transition-26.0.0

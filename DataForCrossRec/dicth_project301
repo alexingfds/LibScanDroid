@@ -1,0 +1,16 @@
+1	project301
+2	#DEP#annotation-1.1.0
+3	#DEP#collection-1.0.0
+4	#DEP#core-1.0.0
+5	#DEP#core-1.0.2
+6	#DEP#core-common-2.0.0
+7	#DEP#junit-extensions
+8	#DEP#junit-framework
+9	#DEP#junit-textui
+10	#DEP#lifecycle-common-2.0.0
+11	#DEP#org-apache-commons
+12	#DEP#org-hamcrest
+13	#DEP#org-joda-time
+14	#DEP#org-junit
+15	#DEP#org-spongycastle
+16	#DEP#versionedparcelable-1.0.0

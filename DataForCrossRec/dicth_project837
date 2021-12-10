@@ -1,0 +1,7 @@
+1	project837
+2	#DEP#com-google-gson
+3	#DEP#org-apache-commons-codec
+4	#DEP#org-kobjects
+5	#DEP#org-ksoap2
+6	#DEP#org-kxml2
+7	#DEP#org-xmlpull-v1

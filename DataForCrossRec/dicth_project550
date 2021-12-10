@@ -1,0 +1,7 @@
+1	project550
+2	#DEP#android-content-pm
+3	#DEP#android-support-v4
+4	#DEP#com-flurry
+5	#DEP#gson-2.2.1
+6	#DEP#hirondelle-date4j
+7	#DEP#org-apache

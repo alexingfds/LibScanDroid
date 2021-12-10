@@ -1,0 +1,5 @@
+1	project921
+2	#DEP#com-sun
+3	#DEP#javax-activation
+4	#DEP#mailapi-1.4.2
+5	#DEP#myjava-awt-datatransfer

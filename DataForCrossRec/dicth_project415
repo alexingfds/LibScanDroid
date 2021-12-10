@@ -1,0 +1,12 @@
+1	project415
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#appcompat-v7-25.4.0
+5	#DEP#com-android
+6	#DEP#com-crashlytics-android
+7	#DEP#com-roughike-bottombar
+8	#DEP#design-27.0.0
+9	#DEP#io-fabric-sdk-android
+10	#DEP#protolite-well-known-types-15.0.0
+11	#DEP#transition-24.2.0
+12	#DEP#transition-27.0.0

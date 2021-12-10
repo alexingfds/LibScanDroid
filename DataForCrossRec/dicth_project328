@@ -1,0 +1,14 @@
+1	project328
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#com-bumptech-glide
+5	#DEP#com-crashlytics-android
+6	#DEP#design-27.0.0
+7	#DEP#gson-2.8.0
+8	#DEP#io-fabric-sdk-android
+9	#DEP#jsoup-1.11.1
+10	#DEP#org-apache-commons-codec
+11	#DEP#preference-v14-26.0.0
+12	#DEP#support-annotations-27.0.0
+13	#DEP#transition-27.0.0
+14	#DEP#uk-co-senab-photoview

@@ -1,0 +1,16 @@
+1	project432
+2	#DEP#annotation-1.0.0
+3	#DEP#appcompat-1.0.1
+4	#DEP#cardview-1.0.0
+5	#DEP#core-1.0.0
+6	#DEP#core-common-2.0.0
+7	#DEP#cursoradapter-1.0.0
+8	#DEP#customview-1.0.0
+9	#DEP#fragment-1.0.0
+10	#DEP#interpolator-1.0.0
+11	#DEP#lifecycle-runtime-2.0.0
+12	#DEP#loader-1.0.0
+13	#DEP#recyclerview-1.0.0
+14	#DEP#transition-1.0.0
+15	#DEP#vectordrawable-1.0.0
+16	#DEP#versionedparcelable-1.0.0

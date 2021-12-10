@@ -1,0 +1,16 @@
+1	project635
+2	#DEP#android-support-v4
+3	#DEP#com-actionbarsherlock
+4	#DEP#com-google-zxing
+5	#DEP#com-handmark-pulltorefresh
+6	#DEP#com-hp-hpl-sparta
+7	#DEP#com-jeremyfeinstein-slidingmenu-lib
+8	#DEP#com-viewpagerindicator
+9	#DEP#demo
+10	#DEP#gson-1.5
+11	#DEP#net-sourceforge-pinyin4j
+12	#DEP#org-apache
+13	#DEP#org-jivesoftware
+14	#DEP#org-xbill-DNS
+15	#DEP#prettytime-3.0.3.Final
+16	#DEP#universal-image-loader-1.8.4

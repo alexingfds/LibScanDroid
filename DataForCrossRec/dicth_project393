@@ -1,0 +1,9 @@
+1	project393
+2	#DEP#android-support-v4
+3	#DEP#butterknife
+4	#DEP#com-afollestad-materialdialogs
+5	#DEP#design-23.1.1
+6	#DEP#me-zhanghai-android-materialprogressbar
+7	#DEP#org-apache
+8	#DEP#org-slf4j
+9	#DEP#support-annotations-22.2.0

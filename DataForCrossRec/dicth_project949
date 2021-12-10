@@ -1,0 +1,14 @@
+1	project949
+2	#DEP#android-content-pm
+3	#DEP#android-processes-1.0.7
+4	#DEP#android-support-v4
+5	#DEP#animated-vector-drawable-25.1.0
+6	#DEP#appcompat-v7-25.1.0
+7	#DEP#com-sun
+8	#DEP#eu-chainfire-libsuperuser
+9	#DEP#firebase-common-15.0.0
+10	#DEP#javax-activation
+11	#DEP#mailapi-1.4.3
+12	#DEP#multidex-1.0.2
+13	#DEP#myjava-awt-datatransfer
+14	#DEP#support-annotations-25.1.0

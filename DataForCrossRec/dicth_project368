@@ -1,0 +1,11 @@
+1	project368
+2	#DEP#android-support-v4
+3	#DEP#com-android
+4	#DEP#com-crashlytics-android
+5	#DEP#com-firebase-jobdispatcher
+6	#DEP#constraint-layout-1.1.0
+7	#DEP#design-27.1.0
+8	#DEP#io-fabric-sdk-android
+9	#DEP#livedata-core-1.1.1
+10	#DEP#support-annotations-19.1.0
+11	#DEP#support-v13-23.0.0

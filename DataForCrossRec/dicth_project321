@@ -1,0 +1,9 @@
+1	project321
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-25.1.0
+4	#DEP#constraint-layout-1.0.2
+5	#DEP#design-26.0.0
+6	#DEP#org-apache-commons
+7	#DEP#prettytime-3.2.7.Final
+8	#DEP#support-annotations-26.0.0
+9	#DEP#transition-26.0.0

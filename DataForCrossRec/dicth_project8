@@ -1,0 +1,16 @@
+1	project8
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-23.2.0
+4	#DEP#com-bumptech-glide
+5	#DEP#com-crashlytics-android
+6	#DEP#com-facebook-ads
+7	#DEP#com-github-mikephil-charting
+8	#DEP#com-google-gson
+9	#DEP#com-mopub
+10	#DEP#com-rateus-lib
+11	#DEP#com-zj
+12	#DEP#design-24.2.1
+13	#DEP#io-fabric-sdk-android
+14	#DEP#multidex-1.0.1
+15	#DEP#org-joda-time
+16	#DEP#support-annotations-24.0.0

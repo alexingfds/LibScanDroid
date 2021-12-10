@@ -1,0 +1,16 @@
+1	project662
+2	#DEP#com-alibaba-fastjson
+3	#DEP#com-alipay
+4	#DEP#com-amap-api
+5	#DEP#com-android-volley
+6	#DEP#com-aps
+7	#DEP#com-google-gson
+8	#DEP#com-loopj-android-http
+9	#DEP#com-nostra13-universalimageloader
+10	#DEP#com-ta-utdid2
+11	#DEP#com-ut-device
+12	#DEP#org-apache-http-entity-mime
+13	#DEP#org-json-alipay
+14	#DEP#support-v13-20.0.0
+15	#DEP#support-v4-13.0.0
+16	#DEP#uk-co-senab-photoview

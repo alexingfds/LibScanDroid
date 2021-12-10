@@ -1,0 +1,5 @@
+1	project802
+2	#DEP#android-support-v4
+3	#DEP#guava-10.0.1
+4	#DEP#org-apache
+5	#DEP#org-simpleframework-xml

@@ -1,0 +1,16 @@
+1	project721
+2	#DEP#SevenZip
+3	#DEP#android-support-v4
+4	#DEP#com-adobe-phonegap-push
+5	#DEP#com-danielcwilson-plugins-analytics
+6	#DEP#com-nordnetab-cordova-ul
+7	#DEP#cordova-plugins-screenorientation
+8	#DEP#io-ionic-keyboard
+9	#DEP#me-leolin-shortcutbadger
+10	#DEP#nl-xservices-plugins
+11	#DEP#org-apache-cordova
+12	#DEP#org-chromium
+13	#DEP#org-crosswalk-engine
+14	#DEP#org-xwalk-core
+15	#DEP#support-annotations-26.0.0
+16	#DEP#support-v13-23.0.0

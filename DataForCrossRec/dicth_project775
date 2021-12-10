@@ -1,0 +1,14 @@
+1	project775
+2	#DEP#android-webkit
+3	#DEP#com-alibaba-wireless-security
+4	#DEP#com-sina
+5	#DEP#com-sun-codemodel
+6	#DEP#com-taobao-dp
+7	#DEP#dagger
+8	#DEP#de-greenrobot-event
+9	#DEP#exifinterface-27.1.0
+10	#DEP#gson-1.7.1
+11	#DEP#io-supercharge-shimmerlayout
+12	#DEP#mtopsdk-common
+13	#DEP#org-chromium
+14	#DEP#org-webrtc

@@ -1,0 +1,6 @@
+1	project374
+2	#DEP#javax-jmdns
+3	#DEP#okhttp3
+4	#DEP#org-bouncycastle
+5	#DEP#org-jcodec
+6	#DEP#org-slf4j

@@ -1,0 +1,11 @@
+1	project674
+2	#DEP#android-support-v4
+3	#DEP#appcompat-v7-19.1.0
+4	#DEP#com-android
+5	#DEP#com-commonsware-cwac
+6	#DEP#com-crashlytics-android
+7	#DEP#com-flurry
+8	#DEP#com-jakewharton-disklrucache
+9	#DEP#com-mobeta-android-dslv
+10	#DEP#com-nineoldandroids
+11	#DEP#org-cocos2dx-lib

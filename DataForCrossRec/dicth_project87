@@ -1,0 +1,16 @@
+1	project87
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#com-davemorrissey-labs-subscaleview
+5	#DEP#com-koushikdutta
+6	#DEP#design-26.0.0
+7	#DEP#gson-2.3
+8	#DEP#junit-extensions
+9	#DEP#junit-framework
+10	#DEP#junit-textui
+11	#DEP#org-hamcrest
+12	#DEP#org-jsoup
+13	#DEP#org-junit
+14	#DEP#pl-droidsonroids-gif
+15	#DEP#support-annotations-26.0.0
+16	#DEP#transition-26.0.0

@@ -1,0 +1,6 @@
+1	project968
+2	#DEP#android-annotation
+3	#DEP#android-support-v4
+4	#DEP#com-j256-ormlite
+5	#DEP#com-viewpagerindicator
+6	#DEP#gson-2.2.1

@@ -1,0 +1,10 @@
+1	project94
+2	#DEP#android-support-v4
+3	#DEP#com-google-gson
+4	#DEP#com-handmark-pulltorefresh-library
+5	#DEP#com-insdio-aqicn-airwidget
+6	#DEP#microsoft-mappoint
+7	#DEP#org-apache
+8	#DEP#org-metalev-multitouch-controller
+9	#DEP#org-osmdroid
+10	#DEP#org-slf4j

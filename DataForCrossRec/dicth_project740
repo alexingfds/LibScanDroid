@@ -1,0 +1,13 @@
+1	project740
+2	#DEP#android-annotation
+3	#DEP#android-content-pm
+4	#DEP#android-net-http
+5	#DEP#android-support-v4
+6	#DEP#com-androidquery
+7	#DEP#com-umeng
+8	#DEP#org-apache-commons
+9	#DEP#org-dom4j
+10	#DEP#org-kobjects
+11	#DEP#org-ksoap2
+12	#DEP#org-kxml2
+13	#DEP#org-xmlpull-v1

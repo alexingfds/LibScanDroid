@@ -1,0 +1,16 @@
+1	project562
+2	#DEP#bolts
+3	#DEP#com-bumptech-glide
+4	#DEP#com-crashlytics-android
+5	#DEP#com-google-gson
+6	#DEP#com-google-zxing
+7	#DEP#com-intercom
+8	#DEP#com-nineoldandroids
+9	#DEP#com-sothree-slidinguppanel
+10	#DEP#com-squareup-leakcanary
+11	#DEP#dagger
+12	#DEP#io-fabric-sdk-android
+13	#DEP#io-intercom
+14	#DEP#javax-inject
+15	#DEP#kotlin
+16	#DEP#org-jetbrains-annotations

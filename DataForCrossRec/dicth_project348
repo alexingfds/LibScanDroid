@@ -1,0 +1,13 @@
+1	project348
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#com-android-volley
+5	#DEP#com-squareup-picasso
+6	#DEP#constraint-layout-1.0.2
+7	#DEP#design-26.0.0
+8	#DEP#gson-2.8.5
+9	#DEP#joda-money-0.11
+10	#DEP#org-intellij-lang-annotations
+11	#DEP#org-jetbrains-annotations
+12	#DEP#support-annotations-26.0.0
+13	#DEP#transition-26.0.0

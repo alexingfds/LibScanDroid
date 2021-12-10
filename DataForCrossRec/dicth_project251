@@ -1,0 +1,9 @@
+1	project251
+2	#DEP#android-arch-lifecycle
+3	#DEP#android-databinding
+4	#DEP#android-support-v4
+5	#DEP#com-dmitrymalkovich-android
+6	#DEP#com-emilsjolander-components-stickylistheaders
+7	#DEP#com-google-android
+8	#DEP#constraint-layout-1.0.2
+9	#DEP#support-annotations-19.1.0

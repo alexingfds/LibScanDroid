@@ -1,0 +1,14 @@
+1	project383
+2	#DEP#android-annotation
+3	#DEP#android-database-sqlcipher-3.3.1-1
+4	#DEP#android-support-v4
+5	#DEP#guava-r09
+6	#DEP#junit-extensions
+7	#DEP#junit-framework
+8	#DEP#junit-textui
+9	#DEP#net-sqlcipher
+10	#DEP#org-hamcrest
+11	#DEP#org-kobjects
+12	#DEP#org-ksoap2
+13	#DEP#org-kxml2
+14	#DEP#org-xmlpull-v1

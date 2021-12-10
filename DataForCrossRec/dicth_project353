@@ -1,0 +1,13 @@
+1	project353
+2	#DEP#android-databinding
+3	#DEP#android-support-v4
+4	#DEP#com-melnykov-fab
+5	#DEP#com-nineoldandroids
+6	#DEP#com-squareup-picasso
+7	#DEP#gson-2.8.5
+8	#DEP#okhttp-3.12.0
+9	#DEP#org-intellij-lang-annotations
+10	#DEP#org-jetbrains-annotations
+11	#DEP#recyclerview-v7-21.0.2
+12	#DEP#retrofit2
+13	#DEP#support-annotations-19.1.0

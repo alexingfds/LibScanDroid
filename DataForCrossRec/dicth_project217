@@ -1,0 +1,14 @@
+1	project217
+2	#DEP#com-daimajia-swipe
+3	#DEP#com-joooonho
+4	#DEP#com-readystatesoftware
+5	#DEP#constraint-layout-1.0.2
+6	#DEP#dagger-2.12
+7	#DEP#facebook-messenger-4.27.0
+8	#DEP#gson-2.8.1
+9	#DEP#kotlin
+10	#DEP#multidex-1.0.2
+11	#DEP#org-reactivestreams
+12	#DEP#percent-24.0.0
+13	#DEP#support-annotations-26.0.0
+14	#DEP#transition-26.0.0

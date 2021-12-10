@@ -1,0 +1,9 @@
+1	project119
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#appcompat-v7-27.0.2
+5	#DEP#butterknife
+6	#DEP#constraintlayout-1.1.0
+7	#DEP#design-27.0.0
+8	#DEP#transition-24.2.0
+9	#DEP#transition-27.0.0

@@ -1,0 +1,6 @@
+1	project981
+2	#DEP#android-net-http
+3	#DEP#android-support-v4
+4	#DEP#android-webkit
+5	#DEP#org-apache-commons
+6	#DEP#org-dom4j

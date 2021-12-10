@@ -1,0 +1,10 @@
+1	project123
+2	#DEP#android-annotation
+3	#DEP#android-net-http
+4	#DEP#android-support-v4
+5	#DEP#android-webkit
+6	#DEP#oauth-signpost
+7	#DEP#org-kobjects
+8	#DEP#org-ksoap2
+9	#DEP#org-kxml2
+10	#DEP#org-xmlpull-v1

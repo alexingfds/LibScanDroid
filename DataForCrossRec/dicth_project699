@@ -1,0 +1,11 @@
+1	project699
+2	#DEP#android-annotation
+3	#DEP#android-support-v4
+4	#DEP#junit-extensions
+5	#DEP#junit-framework
+6	#DEP#junit-textui
+7	#DEP#org-hamcrest
+8	#DEP#org-kobjects
+9	#DEP#org-ksoap2
+10	#DEP#org-kxml2
+11	#DEP#org-xmlpull-v1

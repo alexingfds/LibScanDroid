@@ -1,0 +1,5 @@
+1	project820
+2	#DEP#android-support-v4
+3	#DEP#com-actionbarsherlock
+4	#DEP#jsoup-1.5.2
+5	#DEP#org-simpleframework-xml

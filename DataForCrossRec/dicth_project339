@@ -1,0 +1,16 @@
+1	project339
+2	#DEP#android-support-v4
+3	#DEP#butterknife
+4	#DEP#com-birbit-android-jobqueue
+5	#DEP#com-orm
+6	#DEP#constraint-layout-1.0.2
+7	#DEP#design-25.3.0
+8	#DEP#gson-2.8.2
+9	#DEP#guava-15.0
+10	#DEP#logger-1.15
+11	#DEP#okhttp3
+12	#DEP#org-greenrobot-eventbus
+13	#DEP#retrofit2
+14	#DEP#support-annotations-25.1.0
+15	#DEP#timber-log
+16	#DEP#transition-25.0.0

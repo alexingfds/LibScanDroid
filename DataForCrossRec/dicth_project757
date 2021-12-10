@@ -1,0 +1,15 @@
+1	project757
+2	#DEP#com-google-gson
+3	#DEP#com-google-zxing
+4	#DEP#com-hp-hpl-sparta
+5	#DEP#com-nineoldandroids
+6	#DEP#com-nostra13-universalimageloader
+7	#DEP#com-xiaomi
+8	#DEP#demo
+9	#DEP#io-vov-vitamio
+10	#DEP#okhttp3
+11	#DEP#org-greenrobot-eventbus
+12	#DEP#org-htmlparser
+13	#DEP#org-scribe
+14	#DEP#org-xutils
+15	#DEP#uk-co-senab-photoview

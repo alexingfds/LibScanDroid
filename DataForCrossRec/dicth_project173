@@ -1,0 +1,13 @@
+1	project173
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-25.0.0
+4	#DEP#com-google-gson
+5	#DEP#com-squareup
+6	#DEP#design-25.0.1
+7	#DEP#javax-annotation
+8	#DEP#org-apache-commons-cli
+9	#DEP#retrofit2
+10	#DEP#rx
+11	#DEP#stetho-1.4.0
+12	#DEP#support-annotations-25.0.0
+13	#DEP#transition-25.0.0

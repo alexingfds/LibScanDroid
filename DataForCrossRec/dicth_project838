@@ -1,0 +1,9 @@
+1	project838
+2	#DEP#android-support-v4
+3	#DEP#com-google-gson
+4	#DEP#org-apache
+5	#DEP#org-dom4j
+6	#DEP#org-kobjects
+7	#DEP#org-ksoap2
+8	#DEP#org-kxml2
+9	#DEP#org-xmlpull-v1

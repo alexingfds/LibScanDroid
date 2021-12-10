@@ -1,0 +1,6 @@
+1	project203
+2	#DEP#android-support-v4
+3	#DEP#firebase-common-15.0.0
+4	#DEP#multidex-1.0.1
+5	#DEP#org-jsoup
+6	#DEP#support-annotations-24.0.0

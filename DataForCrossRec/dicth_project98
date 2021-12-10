@@ -1,0 +1,13 @@
+1	project98
+2	#DEP#butterknife
+3	#DEP#com-chad-library
+4	#DEP#com-google-gson
+5	#DEP#com-hanks-htextview
+6	#DEP#com-kyleduo-switchbutton
+7	#DEP#com-nineoldandroids
+8	#DEP#constraint-layout-1.0.2
+9	#DEP#demo
+10	#DEP#multidex-1.0.1
+11	#DEP#org-jsoup
+12	#DEP#transition-24.2.0
+13	#DEP#transition-25.0.0

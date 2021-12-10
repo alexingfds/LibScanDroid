@@ -1,0 +1,10 @@
+1	project1
+2	#DEP#android-net-http
+3	#DEP#android-support-v4
+4	#DEP#android-webkit
+5	#DEP#com-j256-ormlite
+6	#DEP#com-umeng
+7	#DEP#gson-2.2.3
+8	#DEP#org-apache-commons
+9	#DEP#org-hamcrest
+10	#DEP#org-json

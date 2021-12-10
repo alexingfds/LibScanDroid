@@ -1,0 +1,17 @@
+1	project419
+2	#DEP#acra-4.9.0
+3	#DEP#android-support-v4
+4	#DEP#animated-vector-drawable-25.0.0
+5	#DEP#ch-acra-acra
+6	#DEP#com-jakewharton-retrofit2-adapter-rxjava2
+7	#DEP#design-25.0.0
+8	#DEP#io-reactivex
+9	#DEP#io-socket
+10	#DEP#kotlin
+11	#DEP#okhttp3
+12	#DEP#org-greenrobot-eventbus
+13	#DEP#org-jetbrains-annotations
+14	#DEP#org-reactivestreams
+15	#DEP#retrofit2
+16	#DEP#support-annotations-25.0.0
+17	#DEP#transition-25.0.0

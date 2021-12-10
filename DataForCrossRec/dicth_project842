@@ -1,0 +1,11 @@
+1	project842
+2	#DEP#android-annotation
+3	#DEP#android-support-v4
+4	#DEP#com-umeng
+5	#DEP#guava-11.0.1
+6	#DEP#javax-annotation
+7	#DEP#org-apache
+8	#DEP#org-codehaus-jackson
+9	#DEP#org-jivesoftware
+10	#DEP#org-slf4j
+11	#DEP#org-xbill-DNS

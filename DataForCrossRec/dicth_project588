@@ -1,0 +1,16 @@
+1	project588
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-25.0.0
+4	#DEP#com-android-vending-billing
+5	#DEP#com-github-danielnilsson9-colorpickerview
+6	#DEP#com-h6ah4i-android-widget-verticalseekbar
+7	#DEP#com-larvalabs-svgandroid
+8	#DEP#com-loopj-android-http
+9	#DEP#com-wefika-flowlayout
+10	#DEP#cz-msebera
+11	#DEP#design-25.0.1
+12	#DEP#it-sephiroth-android-library-imagezoom
+13	#DEP#org-intellij-lang-annotations
+14	#DEP#org-jetbrains-annotations
+15	#DEP#support-annotations-25.0.0
+16	#DEP#transition-25.0.0

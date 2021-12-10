@@ -1,0 +1,14 @@
+1	project536
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-23.2.0
+4	#DEP#appcompat-v7-23.4.0
+5	#DEP#com-android-vending-billing
+6	#DEP#com-crashlytics-android
+7	#DEP#com-flurry
+8	#DEP#com-itextpdf
+9	#DEP#com-nostra13-universalimageloader
+10	#DEP#firebase-common-15.0.0
+11	#DEP#io-fabric-sdk-android
+12	#DEP#it-sephiroth-android-library-imagezoom
+13	#DEP#jp-co-cyberagent-android-gpuimage
+14	#DEP#support-annotations-24.0.0

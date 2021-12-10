@@ -1,0 +1,14 @@
+1	project511
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#com-github-paolorotolo-appintro
+5	#DEP#com-google-gson
+6	#DEP#com-squareup-picasso
+7	#DEP#com-twitter
+8	#DEP#constraintlayout-1.1.0
+9	#DEP#design-26.0.0
+10	#DEP#multidex-1.0.2
+11	#DEP#okhttp3
+12	#DEP#retrofit2
+13	#DEP#support-annotations-26.0.0
+14	#DEP#transition-26.0.0

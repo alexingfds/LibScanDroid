@@ -1,0 +1,15 @@
+1	project445
+2	#DEP#acra-4.7.0
+3	#DEP#android-support-v4
+4	#DEP#animated-vector-drawable-23.2.0
+5	#DEP#ch-acra-acra
+6	#DEP#com-caverock-androidsvg
+7	#DEP#com-j256-ormlite
+8	#DEP#com-squareup-leakcanary
+9	#DEP#design-23.4.0
+10	#DEP#microsoft-mappoint
+11	#DEP#org-kxml2
+12	#DEP#org-metalev-multitouch-controller
+13	#DEP#org-osmdroid
+14	#DEP#org-xmlpull-v1
+15	#DEP#support-annotations-22.2.0

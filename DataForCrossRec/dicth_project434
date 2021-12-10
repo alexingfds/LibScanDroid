@@ -1,0 +1,16 @@
+1	project434
+2	#DEP#android-support-v4
+3	#DEP#com-google-zxing
+4	#DEP#com-jakewharton-disklrucache
+5	#DEP#com-journeyapps-barcodescanner
+6	#DEP#com-nineoldandroids
+7	#DEP#com-squareup-okhttp
+8	#DEP#design-23.1.1
+9	#DEP#fi-iki-elonen
+10	#DEP#geojson-1.0.0
+11	#DEP#guava-15.0
+12	#DEP#mapbox-android-sdk-0.7.1
+13	#DEP#mapbox-android-sdk-0.7.4
+14	#DEP#org-apache-commons
+15	#DEP#support-annotations-22.2.0
+16	#DEP#uk-co-senab-bitmapcache

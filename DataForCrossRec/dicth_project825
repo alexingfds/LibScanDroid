@@ -1,0 +1,8 @@
+1	project825
+2	#DEP#android-annotation
+3	#DEP#com-dropbox-client2
+4	#DEP#com-google-gson
+5	#DEP#guava-11.0.1
+6	#DEP#javax-annotation
+7	#DEP#org-apache
+8	#DEP#org-json-simple

@@ -1,0 +1,14 @@
+1	project375
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-23.2.0
+4	#DEP#com-afollestad-materialdialogs
+5	#DEP#com-github
+6	#DEP#com-melnykov-fab
+7	#DEP#com-mikepenz
+8	#DEP#com-nineoldandroids
+9	#DEP#customtabs-24.2.0
+10	#DEP#design-24.2.0
+11	#DEP#eu-chainfire-libsuperuser
+12	#DEP#gson-2.2.1
+13	#DEP#me-zhanghai-android-materialprogressbar
+14	#DEP#support-annotations-24.0.0

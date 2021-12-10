@@ -1,0 +1,15 @@
+1	project540
+2	#DEP#SevenZip
+3	#DEP#android-support-v4
+4	#DEP#animated-vector-drawable-25.0.0
+5	#DEP#appcompat-v7-25.0.0
+6	#DEP#butterknife
+7	#DEP#com-crashlytics-android
+8	#DEP#com-noveogroup-android-log
+9	#DEP#com-squareup-otto
+10	#DEP#io-fabric-sdk-android
+11	#DEP#multidex-1.0.1
+12	#DEP#okhttp3
+13	#DEP#org-chromium
+14	#DEP#org-slf4j
+15	#DEP#support-annotations-25.0.0

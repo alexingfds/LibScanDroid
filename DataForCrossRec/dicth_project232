@@ -1,0 +1,16 @@
+1	project232
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-25.1.0
+4	#DEP#com-android-volley
+5	#DEP#com-bumptech-glide
+6	#DEP#com-crashlytics-android
+7	#DEP#design-25.1.0
+8	#DEP#gson-2.8.0
+9	#DEP#io-fabric-sdk-android
+10	#DEP#kotlin
+11	#DEP#multidex-1.0.2
+12	#DEP#org-intellij-lang-annotations
+13	#DEP#org-jetbrains-annotations
+14	#DEP#support-annotations-25.1.0
+15	#DEP#support-v13-25.1.0
+16	#DEP#transition-25.0.0

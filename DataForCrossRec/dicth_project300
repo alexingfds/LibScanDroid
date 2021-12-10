@@ -1,0 +1,13 @@
+1	project300
+2	#DEP#android-support-v4
+3	#DEP#com-beetstra-jutf7
+4	#DEP#com-bumptech-glide
+5	#DEP#com-getkeepsafe-relinker
+6	#DEP#com-github-amlcurran-showcaseview
+7	#DEP#com-handmark-pulltorefresh-library
+8	#DEP#com-jcraft-jzlib-RELEASE100
+9	#DEP#com-tokenautocomplete
+10	#DEP#org-apache
+11	#DEP#org-htmlcleaner
+12	#DEP#org-jdom2
+13	#DEP#support-annotations-22.2.0

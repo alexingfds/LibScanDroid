@@ -1,0 +1,15 @@
+1	project147
+2	#DEP#android-support-v4
+3	#DEP#com-android-vending-billing
+4	#DEP#com-crashlytics-android
+5	#DEP#com-fasterxml-jackson-core
+6	#DEP#com-google-gson
+7	#DEP#com-viewpagerindicator
+8	#DEP#design-23.1.1
+9	#DEP#dropbox-core-sdk-3.0.2
+10	#DEP#firebase-common-15.0.0
+11	#DEP#io-fabric-sdk-android
+12	#DEP#multidex-1.0.1
+13	#DEP#org-greenrobot-eventbus
+14	#DEP#org-slf4j
+15	#DEP#support-annotations-19.1.0

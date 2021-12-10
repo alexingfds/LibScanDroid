@@ -1,0 +1,6 @@
+1	project954
+2	#DEP#android-net
+3	#DEP#android-support-v4
+4	#DEP#com-android-internal-http-multipart
+5	#DEP#org-apache
+6	#DEP#support-annotations-22.2.0

@@ -1,0 +1,12 @@
+1	project543
+2	#DEP#butterknife
+3	#DEP#com-android-databinding-library
+4	#DEP#com-google-gson
+5	#DEP#com-samskivert-mustache
+6	#DEP#constraint-layout-1.0.2
+7	#DEP#dagger
+8	#DEP#multidex-1.0.1
+9	#DEP#okhttp3
+10	#DEP#org-reactivestreams
+11	#DEP#support-annotations-25.1.0
+12	#DEP#transition-25.0.0

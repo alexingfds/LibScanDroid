@@ -1,0 +1,17 @@
+1	project117
+2	#DEP#annotation-1.1.0
+3	#DEP#appcompat-1.0.0
+4	#DEP#collection-1.1.0
+5	#DEP#core-1.0.0
+6	#DEP#core-1.0.2
+7	#DEP#core-common-2.0.0
+8	#DEP#cursoradapter-1.0.0
+9	#DEP#customview-1.0.0
+10	#DEP#drawerlayout-1.0.0
+11	#DEP#fragment-1.0.0
+12	#DEP#interpolator-1.0.0
+13	#DEP#lifecycle-common-2.0.0
+14	#DEP#loader-1.0.0
+15	#DEP#vectordrawable-animated-1.0.0
+16	#DEP#versionedparcelable-1.0.0
+17	#DEP#viewpager-1.0.0

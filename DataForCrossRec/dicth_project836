@@ -1,0 +1,9 @@
+1	project836
+2	#DEP#android-annotation
+3	#DEP#android-support-v4
+4	#DEP#com-google-gson
+5	#DEP#junit-extensions
+6	#DEP#junit-framework
+7	#DEP#junit-runner
+8	#DEP#junit-textui
+9	#DEP#org-apache

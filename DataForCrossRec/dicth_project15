@@ -1,0 +1,9 @@
+1	project15
+2	#DEP#android-support-v4
+3	#DEP#com-actionbarsherlock
+4	#DEP#com-android-vending-billing
+5	#DEP#com-jakewharton-disklrucache
+6	#DEP#com-nostra13-universalimageloader
+7	#DEP#com-slidingmenu-lib
+8	#DEP#com-viewpagerindicator
+9	#DEP#support-annotations-19.1.0

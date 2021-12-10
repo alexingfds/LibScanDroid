@@ -1,0 +1,16 @@
+1	project585
+2	#DEP#com-dd-processbutton
+3	#DEP#com-google-gson
+4	#DEP#com-handmark-pulltorefresh-library
+5	#DEP#com-todddavies-components-progressbar
+6	#DEP#de-mindpipe-android-logging-log4j
+7	#DEP#facebook-messenger-4.27.0
+8	#DEP#it-sephiroth-android-library
+9	#DEP#multidex-1.0.2
+10	#DEP#org-reactivestreams
+11	#DEP#percent-24.0.0
+12	#DEP#stetho-1.4.2
+13	#DEP#support-annotations-25.1.0
+14	#DEP#support-v13-25.1.0
+15	#DEP#transition-25.0.0
+16	#DEP#xutils-3.5.0

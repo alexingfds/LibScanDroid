@@ -1,0 +1,14 @@
+1	project581
+2	#DEP#butterknife
+3	#DEP#com-google-gson
+4	#DEP#com-hannesdorfmann-adapterdelegates3
+5	#DEP#com-miguelcatalan-materialsearchview
+6	#DEP#com-squareup-leakcanary
+7	#DEP#com-yarolegovich-discretescrollview
+8	#DEP#dagger
+9	#DEP#io-realm
+10	#DEP#javax-annotation
+11	#DEP#okhttp3
+12	#DEP#org-reactivestreams
+13	#DEP#support-annotations-27.1.0
+14	#DEP#transition-27.1.0

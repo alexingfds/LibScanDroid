@@ -1,0 +1,14 @@
+1	project362
+2	#DEP#android-content-pm
+3	#DEP#android-support-v4
+4	#DEP#com-adjust-sdk
+5	#DEP#com-android-vending
+6	#DEP#com-dropbox-client2
+7	#DEP#com-google-android
+8	#DEP#com-jni-annotation
+9	#DEP#design-24.1.0
+10	#DEP#gson-2.3.1
+11	#DEP#net-hockeyapp-android
+12	#DEP#org-apache
+13	#DEP#org-json-simple
+14	#DEP#support-vector-drawable-23.2.0

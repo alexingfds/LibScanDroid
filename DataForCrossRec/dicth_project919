@@ -1,0 +1,5 @@
+1	project919
+2	#DEP#android-support-v4
+3	#DEP#com-j256-ormlite
+4	#DEP#gson-2.2.1
+5	#DEP#org-apache

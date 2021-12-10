@@ -1,0 +1,13 @@
+1	project449
+2	#DEP#android
+3	#DEP#com-dropbox-client2
+4	#DEP#com-sun
+5	#DEP#javax-activation
+6	#DEP#mailapi-1.4.2
+7	#DEP#microsoft-mappoint
+8	#DEP#myjava-awt-datatransfer
+9	#DEP#org-apache
+10	#DEP#org-json-simple
+11	#DEP#org-metalev-multitouch-controller
+12	#DEP#org-osmdroid
+13	#DEP#org-slf4j

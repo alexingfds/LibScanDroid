@@ -1,0 +1,11 @@
+1	project18
+2	#DEP#android-support-v4
+3	#DEP#com-android
+4	#DEP#com-dropbox-client2
+5	#DEP#com-nostra13-universalimageloader
+6	#DEP#com-viewpagerindicator
+7	#DEP#design-24.1.0
+8	#DEP#org-apache-http-entity-mime
+9	#DEP#org-json-simple
+10	#DEP#support-annotations-27.0.0
+11	#DEP#uk-co-senab-photoview

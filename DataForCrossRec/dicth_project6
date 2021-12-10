@@ -1,0 +1,15 @@
+1	project6
+2	#DEP#android-support-v4
+3	#DEP#com-alibaba-fastjson
+4	#DEP#com-baidu
+5	#DEP#com-hp-hpl-sparta
+6	#DEP#com-jcraft-jzlib-RELEASE100
+7	#DEP#com-nostra13-universalimageloader
+8	#DEP#com-umeng
+9	#DEP#com-xiaomi
+10	#DEP#demo
+11	#DEP#net-sourceforge-pinyin4j
+12	#DEP#org-apache
+13	#DEP#org-jivesoftware
+14	#DEP#org-pjsip
+15	#DEP#org-xbill-DNS

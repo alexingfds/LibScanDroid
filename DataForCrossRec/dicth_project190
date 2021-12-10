@@ -1,0 +1,13 @@
+1	project190
+2	#DEP#acra-4.9.0
+3	#DEP#android-support-v4
+4	#DEP#animated-vector-drawable-23.2.0
+5	#DEP#appcompat-v7-23.3.0
+6	#DEP#ch-acra-acra
+7	#DEP#com-android
+8	#DEP#de-psdev-licensesdialog
+9	#DEP#javax-annotation
+10	#DEP#joda-time-2.9.5
+11	#DEP#net-danlew-android-joda
+12	#DEP#net-margaritov-preference-colorpicker
+13	#DEP#support-annotations-25.1.0

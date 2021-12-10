@@ -1,0 +1,12 @@
+1	project786
+2	#DEP#android-net-http
+3	#DEP#android-support-v4
+4	#DEP#com-google-zxing
+5	#DEP#com-tencent-mm
+6	#DEP#com-umeng
+7	#DEP#com-viewpagerindicator
+8	#DEP#org-apache
+9	#DEP#org-kobjects
+10	#DEP#org-ksoap2
+11	#DEP#org-kxml2
+12	#DEP#org-xmlpull-v1

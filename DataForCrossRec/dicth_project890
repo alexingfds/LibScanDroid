@@ -1,0 +1,17 @@
+1	project890
+2	#DEP#android-support-v4
+3	#DEP#appcompat-v7-26.0.0
+4	#DEP#com-bumptech-glide
+5	#DEP#com-ta-utdid2
+6	#DEP#com-umeng
+7	#DEP#com-ut-device
+8	#DEP#constraintlayout-1.1.0
+9	#DEP#gson-2.8.0
+10	#DEP#libcore-io
+11	#DEP#net-tsz-afinal
+12	#DEP#okhttp3
+13	#DEP#org-htmlparser
+14	#DEP#org-litepal
+15	#DEP#rx
+16	#DEP#support-annotations-26.0.0
+17	#DEP#uk-co-senab-photoview

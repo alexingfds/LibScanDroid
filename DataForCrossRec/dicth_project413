@@ -1,0 +1,8 @@
+1	project413
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#appcompat-v7-27.0.2
+5	#DEP#design-25.0.0
+6	#DEP#transition-24.2.0
+7	#DEP#transition-28.0.0
+8	#DEP#versionedparcelable-1.0.0

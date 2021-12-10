@@ -1,0 +1,15 @@
+1	project571
+2	#DEP#com-bumptech-glide
+3	#DEP#com-daimajia-swipe
+4	#DEP#com-google-gson
+5	#DEP#com-j256-ormlite
+6	#DEP#com-localytics-android
+7	#DEP#com-loopj-android-http
+8	#DEP#com-samsung-android-sdk
+9	#DEP#de-greenrobot-event
+10	#DEP#io-branch
+11	#DEP#javax-annotation
+12	#DEP#multidex-1.0.1
+13	#DEP#org-jsoup
+14	#DEP#org-springframework
+15	#DEP#retrofit

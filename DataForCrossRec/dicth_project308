@@ -1,0 +1,16 @@
+1	project308
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#com-android
+5	#DEP#com-balysv-materialmenu-ps
+6	#DEP#com-bumptech-glide
+7	#DEP#com-mikepenz
+8	#DEP#com-nineoldandroids
+9	#DEP#com-quinny898-library-persistentsearch
+10	#DEP#design-26.0.0
+11	#DEP#io-codetailps
+12	#DEP#me-gujun-android-taggroup
+13	#DEP#net-i2p-android-ext-floatingactionbutton
+14	#DEP#support-annotations-26.0.0
+15	#DEP#tourguide-tourguide
+16	#DEP#transition-26.0.0

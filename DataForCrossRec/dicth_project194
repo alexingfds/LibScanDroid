@@ -1,0 +1,9 @@
+1	project194
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#appcompat-v7-27.0.0
+5	#DEP#com-android-vending-billing
+6	#DEP#com-crashlytics-android
+7	#DEP#io-fabric-sdk-android
+8	#DEP#org-achartengine
+9	#DEP#transition-24.2.0

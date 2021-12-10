@@ -1,0 +1,5 @@
+1	project686
+2	#DEP#android-support-v4
+3	#DEP#com-dropbox-client2
+4	#DEP#org-apache-http-entity-mime
+5	#DEP#org-json-simple

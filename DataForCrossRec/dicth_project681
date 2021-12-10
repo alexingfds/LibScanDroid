@@ -1,0 +1,9 @@
+1	project681
+2	#DEP#android-annotation
+3	#DEP#android-support-v4
+4	#DEP#com-google-gson
+5	#DEP#org-achartengine
+6	#DEP#org-kobjects
+7	#DEP#org-ksoap2
+8	#DEP#org-kxml2
+9	#DEP#org-xmlpull-v1

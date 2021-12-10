@@ -1,0 +1,11 @@
+1	project127
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-23.2.0
+4	#DEP#appintro-4.1.0
+5	#DEP#design-24.2.0
+6	#DEP#junit-extensions
+7	#DEP#junit-framework
+8	#DEP#junit-textui
+9	#DEP#org-hamcrest
+10	#DEP#org-junit
+11	#DEP#support-annotations-24.0.0

@@ -1,0 +1,14 @@
+1	project422
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#com-amulyakhare-textdrawable
+5	#DEP#com-google-zxing
+6	#DEP#com-nineoldandroids
+7	#DEP#com-rengwuxian-materialedittext
+8	#DEP#com-tozny-crypto-android
+9	#DEP#constraint-layout-1.0.2
+10	#DEP#design-26.0.0
+11	#DEP#me-dm7-barcodescanner
+12	#DEP#org-apache-commons
+13	#DEP#support-annotations-26.0.0
+14	#DEP#transition-26.0.0

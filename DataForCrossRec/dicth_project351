@@ -1,0 +1,17 @@
+1	project351
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-23.2.0
+4	#DEP#brut-androlib
+5	#DEP#brut-common
+6	#DEP#brut-util
+7	#DEP#butterknife
+8	#DEP#ch-qos-logback
+9	#DEP#com-afollestad-materialdialogs
+10	#DEP#com-fasterxml-jackson
+11	#DEP#com-mindprod-ledatastream
+12	#DEP#jsch-0.1.51
+13	#DEP#me-zhanghai-android-materialprogressbar
+14	#DEP#org-apache-commons
+15	#DEP#org-greenrobot-eventbus
+16	#DEP#org-slf4j
+17	#DEP#support-annotations-24.0.0

@@ -1,0 +1,13 @@
+1	project591
+2	#DEP#gnu-bytecode
+3	#DEP#gnu-commonlisp
+4	#DEP#gnu-ecmascript
+5	#DEP#gnu-expr
+6	#DEP#gnu-lists
+7	#DEP#gnu-mapping
+8	#DEP#gnu-math
+9	#DEP#gnu-q2-lang
+10	#DEP#gnu-text
+11	#DEP#gnu-xml
+12	#DEP#kawa
+13	#DEP#org-acra

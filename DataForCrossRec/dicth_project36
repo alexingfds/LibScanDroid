@@ -1,0 +1,16 @@
+1	project36
+2	#DEP#android-support-v4
+3	#DEP#cardview-v7-23.2.1
+4	#DEP#dagger
+5	#DEP#guava-15.0
+6	#DEP#javax-inject
+7	#DEP#junit-extensions
+8	#DEP#junit-framework
+9	#DEP#junit-textui
+10	#DEP#me-dm7-barcodescanner
+11	#DEP#net-sourceforge-zbar
+12	#DEP#org-hamcrest
+13	#DEP#org-junit
+14	#DEP#org-objenesis
+15	#DEP#support-annotations-22.2.0
+16	#DEP#support-v13-23.0.0

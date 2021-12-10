@@ -1,0 +1,12 @@
+1	project427
+2	#DEP#android-content-pm
+3	#DEP#android-support-v4
+4	#DEP#com-afollestad-materialdialogs
+5	#DEP#com-gc-materialdesign
+6	#DEP#com-jaredrummler-android-colorpicker
+7	#DEP#com-mikepenz
+8	#DEP#constraint-layout-1.0.2
+9	#DEP#gson-2.8.0
+10	#DEP#me-zhanghai-android-materialprogressbar
+11	#DEP#org-apache-commons-io
+12	#DEP#support-annotations-25.1.0

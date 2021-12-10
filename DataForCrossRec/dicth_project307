@@ -1,0 +1,16 @@
+1	project307
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#at-blogc
+5	#DEP#butterknife
+6	#DEP#com-fasterxml-jackson
+7	#DEP#com-sothree-slidinguppanel
+8	#DEP#com-squareup
+9	#DEP#de-greenrobot-event
+10	#DEP#design-26.0.0
+11	#DEP#javax-jmdns
+12	#DEP#org-slf4j
+13	#DEP#preference-v14-26.0.0
+14	#DEP#recyclerview-fastscroll-1.0.19
+15	#DEP#support-annotations-19.1.0
+16	#DEP#support-vector-drawable-25.4.0

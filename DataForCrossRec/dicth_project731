@@ -1,0 +1,9 @@
+1	project731
+2	#DEP#android-net-http
+3	#DEP#android-webkit
+4	#DEP#junit-extensions
+5	#DEP#junit-framework
+6	#DEP#junit-runner
+7	#DEP#junit-textui
+8	#DEP#org-apache
+9	#DEP#org-codehaus-jackson

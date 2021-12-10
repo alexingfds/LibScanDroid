@@ -1,0 +1,11 @@
+1	project193
+2	#DEP#android-support-v4
+3	#DEP#com-google-zxing
+4	#DEP#design-24.2.0
+5	#DEP#multidex-1.0.1
+6	#DEP#org-joda-time
+7	#DEP#org-reactivestreams
+8	#DEP#org-slf4j
+9	#DEP#scala
+10	#DEP#support-annotations-19.1.0
+11	#DEP#support-vector-drawable-23.4.0

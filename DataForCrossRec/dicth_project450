@@ -1,0 +1,10 @@
+1	project450
+2	#DEP#acra-4.7.0
+3	#DEP#android-support-v4
+4	#DEP#com-esotericsoftware
+5	#DEP#cz-msebera-android-httpclient
+6	#DEP#org-apache-commons-lang3
+7	#DEP#org-ccil-cowan-tagsoup
+8	#DEP#org-objectweb-asm
+9	#DEP#org-objenesis
+10	#DEP#support-annotations-19.1.0

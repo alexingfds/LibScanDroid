@@ -1,0 +1,5 @@
+1	project648
+2	#DEP#android-annotation
+3	#DEP#com-ibm-mqtt
+4	#DEP#com-umeng
+5	#DEP#org-apache-http-entity-mime

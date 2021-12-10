@@ -1,0 +1,8 @@
+1	project470
+2	#DEP#com-badlogic-gdx
+3	#DEP#gson-2.8.5
+4	#DEP#junit-extensions
+5	#DEP#junit-framework
+6	#DEP#junit-textui
+7	#DEP#org-hamcrest
+8	#DEP#org-junit

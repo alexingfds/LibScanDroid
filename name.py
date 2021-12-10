@@ -1,1 +1,12 @@
-namesfoldTraining = ['fold_1Training.csv','fold_2Training.csv','fold_3Training.csv','fold_4Training.csv','fold_5Training.csv','fold_6Training.csv','fold_7Training.csv','fold_8Training.csv','fold_9Training.csv','fold_10Training.csv']
+
+stepepsilondata=0.01
+maxstep=0.3
+for maxepsliondata in range(0, 11, 1):
+    print("maxepslion",maxepsliondata/10)
+    for nombrepointdata in range(1,21,1):
+        print("nombrepoint",nombrepointdata)
+        for stepepsliondata in range(0,21,1):
+            print("stepepsilon",stepepsliondata/100)
+            print("woy")
+
+        # while(stepepsilondata < maxstep):

@@ -1,0 +1,16 @@
+1	project26
+2	#DEP#android-support-v4
+3	#DEP#appcompat-v7-22.2.1
+4	#DEP#gnu-bytecode
+5	#DEP#gnu-commonlisp
+6	#DEP#gnu-ecmascript
+7	#DEP#gnu-expr
+8	#DEP#gnu-lists
+9	#DEP#gnu-mapping
+10	#DEP#gnu-math
+11	#DEP#gnu-text
+12	#DEP#gnu-xml
+13	#DEP#gnu-xquery
+14	#DEP#kawa
+15	#DEP#org-acra
+16	#DEP#support-annotations-22.2.0

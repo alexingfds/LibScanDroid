@@ -1,0 +1,13 @@
+1	project59
+2	#DEP#acra-4.6.2
+3	#DEP#android-support-v4
+4	#DEP#animated-vector-drawable-25.1.0
+5	#DEP#com-afollestad-materialdialogs
+6	#DEP#com-getbase-floatingactionbutton
+7	#DEP#customtabs-25.0.0
+8	#DEP#design-25.1.0
+9	#DEP#gson-2.4
+10	#DEP#me-zhanghai-android-materialprogressbar
+11	#DEP#support-annotations-25.1.0
+12	#DEP#timber-log
+13	#DEP#transition-25.0.0

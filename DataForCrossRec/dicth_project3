@@ -1,0 +1,6 @@
+1	project3
+2	#DEP#android-annotation
+3	#DEP#android-support-v4
+4	#DEP#com-umeng
+5	#DEP#jsoup-1.6.3
+6	#DEP#org-apache

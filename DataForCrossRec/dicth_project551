@@ -1,0 +1,11 @@
+1	project551
+2	#DEP#android-beacon-library-2.7
+3	#DEP#android-support-v4
+4	#DEP#barcodescanner-xservices-nl-barcodescanner
+5	#DEP#com-google-android
+6	#DEP#com-google-zxing
+7	#DEP#com-phonegap-plugins-barcodescanner
+8	#DEP#de-appplant-cordova-plugin
+9	#DEP#nl-xservices-plugins
+10	#DEP#org-pushandplay-cordova-apprate
+11	#DEP#support-annotations-24.0.0

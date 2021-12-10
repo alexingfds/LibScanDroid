@@ -1,0 +1,13 @@
+1	project537
+2	#DEP#android-support-v4
+3	#DEP#com-bumptech-glide
+4	#DEP#com-crashlytics-android
+5	#DEP#com-google-android
+6	#DEP#com-gun0912-tedpermission
+7	#DEP#com-jcraft-jzlib-RELEASE100
+8	#DEP#com-squareup
+9	#DEP#design-23.1.1
+10	#DEP#gson-2.8.2
+11	#DEP#io-fabric-sdk-android
+12	#DEP#org-eclipse-paho-client-mqttv3
+13	#DEP#support-annotations-22.2.0

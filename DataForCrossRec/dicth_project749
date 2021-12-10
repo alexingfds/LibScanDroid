@@ -1,0 +1,9 @@
+1	project749
+2	#DEP#android-annotation
+3	#DEP#gson-1.7.1
+4	#DEP#oauth-signpost
+5	#DEP#org-apache
+6	#DEP#org-json
+7	#DEP#org-slf4j
+8	#DEP#protolite-well-known-types-15.0.0
+9	#DEP#twitter4j

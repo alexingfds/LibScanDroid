@@ -1,0 +1,11 @@
+1	project671
+2	#DEP#android-annotation
+3	#DEP#com-google-gson
+4	#DEP#com-j256-ormlite
+5	#DEP#com-sun
+6	#DEP#com-umeng
+7	#DEP#javax-activation
+8	#DEP#mailapi-1.4.2
+9	#DEP#myjava-awt-datatransfer
+10	#DEP#support-annotations-19.1.0
+11	#DEP#support-v4-19.1.0

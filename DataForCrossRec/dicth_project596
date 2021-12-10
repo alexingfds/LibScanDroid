@@ -1,0 +1,17 @@
+1	project596
+2	#DEP#Java-WebSocket-1.3.0
+3	#DEP#android-support-v4
+4	#DEP#fi-iki-elonen
+5	#DEP#io-fabric-sdk-android
+6	#DEP#master-flame-danmaku
+7	#DEP#multidex-1.0.1
+8	#DEP#net-lingala-zip4j
+9	#DEP#org-apache-thrift
+10	#DEP#org-aspectj
+11	#DEP#org-eclipse-paho-client-mqttv3
+12	#DEP#org-jdesktop-application
+13	#DEP#org-json-alipay
+14	#DEP#org-simpleframework-xml
+15	#DEP#retrofit
+16	#DEP#support-annotations-22.2.0
+17	#DEP#tv-cjump-jni

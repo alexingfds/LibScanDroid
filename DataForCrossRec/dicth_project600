@@ -1,0 +1,13 @@
+1	project600
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-25.1.0
+4	#DEP#bolts
+5	#DEP#constraint-layout-1.0.2
+6	#DEP#customtabs-25.0.0
+7	#DEP#in-srain-cube-views-ptr
+8	#DEP#jp-wasabeef-recyclerview
+9	#DEP#okhttp3
+10	#DEP#org-greenrobot-greendao
+11	#DEP#support-annotations-25.0.0
+12	#DEP#support-v13-25.1.0
+13	#DEP#twitter4j

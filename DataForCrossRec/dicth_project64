@@ -1,0 +1,13 @@
+1	project64
+2	#DEP#android-database-sqlcipher-3.5.3
+3	#DEP#butterknife
+4	#DEP#com-daimajia-swipe
+5	#DEP#com-github
+6	#DEP#com-leanplum
+7	#DEP#com-yarolegovich-discretescrollview
+8	#DEP#javax-inject
+9	#DEP#okhttp3
+10	#DEP#org-greenrobot-eventbus
+11	#DEP#org-joda-time
+12	#DEP#pl-droidsonroids-gif
+13	#DEP#transition-26.0.0

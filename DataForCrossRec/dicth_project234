@@ -1,0 +1,9 @@
+1	project234
+2	#DEP#android-support-v4
+3	#DEP#animated-vector-drawable-25.0.0
+4	#DEP#com-android-volley
+5	#DEP#constraint-layout-1.0.2
+6	#DEP#design-25.0.0
+7	#DEP#preference-v14-24.2.0
+8	#DEP#support-annotations-25.0.0
+9	#DEP#transition-25.0.0

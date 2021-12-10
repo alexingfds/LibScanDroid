@@ -1,0 +1,5 @@
+1	project509
+2	#DEP#android-support-v4
+3	#DEP#com-fasterxml-jackson
+4	#DEP#com-squareup-okhttp
+5	#DEP#support-annotations-22.2.0

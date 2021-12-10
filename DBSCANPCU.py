@@ -97,6 +97,16 @@ def ligne(file, sep=","):
     # print(lignes)
     return lignes
 
+def lignerange(file,pos, sep=","):
+    slide =[]
+    f = open(file, "r")
+    r = csv.reader(f, delimiter=sep)
+    lignes = list(r)
+    f.close()
+    # print(lignes)
+    for ligne in range(pos):
+        slide.append(lignes[pos])
+    return slide
 
 def similarity(lib1, lib2, arraysource):
     # arraysource = ligne(input)
@@ -122,10 +132,10 @@ def similarity(lib1, lib2, arraysource):
 
         if (elem[index2] == '1'):
             countapplib2 = countapplib2 + 1
-    lib1similarity = similarity / countapplib1
-    lib2similarity = similarity / countapplib2
+    # lib1similarity = similarity / countapplib1
+    # lib2similarity = similarity / countapplib2
     usim = similarity / (countapplib2 + countapplib1 - similarity)
-    average_similarity = (lib2similarity + lib1similarity) / 2
+    # average_similarity = (lib2similarity + lib1similarity) / 2
     return usim
 
 def recScore(library,arraysource):
@@ -221,7 +231,7 @@ def dbscan(arraysource, minpoint, epsilon):
 
 def relaxdbscan(arraysource, epsilon, minpoint,maxEpsilon):
     history = []
-    pas = 0.1
+    # pas = 0.01
     while (epsilon <= maxEpsilon):
         resultdbscan = dbscan(arraysource, minpoint, epsilon)
         history.append(resultdbscan.getarray())
@@ -230,7 +240,7 @@ def relaxdbscan(arraysource, epsilon, minpoint,maxEpsilon):
         print('element to remove' + str(indextoremove))
         arraysource = updateDB(arraysource, indextoremove)
         # print(arraysource)
-        epsilon = epsilon + pas
+        epsilon = epsilon + epsilonStep
         print('epsilon = ' + str(epsilon))
     # print(history)
     return resultdbscan.getarray()
@@ -386,66 +396,88 @@ def scoreLibrary():
                     nbapp = nbapp + 1
             Scoredictlibrary[str(lib[0])] = nbapp / len(lib)
     return Scoredictlibrary
+
+
 if __name__ == "__main__":
+    # for maxepsliondata in range(5, 11, 1):
+    #     print("maxepslion", maxepsliondata / 10)
+    #     for nombrepointdata in range(1, 21, 1):
+    #         print("nombrepoint", nombrepointdata)
+    #         for stepepsilondata in range(1, 21, 1):
+    #             print("stepepsilon", stepepsilondata / 100)
+    #
 
-    for maxepsilonvariable in range(2,20):
-        # C = 0
-        # index = [1, 2, 3]
-        dataa = []
-        subdatajson = []
+                # C = 0
+                # index = [1, 2, 3]
+                # dataa = []
+                # subdatajson = []
+                # minpt =nombrepointdata
+                #
+                #
+                # minimumpoints =minpt
+                # # minpt = minimumpoints -1
+                # eps = 0
+                # maxEpsilon = maxepsliondata/10
+                # # maxEpsilon = maxepsilonvariable/10
+                # epsilonStep = stepepsilondata/100
 
+                dataa = []
+                subdatajson = []
+                minpt = 1
 
-        # minpt = 5
-        minpt = maxepsilonvariable
-        eps = 0
-        maxEpsilon = 0.6
-        # maxEpsilon = maxepsilonvariable/10
-        epsilonStep = 0.012
-        print('EDBSCAN')
-        print('maxEpsilon : ' + str(maxEpsilon))
-        print('epsilonStep :' + str(epsilonStep))
-        print('minimum points :' + str(minpt))
+                minimumpoints = minpt
+                # minpt = minimumpoints -1
+                eps = 0
+                maxEpsilon = 0.75
+                # maxEpsilon = maxepsilonvariable/10
+                epsilonStep = 0.05
 
-
-        dictlibrary = {}
-        Scoredictlibrary ={}
-        file = 'samplesortie1.csv'
-
-        arraysource = ligne(file)
-        arraysourc = ligne(file)
-        arraysourceforscorelibrary =arraysource
-        scoreLibrary()
-
-        for elem in arraysourc[0]:
-            if (arraysourc[0].index(elem) != 0):
-                dictlibrary[str(elem)] = elem
-
-        nbrlibrary = len(arraysourc[0])
-        nbrapplication = len(arraysourc)
-        print('nombre de librairies: ' + str(nbrlibrary))
-        print('nombre dapplications :' + str(nbrapplication))
-        stringdataname = 'DatamaxEpsilon' + str(maxEpsilon) + 'epsilonStep' + str(epsilonStep) + 'minpoint' + str(
-            minpt) + 'strnblibrairie' + str(nbrlibrary)+'Date'+str(datetime.now().strftime("%d_%m_%Y_%H_%M_%S"))
-        print(stringdataname)
-        resultdbscan = relaxdbscan(arraysourc, eps, minpt,maxEpsilon)
-        resulforevaluation = Evaluation(arraysource,maxEpsilon,dictlibrary,resultdbscan,minpt,nbrlibrary,nbrapplication,epsilonStep)
-        arrayofPatternForPUC = resulforevaluation.getPatternsForPCU()
+                print('EDBSCAN')
+                print('maxEpsilon : ' + str(maxEpsilon))
+                print('epsilonStep :' + str(epsilonStep))
+                print('minimum points :' + str(minimumpoints))
 
 
+                dictlibrary = {}
+                Scoredictlibrary ={}
+                file = 'echantillonmatrix.csv'
 
-        resulforevaluation.averagePuc(arrayofPatternForPUC)
+                arraysource = ligne(file)
+                arraysourc = ligne(file)
+                arraysourceforscorelibrary =arraysource
+                scoreLibrary()
+
+                for elem in arraysourc[0]:
+                    if (arraysourc[0].index(elem) != 0):
+                        dictlibrary[str(elem)] = elem
+
+                nbrlibrary = len(arraysourc[0])
+                nbrapplication = len(arraysourc)
+                print('nombre de librairies: ' + str(nbrlibrary))
+                print('nombre dapplications :' + str(nbrapplication))
+                stringdataname = 'DatamaxEpsilon' + str(maxEpsilon) + 'epsilonStep' + str(epsilonStep) + 'minpoint' + str(
+                    minimumpoints)
+                print(stringdataname)
+                resultdbscan = relaxdbscan(arraysourc, eps, minpt,maxEpsilon)
+                # resulforevaluation = Evaluation(arraysource,maxEpsilon,dictlibrary,resultdbscan,minimumpoints,nbrlibrary,nbrapplication,epsilonStep)
+                # arrayofPatternForPUC = resulforevaluation.getPatternsForPCU()
 
 
 
+                # resulforevaluation.averagePuc(arrayofPatternForPUC)
 
-        with open('DataJSONboucle/'+stringdataname+'.json', 'w') as fp:
-            json.dump(globaljsonvisualisation(geteachCluster(getAllClusters(resultdbscan, dictlibrary))), fp, indent=4)
-        print("result dbscan")
-        print(resultdbscan)
 
-        print('finished:'+stringdataname)
 
-        # print(recScore('core-1.0.0',arraysource))
+                # with open('datarapport.json', 'w') as fp:
+
+                with open('DataJSONboucledata/'+stringdataname+'.json', 'w') as fp:
+                    json.dump(globaljsonvisualisation(geteachCluster(getAllClusters(resultdbscan, dictlibrary))), fp, indent=4)
+                print("result dbscan")
+                print(resultdbscan)
+
+                print('finished:'+stringdataname)
+
+                # print(recScore('core-1.0.0',arraysource))
 
    
 

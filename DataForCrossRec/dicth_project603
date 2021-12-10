@@ -1,0 +1,17 @@
+1	project603
+2	#DEP#android-support-v4
+3	#DEP#box-android-content-sdk-1.0.1
+4	#DEP#com-antfortune-freeline
+5	#DEP#com-baidu
+6	#DEP#com-bumptech-glide
+7	#DEP#com-eclipsesource-json
+8	#DEP#com-fasterxml-jackson-core
+9	#DEP#com-google-gson
+10	#DEP#com-microsoft-live
+11	#DEP#com-nineoldandroids
+12	#DEP#dropbox-core-sdk-3.0.5
+13	#DEP#multidex-1.0.1
+14	#DEP#okhttp3
+15	#DEP#org-json-simple
+16	#DEP#recyclerview-v7-25.3.0
+17	#DEP#support-annotations-26.0.0

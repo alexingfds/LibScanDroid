@@ -1,0 +1,12 @@
+1	project546
+2	#DEP#analytics-6.1.3
+3	#DEP#com-antfortune-freeline
+4	#DEP#com-baoyz-swipemenulistview
+5	#DEP#com-handmark-pulltorefresh-library
+6	#DEP#com-nostra13-universalimageloader
+7	#DEP#com-ut-device
+8	#DEP#gson-2.3.1
+9	#DEP#multidex-1.0.1
+10	#DEP#okhttp3
+11	#DEP#org-reactivestreams
+12	#DEP#support-annotations-25.1.0

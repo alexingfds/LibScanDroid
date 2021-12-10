@@ -1,0 +1,16 @@
+project341	room-runtime-2.0.0
+project341	sqlite-2.0.0
+project341	swiperefreshlayout-1.0.0
+project341	transition-1.0.0
+project341	vectordrawable-1.0.0
+project341	versionedparcelable-1.0.0
+project341	viewpager-1.0.0
+project341	lifecycle-common-2.0.0
+project341	localbroadcastmanager-1.0.0
+project341	dagger
+project341	javax-inject
+project341	kotlin
+project341	retrofit2
+project341	rx
+project341	browser-1.0.0
+project341	com-squareup-leakcanary

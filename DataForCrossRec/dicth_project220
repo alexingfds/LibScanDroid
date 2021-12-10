@@ -1,0 +1,16 @@
+1	project220
+2	#DEP#android-support-v4
+3	#DEP#com-crashlytics-android
+4	#DEP#com-jakewharton
+5	#DEP#com-mixpanel-android
+6	#DEP#com-squareup
+7	#DEP#com-wdullaer-materialdatetimepicker
+8	#DEP#design-25.3.0
+9	#DEP#io-fabric-sdk-android
+10	#DEP#kotlin
+11	#DEP#me-zhanghai-android-materialprogressbar
+12	#DEP#okhttp3
+13	#DEP#org-ocpsoft-prettytime
+14	#DEP#org-threeten-bp
+15	#DEP#retrofit2
+16	#DEP#uk-co-chrisjenx-calligraphy

@@ -1,0 +1,15 @@
+1	project381
+2	#DEP#android-support-v4
+3	#DEP#appcompat-v7-23.0.0
+4	#DEP#com-bea-xml-stream
+5	#DEP#com-wutka-dtd
+6	#DEP#guava-12.0
+7	#DEP#javax-annotation
+8	#DEP#joda-time-2.2
+9	#DEP#microsoft-mappoint
+10	#DEP#org-acra
+11	#DEP#org-apache
+12	#DEP#org-metalev-multitouch-controller
+13	#DEP#org-simpleframework-xml
+14	#DEP#org-slf4j
+15	#DEP#support-annotations-22.2.0

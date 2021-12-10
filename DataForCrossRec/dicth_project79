@@ -1,0 +1,15 @@
+1	project79
+2	#DEP#com-google-gson
+3	#DEP#gnu-bytecode
+4	#DEP#gnu-commonlisp
+5	#DEP#gnu-ecmascript
+6	#DEP#gnu-expr
+7	#DEP#gnu-lists
+8	#DEP#gnu-mapping
+9	#DEP#gnu-math
+10	#DEP#gnu-text
+11	#DEP#gnu-xml
+12	#DEP#gnu-xquery
+13	#DEP#guava-14.0
+14	#DEP#kawa
+15	#DEP#org-acra

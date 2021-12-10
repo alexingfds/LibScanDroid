@@ -1,0 +1,17 @@
+1	project517
+2	#DEP#android-arch
+3	#DEP#android-support-v4
+4	#DEP#brut-androlib
+5	#DEP#brut-common
+6	#DEP#brut-util
+7	#DEP#ch-qos-logback
+8	#DEP#com-jcraft-jzlib
+9	#DEP#com-mindprod-ledatastream
+10	#DEP#design-27.0.0
+11	#DEP#org-bouncycastle
+12	#DEP#org-slf4j
+13	#DEP#org-spongycastle
+14	#DEP#prettytime-2.1.1.Final
+15	#DEP#support-annotations-19.1.0
+16	#DEP#support-vector-drawable-25.4.0
+17	#DEP#transition-27.0.0

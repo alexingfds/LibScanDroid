@@ -1,0 +1,10 @@
+1	project360
+2	#DEP#android-content-pm
+3	#DEP#com-adjust-sdk
+4	#DEP#com-android-vending
+5	#DEP#com-dropbox-client2
+6	#DEP#com-jni-annotation
+7	#DEP#design-24.1.0
+8	#DEP#net-hockeyapp-android
+9	#DEP#org-apache
+10	#DEP#org-json-simple

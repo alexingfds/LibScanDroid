@@ -1,0 +1,13 @@
+1	project883
+2	#DEP#butterknife
+3	#DEP#com-actionbarsherlock
+4	#DEP#com-android-vending-billing
+5	#DEP#com-crashlytics-android
+6	#DEP#com-squareup-otto
+7	#DEP#com-viewpagerindicator
+8	#DEP#dagger
+9	#DEP#javax-inject
+10	#DEP#org-codehaus-jackson
+11	#DEP#org-joda
+12	#DEP#support-v4-19.1.0
+13	#DEP#timber-log
