@@ -1,4 +1,0 @@
-1	app2
-2	#DEP#a
-3	#DEP#d
-4	#DEP#e

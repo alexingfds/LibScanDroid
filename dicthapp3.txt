@@ -1,3 +1,0 @@
-1	app3
-2	#DEP#f
-3	#DEP#a
