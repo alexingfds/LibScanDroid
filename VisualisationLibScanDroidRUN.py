@@ -440,7 +440,7 @@ if __name__ == "__main__":
 
                 dictlibrary = {}
                 Scoredictlibrary ={}
-                file = 'echantillonmatrix.csv'
+                file = 'Resources/echantillonmatrix.csv'
 
                 arraysource = ligne(file)
                 arraysourc = ligne(file)

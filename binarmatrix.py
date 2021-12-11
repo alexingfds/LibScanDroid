@@ -53,7 +53,7 @@ def dicthForPorjects(projects,datasource):
 
 
 if __name__ == "__main__":
-   arraysource = ligne("echantillon.csv",5)
+   arraysource = ligne("Resources/echantillon.csv",5)
    print("datasource",arraysource)
    librs =[]
    apps = []
@@ -89,7 +89,7 @@ for elem in appsansdoublon:
     arrayout.append(arrayelem)
 print("resultat final",arrayout)
 
-f = open('echantillonmatrix.csv', 'w')
+f = open('Resources/echantillonmatrix.csv', 'w')
 librsansdoublon.insert(0,'Applicatons/libraries')
 ligneEntete = ",".join(librsansdoublon) + "\n"
 f.write(ligneEntete)

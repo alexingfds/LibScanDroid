@@ -587,16 +587,16 @@ if __name__ == "__main__":
                 listTopRecommendationForThisApp=[]
                 print("The name of this app",thisapp)
                 if(thisapp!="Applicatons/libraries"):
-                    with open('LibApp/' + str(thisapp), 'w') as allLibThisApp:
+                    with open('Results/LibApp/' + str(thisapp), 'w') as allLibThisApp:
                         for allLib in dictlibraryinapp.get(thisapp):
                             allLibThisApp.write(thisapp + '\t' + allLib + '\n')
                 thisgroundTruthLib = slideGroundtruthNew(dictlibraryinapp.get(thisapp))
                 thisValidation = slideValidationNew(dictlibraryinapp.get(thisapp))
                 if (thisapp != "Applicatons/libraries"):
-                    with open('GroundLibApp/' + str(thisapp),'w') as groundTruthForThisApp:
+                    with open('Results/GroundLibApp/' + str(thisapp),'w') as groundTruthForThisApp:
                         for ground in thisgroundTruthLib:
                             groundTruthForThisApp.write(thisapp +'\t'+ground+'\n')
-                    with open('ValidationLibApp/' + str(thisapp),'w' ) as validationForThisApp:
+                    with open('Results/ValidationLibApp/' + str(thisapp),'w' ) as validationForThisApp:
                         for val in thisValidation:
                             validationForThisApp.write(thisapp +'\t'+val+'\n')
 
@@ -611,7 +611,7 @@ if __name__ == "__main__":
                 # print(len(dictRecScore))
                 if (thisapp != "Applicatons/libraries"):
                     listTopRecommendationForThisApp = getrecall(dictRecScore, 1000)
-                    with open('RecommendationLib/' + str(thisapp), 'w') as recLibForThisApp:
+                    with open('Results/RecommendationLib/' + str(thisapp), 'w') as recLibForThisApp:
                         for recLib in listTopRecommendationForThisApp:
                             recLibForThisApp.write(thisapp + '\t' + recLib + '\n')
                 list_topkLib = getrecall(dictRecScore,thistopk)
@@ -620,12 +620,12 @@ if __name__ == "__main__":
                     thisrank =getrecallrank(dictRecScore, thisValidation)
                     if(thisrank == None):
                         thisrank = 0
-                    append_list_as_row('RecallMRRresult/'+topkfilename,[fold,thisapp,1,thistopk, 1 if thisrank > 0 else 0, thisrank ])
+                    append_list_as_row('Results/RecallMRRresult/'+topkfilename,[fold,thisapp,1,thistopk, 1 if thisrank > 0 else 0, thisrank ])
                 else:
                     thisrank = getrecallrank(dictRecScore, thisValidation)
                     if (thisrank == None):
                         thisrank = 0
-                    append_list_as_row('RecallMRRresult/'+topkfilename, [fold, thisapp, 0, thistopk, 1 if thisrank > 0 else 0, thisrank ])
+                    append_list_as_row('Results/RecallMRRresult/'+topkfilename, [fold, thisapp, 0, thistopk, 1 if thisrank > 0 else 0, thisrank ])
                 print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++===')
                 print(thisapp)
                 print('liste all ordoner de recommandation',

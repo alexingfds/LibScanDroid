@@ -67,7 +67,7 @@ def writeFoldTraining(folds,validIndex,header_csv):
 
 if __name__ == '__main__':
     print("recall")
-    arraysource = ligne('samplesortichangename.csv')
+    arraysource = ligne('Resources/samplesortichangename.csv')
     print(getClientSystem(arraysource))
     # testlist=['a','b','c','d','e','f','g']
 
