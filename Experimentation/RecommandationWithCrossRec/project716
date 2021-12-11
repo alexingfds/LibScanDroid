@@ -1,0 +1,16 @@
+#DEP#android-annotation	1.399772631155466
+#DEP#android-support-v4	1.1623941052577544
+#DEP#support-annotations-19.1.0	1.0821460952605984
+#DEP#support-v4-21.0.2	1.0821460952605984
+#DEP#com-ut-device	1.0821460952605984
+#DEP#com-viewpagerindicator	0.9185074129842283
+#DEP#org-apache-http-entity-mime	0.9185074129842283
+#DEP#LBSAPIProtocol	0.9185074129842283
+#DEP#analytics-6.1.0	0.8705606692982062
+#DEP#com-nineoldandroids	0.8697290603308394
+#DEP#com-jg	0.8697290603308394
+#DEP#com-squareup-okhttp	0.8697290603308394
+#DEP#com-alibaba-fastjson	0.8697290603308394
+#DEP#support-annotations-22.2.0	0.8697290603308394
+#DEP#com-baidu	0.8697290603308394
+#DEP#com-nostra13-universalimageloader	0.8697290603308394

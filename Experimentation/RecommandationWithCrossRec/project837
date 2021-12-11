@@ -1,0 +1,14 @@
+#DEP#org-xmlpull-v1	1.2151508890718439
+#DEP#org-ksoap2	1.2151508890718439
+#DEP#org-kxml2	1.2151508890718439
+#DEP#android-support-v4	1.1880203301187617
+#DEP#android-annotation	1.096370607305004
+#DEP#org-dom4j	0.9784110517849205
+#DEP#org-apache	0.9784110517849205
+#DEP#com-google-zxing	0.7912039599326504
+#DEP#support-annotations-22.2.0	0.7912039599326504
+#DEP#design-23.1.1	0.7912039599326504
+#DEP#com-journeyapps-barcodescanner	0.7912039599326504
+#DEP#org-amse-ys-zip	0.7780863629168772
+#DEP#org-vimgadgets-linebreak	0.7780863629168772
+#DEP#org-bouncycastle	0.7780863629168772

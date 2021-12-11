@@ -1,0 +1,16 @@
+#DEP#support-annotations-22.2.0	1.4625045598144069
+#DEP#support-annotations-27.0.0	0.9491022060814067
+#DEP#design-23.0.0	0.9491022060814067
+#DEP#com-android-vending-billing	0.9491022060814067
+#DEP#org-apache	0.8585729803204856
+#DEP#org-slf4j	0.8585729803204856
+#DEP#org-simpleframework-xml	0.8585729803204856
+#DEP#microsoft-mappoint	0.8585729803204856
+#DEP#javax-annotation	0.8585729803204856
+#DEP#com-wutka-dtd	0.8585729803204856
+#DEP#org-metalev-multitouch-controller	0.8585729803204856
+#DEP#com-bea-xml-stream	0.8585729803204856
+#DEP#guava-12.0	0.8585729803204856
+#DEP#joda-time-2.2	0.8585729803204856
+#DEP#org-acra	0.8585729803204856
+#DEP#android-annotation	0.8342792725202186

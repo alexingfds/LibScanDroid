@@ -1,0 +1,15 @@
+#DEP#com-umeng	1.1544625739140346
+#DEP#protolite-well-known-types-15.0.0	0.9550628698673854
+#DEP#com-j256-ormlite	0.9197202250463751
+#DEP#android-net-http	0.9101851831366372
+#DEP#android-webkit	0.9101851831366372
+#DEP#org-apache	0.8847359842133395
+#DEP#org-htmlparser	0.8847359842133395
+#DEP#support-v4-13.0.0	0.8677407958463442
+#DEP#gson-2.2.2	0.8677407958463442
+#DEP#com-crashlytics-android	0.8656606850607008
+#DEP#transition-24.2.0	0.8656606850607008
+#DEP#io-fabric-sdk-android	0.8656606850607008
+#DEP#appcompat-v7-27.0.0	0.8656606850607008
+#DEP#android-arch	0.8656606850607008
+#DEP#com-android-vending-billing	0.8656606850607008

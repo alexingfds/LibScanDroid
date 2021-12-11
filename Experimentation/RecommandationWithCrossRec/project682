@@ -1,0 +1,14 @@
+#DEP#android-annotation	1.6779715727244593
+#DEP#android-support-v4	1.3908345531453925
+#DEP#net-sourceforge-pinyin4j	0.9750401371290794
+#DEP#demo	0.8861030075585977
+#DEP#org-apache-commons	0.8723666692186782
+#DEP#org-codehaus-jackson	0.7823386845918479
+#DEP#com-j256-ormlite	0.7823386845918479
+#DEP#org-apache	0.7817358956912094
+#DEP#com-ibm-mqtt	0.7817358956912094
+#DEP#com-viewpagerindicator	0.7770769263655898
+#DEP#com-google-zxing	0.7718043508656566
+#DEP#org-apache-http-entity-mime	0.7704309249283601
+#DEP#org-apache-http	0.7669087022949412
+#DEP#org-achartengine	0.7662277050665343

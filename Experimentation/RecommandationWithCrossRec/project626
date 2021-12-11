@@ -1,0 +1,12 @@
+#DEP#net-sourceforge-pinyin4j	1.6592860883956704
+#DEP#demo	1.6592860883956704
+#DEP#android-annotation	1.024668953335359
+#DEP#android-support-v4	1.0203422741320187
+#DEP#com-tencent-mm	0.7579442105982008
+#DEP#appcompat-v7-19.1.0	0.7553133451184765
+#DEP#gson-2.2.2	0.750437970374394
+#DEP#jsoup-1.6.1	0.7484826271760426
+#DEP#org-apache-http-entity-mime	0.7439665966501168
+#DEP#com-alipay-android-app	0.7439665966501168
+#DEP#org-w3c-dom	0.7385095803891318
+#DEP#org-apache-commons-codec	0.7385095803891318

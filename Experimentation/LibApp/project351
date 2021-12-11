@@ -1,0 +1,16 @@
+project351	android-support-v4
+project351	org-apache-commons
+project351	org-slf4j
+project351	org-greenrobot-eventbus
+project351	com-afollestad-materialdialogs
+project351	me-zhanghai-android-materialprogressbar
+project351	animated-vector-drawable-23.2.0
+project351	com-fasterxml-jackson
+project351	butterknife
+project351	support-annotations-24.0.0
+project351	ch-qos-logback
+project351	brut-androlib
+project351	brut-common
+project351	brut-util
+project351	com-mindprod-ledatastream
+project351	jsch-0.1.51

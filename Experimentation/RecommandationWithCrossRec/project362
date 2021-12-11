@@ -1,0 +1,12 @@
+#DEP#android-annotation	1.5430608114948283
+#DEP#org-json-simple	1.075203985780146
+#DEP#org-apache-http-entity-mime	1.000071816351629
+#DEP#support-annotations-22.2.0	0.9873814511357744
+#DEP#firebase-common-15.0.0	0.9075868251002911
+#DEP#com-android-vending-billing	0.9023128325110334
+#DEP#support-v13-27.1.0	0.8960064648899921
+#DEP#appcompat-v7-23.1.1	0.8938952492710824
+#DEP#org-apache	0.8892327926641164
+#DEP#javax-annotation	0.8892327926641164
+#DEP#guava-11.0.1	0.8892327926641164
+#DEP#com-google-gson	0.8892327926641164
