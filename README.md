@@ -28,5 +28,8 @@ sudo apt install python3.9
 ```
 ## Configuration
 
-In this directory ther is  the folling file that can be run separately:
+In this directory there is  the following file that can be run separately:
 (1) VisualisatonLibScanDroidRUN
+
+# Troubleshooting
+If you encounter any difficulties in working with the tool or the datasets, please do not hesitate to contact us at githe following email:  richardson.alexandre.1@ens.etsmtl.ca . We will try our best to answer you as soon as possible.
