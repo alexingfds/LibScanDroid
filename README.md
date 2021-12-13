@@ -28,8 +28,10 @@ sudo apt install python3.9
 ```
 ## Configuration
 
-In this directory there is  the following file that can be run separately:
-(1) VisualisatonLibScanDroidRUN
+In this directory there is  the following files that can be run separately:
+*  VisualisatonLibScanDroidRUN.py : For genarting recommandations and visualistion file.
+* tenFoldsTrainingRUN : perfoming ten fold cross validation
+*  RecallRateDBSCANRUN : Evaluate Recall rate and MRR.
 
 # Troubleshooting
 If you encounter any difficulties in working with the tool or the datasets, please do not hesitate to contact us at githe following email:  richardson.alexandre.1@ens.etsmtl.ca . We will try our best to answer you as soon as possible.
