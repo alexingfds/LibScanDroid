@@ -27,7 +27,7 @@ sudo apt install python3.9
 
 In this directory there is  the following files that can be run separately:
 * VisualisatonLibScanDroidRUN.py : For genarting recommandations and visualistion file. We can set the value of parameters (maxEpsiolon, Epsion, minPoint ..)
-* tenFoldsTrainingRUN : perfoming ten fold cross validation (PUC: pattern usage cohesion)
+* tenFoldsTrainingRUN : perfoming ten folds cross validation (PUC: pattern usage cohesion)
 * RecallRateDBSCANRUN : Evaluate Recall rate and MRR. (Evaluation of recommandation)
 
 # Troubleshooting
